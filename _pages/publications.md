@@ -5,12 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publications
+Published Work
 ====
 [DeepObfusCode: Source Code Obfuscation Through Sequence-to-Sequence Networks](https://arxiv.org/user/)
+
 arXiv: CryptoGraphy and Security 2019
 
 [Big Data Analysis of Labour Market Dynamics in Freelance Work Platforms](https://drive.google.com/open?id=1nOAZuAtAsVhJHUXCp3Re_1LSnE9LOerZ)
+
 UROP 2017-2018 Proceedings [link](https://urop.ust.hk/files/UROP%20Proceedings%202017-18.pdf)
 
 Research Projects
