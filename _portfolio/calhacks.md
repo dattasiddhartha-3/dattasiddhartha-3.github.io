@@ -10,6 +10,6 @@ Winner of Cal Hacks 5.0 (Epson Sponsor Award)
 
 Built AR goggles that helps Alzheimer's patients find lost objects using object detection. 
 
-https://www.youtube.com/watch?v=s6UWctGQRwA&feature=youtu.be
+[Video demo](https://www.youtube.com/watch?v=s6UWctGQRwA&feature=youtu.be)
 
-https://calhacks5.hackerearth.com/sprints/cal-hacks-50/dashboard/b436967/submission/
+[Hackathon submission](https://calhacks5.hackerearth.com/sprints/cal-hacks-50/dashboard/b436967/submission/)
