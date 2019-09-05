@@ -5,4 +5,11 @@ collection: portfolio
 ---
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/s6UWctGQRwA/0.jpg)](http://www.youtube.com/watch?v=s6UWctGQRwA)
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+Winner of Cal Hacks 5.0 (Epson Sponsor Award)
+
+Built AR goggles that helps Alzheimer's patients find lost objects using object detection. 
+
+https://www.youtube.com/watch?v=s6UWctGQRwA&feature=youtu.be
+
+https://calhacks5.hackerearth.com/sprints/cal-hacks-50/dashboard/b436967/submission/
