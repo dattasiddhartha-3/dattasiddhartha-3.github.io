@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[DeepObfusCode: Source Code Obfuscation Through Sequence-to-Sequence Networks](https://arxiv.org/user/)
+[DeepObfusCode: Source Code Obfuscation Through Sequence-to-Sequence Networks](https://arxiv.org/abs/1909.01837)
 
 arXiv: CryptoGraphy and Security 2019
 
