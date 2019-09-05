@@ -1,5 +1,5 @@
 ---
-title: "Cal Hacks 5.0"
+title: "Memory Palace: YOLO Object Detection to Locate Objects through Speech Recognition"
 excerpt: "Winning Cal Hacks with opencv YOLO object detection to detect coco daily life objects through Epson Moverio goggles for Alzheimer patients"
 collection: portfolio
 ---
