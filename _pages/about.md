@@ -13,31 +13,3 @@ I am final year undergraduate student at the Hong Kong University of Science and
 My primary experiences lie in building algorithmic trading strategies, quantifying qualitative scenarios and theories in psychology and organizational behavior, and developing statistical / deep learning models for NLP, numerical predictions, computer vision, etc. I have tried my hand at being a data scientist for startups, a trader at prop shops and investment banks, a research assistant in HKUST and UC Berkeley, and a co-founder for three startups. The one constant is my bottom-up approach to modelling a situation in any case: model a person's behavior, and you can model the outcome. 
 
 Feel free to go through my prior projects or publications and reach out :)
-
-
-
-
-
-
-
-
-
-Media exposure
-----
-* Education, Qualifications, Scholarships
-* Publications
-* Work Experience
-* Research Experience (?)
-* Competitions / Achievements
-* Side projects
-* Community Service
-
-
-
-Competition Achivements
----
-
-
-Scholarships
----
-
