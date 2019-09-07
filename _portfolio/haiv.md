@@ -1,6 +1,6 @@
 ---
 title: "HAIV: Computational Precision Medicine against HIV Drug Resistance"
-excerpt: "Built complete dAPP on WAVE platform with data transactions and smart contracts for placing sports bets with escrow to manage counterparty risk of betters and bookkeepers."
+excerpt: "HIV viral mutation prediction algorithm"
 collection: portfolio
 ---
 
