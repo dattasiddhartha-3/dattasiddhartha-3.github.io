@@ -1,6 +1,6 @@
 ---
 title: "Music Generation through Food Detection, Assignment of Music Notes to Distinct Items, and Utensil Impact Detection"
-excerpt: "Built complete dAPP on WAVE platform with data transactions and smart contracts for placing sports bets with escrow to manage counterparty risk of betters and bookkeepers."
+excerpt: "AR game for users to generate music from tapping on the food."
 collection: portfolio
 ---
 
