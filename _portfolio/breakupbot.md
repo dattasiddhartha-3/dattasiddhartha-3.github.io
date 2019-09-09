@@ -17,7 +17,9 @@ BreakupBot is an artificially intelligent therapeutic chatbot developed to aid i
 - Beta tested on Messenger, and produced prototype Android app on Android Studios
 
 Further reference and media: https://drive.google.com/open?id=0Bya0t6OLDU2FZFk1UzdiMU5qb1U 
+
 Coding reference: https://github.com/s-datta/BreakupBot 
+
 Initial AI protoype: https://www.facebook.com/BreakupBot-1260525560722276/ OR https://www.facebook.com/BreakupBot-20-1328526643902687/
 
 
