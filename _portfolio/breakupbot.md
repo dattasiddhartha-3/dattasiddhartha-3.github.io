@@ -4,6 +4,7 @@ excerpt: "BreakupBot is an artificially intelligent therapeutic chatbot develope
 collection: portfolio
 ---
 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/1NxWMQA7tlM/0.jpg)](https://www.youtube.com/watch?v=1NxWMQA7tlM)
 
 BreakupBot is an artificially intelligent therapeutic chatbot developed to aid in coping recovery of those enduring romantic breakups. 
 
