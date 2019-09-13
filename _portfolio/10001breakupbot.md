@@ -1,12 +1,20 @@
 ---
 title: "BreakupBot: An Artificial Intelligence Therapeutic Chatbot Conducting Empathetic Counselling via Heartrate Sentimental Analysis"
-excerpt: "BreakupBot is an artificially intelligent therapeutic chatbot developed to aid in coping recovery of those enduring romantic breakups. "
+excerpt: "BreakupBot is a therapeutic chatbot developed to help get over romantic breakups. Organically acquired 200+ users of varying demographics. The system, initially built to help people who could not get over breakups, uses scraped content from dating sites and builds a philosophical counselling knowledge graph as the decision tree for generating responses to user input."
 collection: portfolio
 ---
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/1NxWMQA7tlM/0.jpg)](https://www.youtube.com/watch?v=1NxWMQA7tlM)
 
 [Try the demo](https://www.facebook.com/BreakupBot-20-1328526643902687/) : Click "Send Message" to start interacting with the isolated NLP system
+
+The backstory of the project started off in my freshman year when my close friend got dumped by his girlfriend right before his final exams, and his GPA dropped from 3.7 to 2.7. It made me realize that even someone as intelligent as my friend could be vulnerable to the emotional dangers of romance. So I set out to figure out a way to help him recover. He did not want to talk about his situation with anyone and wanted to save "face", so I figured he could speak with a very smart bot.
+
+<object data="https://drive.google.com/open?id=0Bya0t6OLDU2FNTV2S2NKTmpMSHc" type="application/pdf" width="700px" height="700px">
+    <embed src="https://drive.google.com/open?id=0Bya0t6OLDU2FNTV2S2NKTmpMSHc">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 BreakupBot is an artificially intelligent therapeutic chatbot developed to aid in coping recovery of those enduring romantic breakups. 
 
