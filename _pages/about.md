@@ -36,6 +36,11 @@ Feel free to go through my prior projects or publications and reach out :)
 ### Publications:
 DeepObfusCode: Source Code Obfuscation Through Sequence-to-Sequence Networks (preprint)
 
+### Lab Experience:
++ Language and Children Development Lab (Prof. Mahesh Srinivasan, UC Berkeley)
++ CalUnmanned (Prof. Raja Sengupta, UC Berkeley)
++ Department of Management (Prof. Christy Zhou Koval, The Hong Kong University of Science and Technology)
+
 #### Scholarships/Honors:
 + Dean's List (2017-18, 2018-19)
 + Joseph Lau Luen Hung Charitable Trust Scholarship Hong Kong Award (HK$ 80,000 p.a.)
