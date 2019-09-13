@@ -17,7 +17,7 @@ Feel free to go through my prior projects or publications and reach out :)
 
 
 
-###### Competitions:
+##### Competitions:
 *2018*
 + CalHacks 5.0 - Winner (Epson Sponsor Award)
 + SacHacks 2018 - Winner (Smartcar 1st Runnerup, Best First-Time Hack, Best Domain Name, 3rd Overall)
@@ -33,15 +33,15 @@ Feel free to go through my prior projects or publications and reach out :)
 + Hack the Runway 2017 - CHAMPION
 + HardUST 2017 - 1st Runner-up
 
-###### Publications:
+##### Publications:
 preprint
 
 ###### Scholarships/Honors:
-Dean's List (2017-18, 2018-19)
-Joseph Lau Luen Hung Charitable Trust Scholarship Hong Kong Award (HK$ 80,000 p.a.)
-Li Ka Shing Foundation Scholarship for Innovation and Creativity (HK$ 50,000)
-Hong Kong Unison Scholarship (HK$ 15,000 p.a.)
-Br Bernard Guellec Memorial Prize for French
-Br Felix Sheehan Memorial Prize for English
-University Entrance Scholarship
-Harmony Scholarship (Home Affairs Bureau, HKSAR Government)
++ Dean's List (2017-18, 2018-19)
++ Joseph Lau Luen Hung Charitable Trust Scholarship Hong Kong Award (HK$ 80,000 p.a.)
++ Li Ka Shing Foundation Scholarship for Innovation and Creativity (HK$ 50,000)
++ Hong Kong Unison Scholarship (HK$ 15,000 p.a.)
++ Br Bernard Guellec Memorial Prize for French
++ Br Felix Sheehan Memorial Prize for English
++ University Entrance Scholarship
++ Harmony Scholarship (Home Affairs Bureau, HKSAR Government)
