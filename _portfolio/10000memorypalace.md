@@ -9,12 +9,13 @@ This is what the user sees.
 
 Over 24 hours our team built the embedded system that would permit Epson's Moverio goggles to detect specific objects for users. This included setting up voice recognition input for object commands, relaying the image from the goggles to a server PC, running an object detection system on the PC, and relaying the image in real-time back to the goggles. The object detection system was based on a Mask RCNN model trained on a modified image dataset. 
 
-[![IMAGE ALT TEXT](https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/ba06d3445330501_2205033879773905_1146807820524453888_n.jpg]
+[![IMAGE ALT TEXT](/images/ba06d3445330501_2205033879773905_1146807820524453888_n)]
 
 Completion of the object detection system backend: 
-[![IMAGE ALT TEXT](images/moverioimage.png)]
+[![IMAGE ALT TEXT](/images/moverioimage.png)]
 
-Preview of my teammate testing the goggles out in real-time, while my PC displays what he is seeing:
+Preview of my teammate testing the goggles out in real-time, while my PC displays what he is seeing (Click the [video]((http://www.youtube.com/watch?v=s6UWctGQRwA)) to watch):
+
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/s6UWctGQRwA/0.jpg)](http://www.youtube.com/watch?v=s6UWctGQRwA)
 
 
@@ -30,7 +31,6 @@ Preview of my teammate testing the goggles out in real-time, while my PC display
 
 [Installation instructions](https://drive.google.com/open?id=183nrhzzW63Xrgerxxk8LOU9aBcUO_XZH)
 
-[Video demo](https://www.youtube.com/watch?v=s6UWctGQRwA&feature=youtu.be)
 
 [Hackathon submission](https://calhacks5.hackerearth.com/sprints/cal-hacks-50/dashboard/b436967/submission/)
 
