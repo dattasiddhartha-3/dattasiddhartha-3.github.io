@@ -1,6 +1,6 @@
 ---
 title: "Location Network Fingerprinting: Network Analysis of Franchise Expansion"
-excerpt: "After aggregating expansion data from sucessful franchises/chains from many industries (including fast food, supermarkets, coffee, ...), we developed network analysis algorithms that identified statistically-likely "patterns" or "fingerprints" of expansion success. Specifically, we found that certain succesful firms tended to expand in certain ways that consolidated their success. We found the results to be 98% statistically significant, and pitched the system as a service for firms intending to expand within the US but are strategically unsure how."
+excerpt: "After aggregating expansion data from sucessful franchises/chains from many industries (including fast food, supermarkets, coffee, ...), we developed network analysis algorithms that identified statistically-likely patterns or fingerprints of expansion success. Specifically, we found that certain succesful firms tended to expand in certain ways that consolidated their success. We found the results to be 98% statistically significant, and pitched the system as a service for firms intending to expand within the US but are strategically unsure how."
 collection: portfolio
 ---
 
