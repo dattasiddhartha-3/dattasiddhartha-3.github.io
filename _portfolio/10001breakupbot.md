@@ -6,36 +6,29 @@ collection: portfolio
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/1NxWMQA7tlM/0.jpg)](https://www.youtube.com/watch?v=1NxWMQA7tlM)
 
-[Try the demo](https://www.facebook.com/BreakupBot-20-1328526643902687/) : Click "Send Message" to start interacting with the isolated NLP system
+[Try the demo](https://www.facebook.com/BreakupBot-20-1328526643902687/) : Click "Send Message" to start interacting with the isolated NLP system (or watch the [demo](https://www.youtube.com/watch?v=1NxWMQA7tlM))
 
 The backstory of the project started off in my freshman year when my close friend got dumped by his girlfriend right before his final exams, and his GPA dropped from 3.7 to 2.7. It made me realize that even someone as intelligent as my friend could be vulnerable to the emotional dangers of romance. So I set out to figure out a way to help him recover. He did not want to talk about his situation with anyone and wanted to save "face", so I figured he could speak with a very smart bot.
 
-<object data="https://drive.google.com/open?id=0Bya0t6OLDU2FNTV2S2NKTmpMSHc" type="application/pdf" width="700px" height="700px">
-    <embed src="https://drive.google.com/open?id=0Bya0t6OLDU2FNTV2S2NKTmpMSHc">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+I started out surveying the preferences of users (students who went through breakups recently), to validate the method of human-computer interaction, and to identify the optimal counselling approach. After settling on a chatbot interface, the next step was building the backend system. 
 
-BreakupBot is an artificially intelligent therapeutic chatbot developed to aid in coping recovery of those enduring romantic breakups. 
+The first component of the system was user characterization (identifying which type of lover the user is based on discussion with the bot, based on the Love Attitudes Scale framework). The second component was heartrate sentitivity analysis to adjust the direction and sensitivity of responses generated. By using phone LED and camera to capture the redness of the finger and processing the image with Laure's algorithm, we can estimate heartrate as a proxy for instantaneous stress of the user mid-conversation. The third component would be usage of philosophical counselling (which is more open-ended and dialogue-based than psychological counselling). Based on Sternberg's Triangular Theory of Love, the bot would attempt to rationalize the relative position of the user in their relationship. The fourth component would be the source data of responses (scraped from dating sites or love advisory sites), and based on the personality adjustment mechanisms would run a text generation algorithm as response to user input. 
 
-- Conducted research into various personality types, and designated various AI advances for therapy with respect to each personality type
-- Designed highly scalable revenue streams and business model
-- Studied personality insights and sentimental analysis via Indico
-- Hypothesized, built and tested Heartrate detection via Camera-LED to deduce stress level with the end-result of mimicking empathy
-- Conducted webcrawling, utilized Quora datasets through MySQL database management and manipulation, and delved into knowledge graphing and Apache Spark
-- Developed artificial intelligence chatbot via wide intents-entities network and machine learning integration of API.AI
-- Beta tested on Messenger, and produced prototype Android app on Android Studios
+[![IMAGE ALT TEXT](/images/pipeline.png)](https://drive.google.com/file/d/142kTVrKNGH42splekvbfXGVtT9HhNQPq/view)
+
+After building and testing the system within a group of test users, I additionally submitted the project to the [President's Cup](http://www.ust.hk/presidents_cup/). I was the only participant who was a Year 1 Business student and working solo; all other competitors are Post-graduate or Final Year students working in teams of four or five. 
+
+[![IMAGE ALT TEXT](/images/poster.png)](https://drive.google.com/open?id=0Bya0t6OLDU2FNTV2S2NKTmpMSHc)
+
+
+[paper](https://drive.google.com/file/d/142kTVrKNGH42splekvbfXGVtT9HhNQPq/view)
+
+[code (inactive)](https://github.com/s-datta/BreakupBot)
+
+[prototype](https://www.facebook.com/BreakupBot-20-1328526643902687/) 
+
+[video](https://www.youtube.com/watch?v=1NxWMQA7tlM)
+
+[poster](https://drive.google.com/open?id=0Bya0t6OLDU2FNTV2S2NKTmpMSHc)
 
 [Further reference and media](https://drive.google.com/open?id=0Bya0t6OLDU2FZFk1UzdiMU5qb1U]
-
-[Code (inactive)](https://github.com/s-datta/BreakupBot)
-
-Initial protoypes: https://www.facebook.com/BreakupBot-1260525560722276/ OR https://www.facebook.com/BreakupBot-20-1328526643902687/
-
-
-President’s Cup background:
-- The only participant who is a Year 1 Business student and working solo; all other competitors are Post-graduate or Final Year students working in teams of four or five
-- Created a proposal, designed a poster and demonstrated the product and idea at an exhibition, and submitted an academic report
-
-Reference: http://www.ust.hk/presidents_cup/
-  
