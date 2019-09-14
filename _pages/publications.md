@@ -5,13 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-#### Preprints
+### Preprints
 
 [DeepObfusCode: Source Code Obfuscation Through Sequence-to-Sequence Networks](https://arxiv.org/abs/1909.01837)
 
-Siddhartha Datta
-
-arXiv(cs.CR, cs.LG, cs.SE)
+* Siddhartha Datta; arXiv(cs.CR, cs.LG, cs.SE) *
 
 
 ### UROP
