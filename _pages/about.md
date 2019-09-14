@@ -41,7 +41,7 @@ DeepObfusCode: Source Code Obfuscation Through Sequence-to-Sequence Networks (pr
 + CalUnmanned (Prof. Raja Sengupta, UC Berkeley)
 + Department of Management (Prof. Christy Zhou Koval, The Hong Kong University of Science and Technology)
 
-#### Scholarships/Honors:
+### Scholarships/Honors:
 + Dean's List (2017-18, 2018-19)
 + Joseph Lau Luen Hung Charitable Trust Scholarship Hong Kong Award (HK$ 80,000 p.a.)
 + Li Ka Shing Foundation Scholarship for Innovation and Creativity (HK$ 50,000)
