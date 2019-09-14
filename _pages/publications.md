@@ -16,40 +16,33 @@ _Siddhartha Datta; arXiv(cs.CR, cs.LG, cs.SE)_
 
 [Big Data Analysis of Labour Market Dynamics in Freelance Work Platforms](https://drive.google.com/open?id=1nOAZuAtAsVhJHUXCp3Re_1LSnE9LOerZ)
 
-Siddhartha Datta (under Prof. Christy Zhou Koval)
-
-Undergraduates Research Opportunities Program 2017-2018 Proceedings [link](https://urop.ust.hk/files/UROP%20Proceedings%202017-18.pdf)
+_Siddhartha Datta (under Prof. Christy Zhou Koval); Undergraduates Research Opportunities Program 2017-2018 Proceedings [link](https://urop.ust.hk/files/UROP%20Proceedings%202017-18.pdf)_
 
 
 ### Research competitions
 
 [BreakupBot: An Artificial Intelligence Therapeutic Chatbot Conducting Empathetic Counselling via Heartrate Sentimental Analysis](https://drive.google.com/open?id=142kTVrKNGH42splekvbfXGVtT9HhNQPq)
 
-Siddhartha Datta (under Dr. Nam Sai Lok)
-
-Submission to President's Cup 2016-17
+_Siddhartha Datta (under Dr. Nam Sai Lok); Submission to President's Cup 2016-17_
 
 [HAIV: Computational Precision Medicine against HIV Drug Resistance](https://drive.google.com/open?id=1UwI3d3BeTJiHmEiT8r4QizsMBvl6ONaI)
-
-Siddhartha Datta
 
 
 ### Lab work
 
 [Polysemy Word Tagging Tool](https://github.com/dattasiddhartha/polysemous-word-tagging-tool)
 
-Built under supervision of Prof. Mahesh Srinivasan. 
-
+_Built under supervision of Prof. Mahesh Srinivasan, Language & Children Development Lab._ 
 
 [AIDS Epidemic Simulation with Adjustment for Decision-making from neural ECoG data](https://drive.google.com/open?id=17WZ1hRXWdA-ppuXmkyBdVcu26os3wALx)
 
-Built in affiliation with Data-X and Knight Lab (UC Berkeley). 
+_Built in affiliation with Data-X and Knight Lab (UC Berkeley)._
 
 [neurocogpy](https://github.com/dattasiddhartha/neurocogpy)
 
-Built in affiliation with Data-X and Knight Lab (UC Berkeley). 
+_Built in affiliation with Data-X and Knight Lab (UC Berkeley)._
 
-### Schoolwork
+### Other side-papers
 
 [Using Structural Imbalance to Evaluate Models of International Relations](https://drive.google.com/open?id=1lUfM2D4XycYqbIgJThU1Xjk0sdku4z3n)
 
