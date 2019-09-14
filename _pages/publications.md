@@ -9,7 +9,7 @@ author_profile: true
 
 [DeepObfusCode: Source Code Obfuscation Through Sequence-to-Sequence Networks](https://arxiv.org/abs/1909.01837)
 
-* Siddhartha Datta; arXiv(cs.CR, cs.LG, cs.SE) *
+_Siddhartha Datta; arXiv(cs.CR, cs.LG, cs.SE)_
 
 
 ### UROP
