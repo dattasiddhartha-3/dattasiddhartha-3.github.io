@@ -38,3 +38,15 @@ Patients were given a task of playing a game in which they could choose either â
 _Reference:_
 
 _Ignacio Saez, Jack Lin, Arjen Stolk, Edward Chang, Josef Parvizi, Gerwin Schalk, Robert T. Knight, Ming Hsu. Encoding of Multiple Reward-Related Computations in Transient and Sustained High-Frequency Activity in Human OFC. Current Biology, Volume 28, Issue 18, 24 September 2018, pages 2889-2899.e3_
+
+### Stock Analzer
+
+VBA-coded user interface to analyze stocks, for ISOM3230 (HKUST).
+
+[code](https://github.com/dattasiddhartha/StockAnalyzerGUI)
+
+### 2048 AI-version
+
+The standard 2048 game mechanism with an overlay of different settings and an expectimax-based solver as an add-on. For ISOM3230 (HKUST)
+
+[code](https://github.com/dattasiddhartha/2048_AI)
