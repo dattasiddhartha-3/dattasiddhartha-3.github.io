@@ -6,7 +6,7 @@ collection: portfolio
 
 ### "Worst Movie Ever" - Data Visualizations project
 
-[![IMAGE ALT TEXT](/images/school1.PNG]
+[![IMAGE ALT TEXT](/images/school1.PNG)]
 
 This is a project for INFO190 at UC Berkeley, where my team used Illustrator, Tableau and d3.js to build this website that identifies the perfect combination of variables to make the worst movie.
 
@@ -15,7 +15,7 @@ This is a project for INFO190 at UC Berkeley, where my team used Illustrator, Ta
 
 ### Audio Style Transfer
 
-[![IMAGE ALT TEXT](/images/school2.PNG]
+[![IMAGE ALT TEXT](/images/school2.PNG)]
 
 A cybersecurity course where we dedicated our final project to replicating the course professor's voice. (ISOM4200 HKUST)
 
