@@ -1,6 +1,6 @@
 ---
 title: "Music Generation through Food Detection, Assignment of Music Notes to Distinct Items, and Utensil Impact Detection"
-excerpt: "AR game for users to generate music from tapping on the food."
+excerpt: "An AR system where users put on a pair of goggles or a visualizer above highlights the food on the table, and users use their utensils to generate individualized music notes from tapping their food. "
 collection: portfolio
 ---
 
