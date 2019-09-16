@@ -12,6 +12,8 @@ This is a project for INFO190 at UC Berkeley, where my team used Illustrator, Ta
 
 [Website](https://worstmovieever.weebly.com/)
 
+[d3.js code](https://github.com/dattasiddhartha/INFO190-DATAVIZ)
+
 
 ### Audio Style Transfer
 
