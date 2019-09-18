@@ -31,6 +31,10 @@ Built complete dAPP on WAVE platform with data transactions and smart contracts 
 
 ### HardUST 2017 - 1st Runner-up
 
+[![IMAGE ALT TEXT](/images/hardust.PNG)]
+
+[slides](https://drive.google.com/open?id=1DfZt8cOhycLQdB9WmDl4T1E5TgJzKKpOepQafnsH5sU)
+
 Worked in a team of four to develop a novel system that caters to autonomous vehicles by standardizing a unique design among all vehicles to permit free-flow throughout the system with absolutely no delay. Our team built prototypes to demonstrate how the custom vehicles integrate and flow through the system.
 
 Particular contributions include:
