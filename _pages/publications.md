@@ -11,6 +11,8 @@ author_profile: true
 
 _Siddhartha Datta; arXiv(cs.CR, cs.LG, cs.SE)_
 
+_Additionally submitted to ALT 2020_
+
 
 ### UROP
 
