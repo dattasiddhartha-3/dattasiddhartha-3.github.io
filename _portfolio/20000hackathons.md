@@ -68,4 +68,4 @@ Particular contributions include:
 
 * EasyShip 24 Hour E-Commerce Hackathon 2017 - 1st Runner up : Built a revolutionary UX-centric platform to tailor easyship's UI to the needs of crowdfundees through prediction analytics
 
-* Hack the Runway 2017 - CHAMPION : Inspiree - we built a platform that autotags fashion images uploaded by users with image classification and NLP, with a dashboard to present interpretable insight
+* Hack the Runway 2017 - CHAMPION : Inspiree - we built a platform that autotags fashion images uploaded by users with image classification and NLP, with a dashboard to present interpretable insight [video](https://www.youtube.com/watch?v=0t6zcJpMtqo)
