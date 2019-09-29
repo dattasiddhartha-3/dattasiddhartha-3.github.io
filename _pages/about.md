@@ -40,6 +40,14 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"     
     
+  - image_path: /images/haiv5.PNG
+    alt: "100% fre3e"
+    title: "HAIV: Computational Precision Medicine against HIV Drug Resistance"
+    excerpt: "A mutation prediction algorithm built to map out subsequent mutations of a strain of HIV virus in a person's bloodstream over n timesteps, and can be further used in optimizing antiretroviral treatment (allocating the right medication at the right time to avoid drug resistance)."
+    url: "http://siddharthadatta.ml/portfolio/10003haiv/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"     
+    
 
     
 ---
