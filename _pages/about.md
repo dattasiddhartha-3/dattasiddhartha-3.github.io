@@ -24,6 +24,14 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
     
+  - image_path: /images/ciphertext_generation.PNG
+    alt: "100% free"
+    title: "DeepObfusCode: Source Code Obfuscation Through Sequence-to-Sequence Networks"
+    excerpt: "The proposed and implemented system provides allows cloud computing companies to execute obfuscated code (non-plaintext source code), and allows clients to obfucate code through a seq2seq-based obfuscation network. Other than the applications of neural network archictectures in source code obfuscation, the paper released also introduces a quantitative framework to evaluate obfuscation methods."
+    url: "http://siddharthadatta.ml/portfolio/10002doc/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"     
+    
 
     
 ---
