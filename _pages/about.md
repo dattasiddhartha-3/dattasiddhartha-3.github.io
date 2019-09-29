@@ -48,7 +48,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"     
     
-   - image_path: /images/armusic.png
+  - image_path: /images/armusic.png
     alt: "100% fre4e"
     title: "Music Generation through Food Detection, Assignment of Music Notes to Distinct Items, and Utensil Impact Detection"
     excerpt: "An AR system where users put on a pair of goggles or a visualizer above highlights the food on the table, and users use their utensils to generate individualized music notes from tapping their food."
