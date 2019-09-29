@@ -24,7 +24,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
     
-  - image_path: /images/ciphertext_generation.PNG
+  - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/ciphertext_generation.PNG
     alt: "100% free"
     title: "DeepObfusCode: Source Code Obfuscation Through Sequence-to-Sequence Networks"
     excerpt: "The proposed and implemented system provides allows cloud computing companies to execute obfuscated code (non-plaintext source code), and allows clients to obfucate code through a seq2seq-based obfuscation network. Other than the applications of neural network archictectures in source code obfuscation, the paper released also introduces a quantitative framework to evaluate obfuscation methods."
@@ -32,7 +32,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"     
     
-  - image_path: /images/fingerprint.PNG
+  - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/fingerprint.PNG
     alt: "100% free2"
     title: "Location Network Fingerprinting: Network Analysis of Franchise Expansion"
     excerpt: "After aggregating expansion data from sucessful franchises/chains from many industries (including fast food, supermarkets, coffee, ...), we developed network analysis algorithms that identified statistically-likely patterns or fingerprints of expansion success. Specifically, we found that certain succesful firms tended to expand in certain ways that consolidated their success. We found the results to be 98% statistically significant, and pitched the system as a service for firms intending to expand within the US but are strategically unsure how."
@@ -40,7 +40,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"     
     
-  - image_path: /images/haiv5.PNG
+  - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/haiv5.PNG
     alt: "100% fre3e"
     title: "HAIV: Computational Precision Medicine against HIV Drug Resistance"
     excerpt: "A mutation prediction algorithm built to map out subsequent mutations of a strain of HIV virus in a person's bloodstream over n timesteps, and can be further used in optimizing antiretroviral treatment (allocating the right medication at the right time to avoid drug resistance)."
@@ -48,7 +48,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"     
     
-  - image_path: /images/armusic.png
+  - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/armusic.png
     alt: "100% fre4e"
     title: "Music Generation through Food Detection, Assignment of Music Notes to Distinct Items, and Utensil Impact Detection"
     excerpt: "An AR system where users put on a pair of goggles or a visualizer above highlights the food on the table, and users use their utensils to generate individualized music notes from tapping their food."
