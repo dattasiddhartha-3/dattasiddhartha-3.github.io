@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /images/Q11_R_vP8iDYi8VD6heNj_Compressed_4.png
+  overlay_image: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/Q11_R_vP8iDYi8VD6heNj_Compressed_4.png
 excerpt: >
   A young, aspiring computational scientist with the ambition to design new tools to solve larger problems.<br />
 feature_row:
