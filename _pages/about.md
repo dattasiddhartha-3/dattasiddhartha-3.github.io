@@ -4,13 +4,15 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: /images/Q11_R_vP8iDYi8VD6heNj_Compressed_4.png
+excerpt: >
+  A young, aspiring computational scientist with the ambition to design new tools to solve larger problems.<br />
 feature_row:
 
   - image_path: https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/e253ebdepson_goggles_lq.PNG
     alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+    title: "Memory Palace: YOLO Object Detection to Locate Objects through Speech Recognition"
+    excerpt: "Winning submisson at Cal Hacks 5.0 (Epson sponsor award). Our team developed a pair of display goggles that helps patients with Alzheimer's or other visual/mental disabilities in locating their personal belongings. Users verbalize the item they are searching for (typically items from the COCO image dataset), and all objects detected would be highlighted."
+    url: "http://siddharthadatta.ml/portfolio/10000memorypalace/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
     
@@ -32,8 +34,6 @@ feature_row:
 ---
 
 {% include feature_row %}
-
-_A young, aspiring computational scientist with the ambition to design new tools to solve larger problems._
 
 
 ### Competitions:
