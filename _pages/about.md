@@ -3,9 +3,6 @@
 layout: splash
 permalink: /
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
