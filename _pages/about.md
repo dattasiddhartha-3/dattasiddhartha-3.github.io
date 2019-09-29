@@ -7,7 +7,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
 
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
