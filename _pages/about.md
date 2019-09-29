@@ -54,7 +54,8 @@ feature_row:
     excerpt: "An AR system where users put on a pair of goggles or a visualizer above highlights the food on the table, and users use their utensils to generate individualized music notes from tapping their food."
     url: "http://siddharthadatta.ml/portfolio/10004armusic/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"     
+    btn_label: "Learn more"  
+    
 ---
 
 {% include feature_row %}
