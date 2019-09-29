@@ -3,8 +3,6 @@ layout: splash
 permalink: /
 author_profile: true
 
-excerpt: >
-
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
