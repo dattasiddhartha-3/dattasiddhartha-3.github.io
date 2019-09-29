@@ -1,13 +1,12 @@
 ---
 layout: splash
 permalink: /
-title: ""
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
-
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /images/Q11_R_vP8iDYi8VD6heNj_Compressed_4.png
+excerpt: >
+  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
+  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.16.6">Latest release v4.16.6</a></small>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
