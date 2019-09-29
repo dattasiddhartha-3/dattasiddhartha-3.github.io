@@ -1,4 +1,6 @@
+
 ---
+layout: splash
 permalink: /
 title: ""
 excerpt: "About me"
@@ -7,9 +9,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-_A young, aspiring computational scientist with the ambition to design new tools to solve larger problems._
-
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/mm-home-page-feature.jpg
+  actions:
+    - label: "<i class='fas fa-download'></i> Install now"
+      url: "/docs/quick-start-guide/"
+excerpt: >
+  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
+  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.16.6">Latest release v4.16.6</a></small>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
@@ -33,47 +41,5 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
-
-### Competitions:
-*2018*
-+ CalHacks 5.0 - Winner (Augmented Reality section, Epson Sponsor Award)
-+ SacHacks 2018 - Winner (Smartcar 1st Runnerup, Best First-Time Hack, Best Domain Name, 3rd Overall)
-+ AngelHack 2018 - Champion (Blockchain Category)
-+ Classified Post Hackathon 2018 - Champion
-+ Access to Justice InnoTech Law Hackathon 2018 - Honorable Mentions
-+ CityU Hackathon 2018 - Most Innovative Idea & 1st Runnerup
-
-*2017*
-+ HKUST-Radica Big Datathon 2017 - 2nd
-+ Cyberport Creative Micro Fund - Winner
-+ EasyShip 24 Hour E-Commerce Hackathon 2017 - 1st Runner up
-+ Hack the Runway 2017 - Champion
-+ HardUST 2017 - 1st Runner-up
-
-### Publications:
-DeepObfusCode: Source Code Obfuscation Through Sequence-to-Sequence Networks (preprint)
-
-### Lab Experience:
-+ Language and Children Development Lab (Prof. Mahesh Srinivasan, UC Berkeley)
-+ CalUnmanned (Prof. Raja Sengupta, UC Berkeley)
-+ Department of Management (Prof. Christy Zhou Koval, The Hong Kong University of Science and Technology)
-
-### Scholarships/Honors:
-+ Dean's List (2017-18, 2018-19)
-+ Joseph Lau Luen Hung Charitable Trust Scholarship Hong Kong Award (HK$ 80,000 p.a.)
-+ Li Ka Shing Foundation Scholarship for Innovation and Creativity (HK$ 50,000)
-+ Hong Kong Unison Scholarship (HK$ 15,000 p.a.)
-+ Br Bernard Guellec Memorial Prize for French
-+ Br Felix Sheehan Memorial Prize for English
-+ University Entrance Scholarship
-+ Harmony Scholarship (Home Affairs Bureau, HKSAR Government)
-
-
-Three years ago I started my degree in Global Business at HKUST with the goal in mind that I will build a company and create value to the society that has given many opportunities. I have been taught different lessons from cofounding 2 startups, studying in 2 exchange institutions, researching with 3 labs, working for 8 different companies in 3 years, winning 11 hackathons, being awarded HK$ 110,000 in undergraduate scholarships per year, and maintaining a graduation GPA above 3.7 (expected first class honors). I have been able to validate my passion in building systems and solutions for the betterment of my family and community, and aspire to pursue doctoral studies in computational cognitive science. 
-
-The objective of my study in computational cognitive science is to build cognitive models and algorithms and further design more effective machine learning architectures, following behind the works of Tom Griffiths, Josh Tenebaum and Brendan M. Lake. My aspiration in this field began when I was a freshman and built BreakupBot, an AI chatbot that helped romantic partners get over their breakups through philosophical counselling, and generating responses based on the emotional level of the user (proxied by their heartrate). The chatbot that now has 200+ users in the Philippines alone began with me want to solve a problem for someone in my community. My friend had fallen out of a relationship, had been depressed, but did not want to talk to anyone. Recognizing it was unhealthy, I wanted to help my friend, so I decided a “robot counsellor” might be the optimal solution. After failing to find computer science partners willing to develop an empathetic natural language processing system, I decided to self-learn programming. I studied the background papers on text generation, knowledge graphing (of content that scraped from love advisory sites), estimation of heartrate from the redness of a user’s finger (shine LED on finger, then take camera image), and built an Android app, I tested the prototype and iteratively designed my app for users who have gone through breakups, including my friend. I believe this experience in such a short span of time captures my determination to bring change to members of my community, ability to scale ideas and projects from nothing, and solve unstructured in a structured yet unconventional way.
-
-Thankfully I believe I have been well-trained in preparation for study in this field. I have worked as a research assistant under Prof Mahesh Srinivasan at UC Berkeley’s Language and Children Development Lab, working on polysemous word tagging tools to identify how children associate different terms together. I have recently tested my ability to conduct independent research by publishing a paper in source code obfuscation, where I introduce a neural network architecture in obfuscating code, and further executing the obfuscated code, thus cloud computing companies as a use case would not be able to read confidential source code of clients. My experience in building mutation algorithms that predict consecutive strains of HIV in patient bloodstreams and optimizing antiretroviral treatment, and project with the Knight Lab at UC Berkeley where we built decision-making models based on neural ECoG data contributed to grounding my foundation in bioinformatics. Add on the 20+ deep learning projects I deployed for various companies, labs and hackathons, and achieving top grades in social network analysis, organizational behavior and decision-making coursework, I believe I have the holistic background needed to succeed in my field of study. 
-
 
 {% include feature_row %}
