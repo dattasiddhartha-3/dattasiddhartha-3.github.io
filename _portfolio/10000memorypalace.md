@@ -5,7 +5,7 @@ collection: portfolio
 ---
 [![IMAGE ALT TEXT](https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/e253ebdepson_goggles_lq.PNG)]
 
-<img src="https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/e253ebdepson_goggles_lq.PNG" height="300" width="100">
+<img src="https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/e253ebdepson_goggles_lq.PNG" width="200">
 
 This is what the user sees.
 
