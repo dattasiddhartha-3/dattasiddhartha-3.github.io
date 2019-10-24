@@ -21,7 +21,6 @@ Preview of my teammate testing the goggles out in real-time, while my PC display
 
 
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1ELysbd_HcyENvsuK5auBFbFpwZ0" width="640" height="480"></iframe>
 
 
 
