@@ -11,6 +11,8 @@ Over 24 hours our team built the embedded system that would permit Epson's Mover
 
 [![IMAGE ALT TEXT](/images/ba06d3445330501_2205033879773905_1146807820524453888_n.jpg)]
 
+<img src="/images/ba06d3445330501_2205033879773905_1146807820524453888_n.jpg" height="500" width="500">
+
 Completion of the object detection system backend: 
 [![IMAGE ALT TEXT](/images/moverioimage.PNG)]
 
