@@ -3,7 +3,6 @@ title: "Memory Palace: YOLO Object Detection to Locate Objects through Speech Re
 excerpt: "Winning submisson at Cal Hacks 5.0 (Epson sponsor award). Our team developed a pair of display goggles that helps patients with Alzheimer's or other visual/mental disabilities in locating their personal belongings. Users verbalize the item they are searching for (typically items from the COCO image dataset), and all objects detected would be highlighted."
 collection: portfolio
 ---
-[![IMAGE ALT TEXT](https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/e253ebdepson_goggles_lq.PNG)]
 
 <img src="https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/e253ebdepson_goggles_lq.PNG" width="500">
 
