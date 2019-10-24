@@ -16,8 +16,6 @@ Completion of the object detection system backend:
 
 Preview of my teammate testing the goggles out in real-time, while my PC displays what he is seeing (Click the [video]((http://www.youtube.com/watch?v=s6UWctGQRwA)) to watch):
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/s6UWctGQRwA/0.jpg)](http://www.youtube.com/watch?v=s6UWctGQRwA)
-
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s6UWctGQRwA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
