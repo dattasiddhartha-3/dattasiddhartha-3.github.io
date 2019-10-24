@@ -5,13 +5,13 @@ collection: portfolio
 ---
 [![IMAGE ALT TEXT](https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/e253ebdepson_goggles_lq.PNG)]
 
+<img src="https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/e253ebdepson_goggles_lq.PNG" height="300" width="100">
+
 This is what the user sees.
 
 Over 24 hours our team built the embedded system that would permit Epson's Moverio goggles to detect specific objects for users. This included setting up voice recognition input for object commands, relaying the image from the goggles to a server PC, running an object detection system on the PC, and relaying the image in real-time back to the goggles. The object detection system was based on a Mask RCNN model trained on a modified image dataset. 
 
 [![IMAGE ALT TEXT](/images/ba06d3445330501_2205033879773905_1146807820524453888_n.jpg)]
-
-<img src="/images/ba06d3445330501_2205033879773905_1146807820524453888_n.jpg" height="200" width="1000">
 
 Completion of the object detection system backend: 
 [![IMAGE ALT TEXT](/images/moverioimage.PNG)]
