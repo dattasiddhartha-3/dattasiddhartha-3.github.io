@@ -17,9 +17,8 @@ I was born in mid-Autumn 1998 in Bangladesh. Our family has lived in the village
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BZFs_zrIcm4?start=288" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe src="/images/scmp.PNG" name="iframe_a"></iframe>
+<iframe src="https://www.scmp.com/news/hong-kong/education/article/2154479/hong-kong-teens-dreams-being-doctor-dashed-education" height="360" width="480"></iframe>
 
-<p><a href="https://www.scmp.com/news/hong-kong/education/article/2154479/hong-kong-teens-dreams-being-doctor-dashed-education" target="iframe_a">W3Schools.com</a></p>
 
 ![IMAGE ALT TEXT](/images/scmp.PNG)(https://www.scmp.com/news/hong-kong/education/article/2154479/hong-kong-teens-dreams-being-doctor-dashed-education)
 
