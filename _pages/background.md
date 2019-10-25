@@ -11,6 +11,16 @@ I was born in mid-Autumn 1998 in Bangladesh. Our family has lived in the village
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7579.645071418137!2d90.96662635335532!3d23.404621996496573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x37546194d892d1f7%3A0x62b986bceed141db!2sKaduti%2C%20Bangladesh!5e1!3m2!1sen!2shk!4v1571923656921!5m2!1sen!2shk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
+### Media Exposure
+
+
+### Drone Filmography
+
+In my spare time I take a drone out for a spin in the country side and capture a different perspective of the world I inhabit.
+
+<iframe src=”https://hkustconnect-my.sharepoint.com/personal/sdatta_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsdatta%5Fconnect%5Fust%5Fhk%2FDocuments%2FDrone%20Footage%20before%2010%20April%202019%2F100MEDIA%2FDJI%5F0069%2EMP4&parent=%2Fpersonal%2Fsdatta%5Fconnect%5Fust%5Fhk%2FDocuments%2FDrone%20Footage%20before%2010%20April%202019%2F100MEDIA&originalPath=aHR0cHM6Ly9oa3VzdGNvbm5lY3QtbXkuc2hhcmVwb2ludC5jb20vOnY6L2cvcGVyc29uYWwvc2RhdHRhX2Nvbm5lY3RfdXN0X2hrL0VYZlRNVUw2RVhSTWtlNjR6MFFaTjhrQkR5V1Y0aE5CX1pVd2ptcUx6enhDN2c_cnRpbWU9OFdFcTN2eFkxMGc” width=”320″ height=”180″ frameborder=”0″ scrolling=”no” allowfullscreen></iframe>
+
+
 
 ### Scholarships/Honors:
 + Dean's List (2017-18, 2018-19)
