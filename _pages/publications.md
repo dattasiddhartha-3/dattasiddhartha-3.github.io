@@ -102,6 +102,6 @@ _** Awarded to Top 0.0015% of undergraduate student population
 * Prof Yang Yi, Information Systems, HKUST
 * Dr Nora Hussein, Linguistics, HKUST
 * Dr Nam Sai Lok, Philosophy, HKUST
-* Prof Thomas Bourveau, Accounting, Columbia University
-* Prof Ikhlaq Sidhu, Industrial Engineering & Operations Research, UC Berkeley
- [...]: * Prof Ted Clark, Information Systems, HKUST
+<!-- * Prof Thomas Bourveau, Accounting, Columbia University
+<!-- * Prof Ikhlaq Sidhu, Industrial Engineering & Operations Research, UC Berkeley
+<!-- * Prof Ted Clark, Information Systems, HKUST
