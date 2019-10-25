@@ -22,9 +22,9 @@ I was born in mid-Autumn 1998 in Bangladesh. Our family has lived in the village
 + University Entrance Scholarship
 + Harmony Scholarship (Home Affairs Bureau, HKSAR Government)
 
- * Total scholarship HK$ 110,000 per year; 2.5x annual tuition
+_* Total scholarship HK$ 110,000 per year; 2.5x annual tuition
 
- ** Awarded to Top 0.0015% of undergraduate student population
+_** Awarded to Top 0.0015% of undergraduate student population
 
 
 ### Hacking Awards:
