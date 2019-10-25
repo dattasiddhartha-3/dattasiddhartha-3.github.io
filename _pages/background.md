@@ -5,6 +5,11 @@ permalink: /background/
 author_profile: true
 ---
 
+### Resume
+
+<iframe src="https://drive.google.com/file/d/1BzMZ8Ezd5-2eqrytvFJXJ0srravabwJ3/preview" width="640" height="480"></iframe>
+
+
 ### Origins
 
 I was born in mid-Autumn 1998 in Bangladesh. Our family has lived in the village of Kaduti for many generations, and my father is the first generation to leave the village (and ended up in Hong Kong). There is a lot to be carried in the Datta name, and I aim to push even further. 
