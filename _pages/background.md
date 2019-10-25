@@ -20,15 +20,15 @@ I was born in mid-Autumn 1998 in Bangladesh. Our family has lived in the village
 <iframe src="https://www.scmp.com/news/hong-kong/education/article/2154479/hong-kong-teens-dreams-being-doctor-dashed-education" height="360" width="480"></iframe>
 
 
-![IMAGE ALT TEXT](/images/scmp.PNG)(https://www.scmp.com/news/hong-kong/education/article/2154479/hong-kong-teens-dreams-being-doctor-dashed-education)
+[![IMAGE ALT TEXT](/images/scmp.PNG)](https://www.scmp.com/news/hong-kong/education/article/2154479/hong-kong-teens-dreams-being-doctor-dashed-education)
 
 * Media exposure from my hackathons and startup
 
-![IMAGE ALT TEXT(https://media-exp1.licdn.com/media-proxy/ext?w=1024&h=768&f=n&hash=ClqFvKCKz3ViID6JjLa49QXb9Ks%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWi8eMfcebX1o0AeKXoDjQBjeuq1STfhRI6_LIjmeNxwjJXlLZD5agYUbhl4j3lK6w)]
+[![IMAGE ALT TEXT(https://media-exp1.licdn.com/media-proxy/ext?w=1024&h=768&f=n&hash=ClqFvKCKz3ViID6JjLa49QXb9Ks%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWi8eMfcebX1o0AeKXoDjQBjeuq1STfhRI6_LIjmeNxwjJXlLZD5agYUbhl4j3lK6w)]
 
-![IMAGE ALT TEXT](/images/tweet.PNG)(http://media.licdn.com/embeds/media.html?src=https%3A%2F%2Ftwitter.com%2Fleonlaroue%2Fstatus%2F1059263707417534464&amp;url=https%3A%2F%2Ftwitter.com%2Fleonlaroue%2Fstatus%2F1059263707417534464&amp;type=text%2Fhtml&amp;schema=twitter)
+[![IMAGE ALT TEXT](/images/tweet.PNG)](http://media.licdn.com/embeds/media.html?src=https%3A%2F%2Ftwitter.com%2Fleonlaroue%2Fstatus%2F1059263707417534464&amp;url=https%3A%2F%2Ftwitter.com%2Fleonlaroue%2Fstatus%2F1059263707417534464&amp;type=text%2Fhtml&amp;schema=twitter)
 
-![IMAGE ALT TEXT](/images/ccmf.PNG)(http://media.licdn.com/embeds/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fcyberport.hk%2Fvideos%2F1893272297411941%2F&amp;url=https%3A%2F%2Fwww.facebook.com%2Fcyberport.hk%2Fvideos%2F1893272297411941%2F&amp;type=text%2Fhtml&amp;schema=facebook)
+[![IMAGE ALT TEXT](/images/ccmf.PNG)](http://media.licdn.com/embeds/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fcyberport.hk%2Fvideos%2F1893272297411941%2F&amp;url=https%3A%2F%2Fwww.facebook.com%2Fcyberport.hk%2Fvideos%2F1893272297411941%2F&amp;type=text%2Fhtml&amp;schema=facebook)
 
 
 ### Drone Filmography
