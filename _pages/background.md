@@ -22,6 +22,10 @@ I was born in mid-Autumn 1998 in Bangladesh. Our family has lived in the village
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BZFs_zrIcm4?start=288" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe src="/images/scmp.PNG" name="iframe_a"></iframe>
+
+<p><a href="https://www.scmp.com/news/hong-kong/education/article/2154479/hong-kong-teens-dreams-being-doctor-dashed-education" target="iframe_a">W3Schools.com</a></p>
+
 ![IMAGE ALT TEXT](/images/scmp.PNG)(https://www.scmp.com/news/hong-kong/education/article/2154479/hong-kong-teens-dreams-being-doctor-dashed-education)
 
 * Media exposure from my hackathons and startup
@@ -41,34 +45,3 @@ In my spare time I take a drone out for a spin in the country side and capture a
 
 [![IMAGE ALT TEXT](/images/drone2.PNG)](https://hkustconnect-my.sharepoint.com/:v:/g/personal/sdatta_connect_ust_hk/Ee5KfeEquptPmCI0luZuDBEBi_zFwp-ohn1aIB19NCcJxQ?e=6gYwCr)
 
-
-### Scholarships/Honors:
-+ Dean's List (2017-18, 2018-19)
-+ Joseph Lau Luen Hung Charitable Trust Scholarship Hong Kong Award (HK$ 80,000 p.a.)
-+ Li Ka Shing Foundation Scholarship for Innovation and Creativity (HK$ 50,000)
-+ Hong Kong Unison Scholarship (HK$ 15,000 p.a.)
-+ Br Bernard Guellec Memorial Prize for French
-+ Br Felix Sheehan Memorial Prize for English
-+ University Entrance Scholarship
-+ Harmony Scholarship (Home Affairs Bureau, HKSAR Government)
-
-_* Total scholarship HK$ 110,000 per year; 2.5x annual tuition
-
-_** Awarded to Top 0.0015% of undergraduate student population
-
-
-### Hacking Awards:
-*2018*
-+ CalHacks 5.0 - Winner (Augmented Reality section, Epson Sponsor Award)
-+ SacHacks 2018 - Winner (Smartcar 1st Runnerup, Best First-Time Hack, Best Domain Name, 3rd Overall)
-+ AngelHack 2018 - Champion (Blockchain Category)
-+ Classified Post Hackathon 2018 - Champion
-+ Access to Justice InnoTech Law Hackathon 2018 - Honorable Mentions
-+ CityU Hackathon 2018 - Most Innovative Idea & 1st Runnerup
-
-*2017*
-+ HKUST-Radica Big Datathon 2017 - 2nd
-+ Cyberport Creative Micro Fund - Winner
-+ EasyShip 24 Hour E-Commerce Hackathon 2017 - 1st Runner up
-+ Hack the Runway 2017 - Champion
-+ HardUST 2017 - 1st Runner-up
