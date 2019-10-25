@@ -18,7 +18,9 @@ I was born in mid-Autumn 1998 in Bangladesh. Our family has lived in the village
 
 In my spare time I take a drone out for a spin in the country side and capture a different perspective of the world I inhabit.
 
-<iframe src=”https://hkustconnect-my.sharepoint.com/personal/sdatta_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsdatta%5Fconnect%5Fust%5Fhk%2FDocuments%2FDrone%20Footage%20before%2010%20April%202019%2F100MEDIA%2FDJI%5F0069%2EMP4&parent=%2Fpersonal%2Fsdatta%5Fconnect%5Fust%5Fhk%2FDocuments%2FDrone%20Footage%20before%2010%20April%202019%2F100MEDIA&originalPath=aHR0cHM6Ly9oa3VzdGNvbm5lY3QtbXkuc2hhcmVwb2ludC5jb20vOnY6L2cvcGVyc29uYWwvc2RhdHRhX2Nvbm5lY3RfdXN0X2hrL0VYZlRNVUw2RVhSTWtlNjR6MFFaTjhrQkR5V1Y0aE5CX1pVd2ptcUx6enhDN2c_cnRpbWU9OFdFcTN2eFkxMGc&action=embedview” width=”320″</iframe>
+[![IMAGE ALT TEXT](/images/drone1.PNG)](https://hkustconnect-my.sharepoint.com/:v:/g/personal/sdatta_connect_ust_hk/EXfTMUL6EXRMke64z0QZN8kBDyWV4hNB_ZUwjmqLzzxC7g?e=huxmIv)
+
+[![IMAGE ALT TEXT](/images/drone2.PNG)](https://hkustconnect-my.sharepoint.com/:v:/g/personal/sdatta_connect_ust_hk/Ee5KfeEquptPmCI0luZuDBEBi_zFwp-ohn1aIB19NCcJxQ?e=6gYwCr)
 
 
 
