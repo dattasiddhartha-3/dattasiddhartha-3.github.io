@@ -30,6 +30,16 @@ Built complete dAPP on WAVE platform with data transactions and smart contracts 
 
 [Repo](https://github.com/s-datta/Betz)
 
+### HKUST-Radica Big Datathon - 2nd
+R-CNN Youtube Fashter Algorithm (Youtube-scraper that analyzes people and objects in video footage to extrapolate fashion trends)                                                                                                                                            
+We built a Youtube-scraper to forecast fashion trends, upgrading the big data industry by bringing big data beyond textual data. It scans Key Opinion Leaders in Youtube videos for luxury clothing items, detects pattern of fashion, forecasts fashion trends, and outperforms Zara’s 1-week trend-detection operating model. It was later bided for usage by Fung Group, Godiva, Duty Free HK, Radica , who were all interested in our successful “Trend Engine”. 
+
+### Cyberport Creative Micro Fund
+* Won HKD 100,000 in under 5 minutes by pitching a startup to a panel of investors at Cyberport
+
+* Partion (formerly known as ChipIn) - Cyberport Creative Micro Fund
+I partnered up with a Computer Science graduate and built a startup that decentralizes all items to people of all wealth classes. Any item no matter how luxurious it may be can be accessible and affordable, and it works thanks to ChipIn’s ownership proportion mechanism, which allows people to pay for partial ownership of an item they purchase, rather than carrying the entire upfront burden of cost. 
+
 
 ### HardUST 2017 - 1st Runner-up
 
@@ -62,30 +72,11 @@ Particular contributions include:
 
 * CityU Hackathon 2018 - Most Innovative Idea & 1st Runnerup : Built an automatic lecture transcription tool that also summarizes and quizzes students based on what was taught.
 
-* HKUST-Radica Big Datathon - 2nd : Built a Youtube-scraper that analyzes people and objects in video footage to extrapolate fashion trends
-
-* Cyberport Creative Micro Fund : Won HKD 100,000 in under 5 minutes by pitching a startup to a panel of investors at Cyberport
-
 * EasyShip 24 Hour E-Commerce Hackathon 2017 - 1st Runner up : Built a revolutionary UX-centric platform to tailor easyship's UI to the needs of crowdfundees through prediction analytics
 
 * Hack the Runway 2017 - CHAMPION : Inspiree - we built a platform that autotags fashion images uploaded by users with image classification and NLP, with a dashboard to present interpretable insight [video](https://www.youtube.com/watch?v=0t6zcJpMtqo)
 
 ### Gallery
 
-[![IMAGE ALT TEXT](https://media-exp1.licdn.com/media-proxy/ext?w=960&h=540&f=n&hash=0UR8uIs%2BCUWaSjUz83FyC3ULVco%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta9Er0Vinkhwfjw8177yE41y87UNCVordEGXyD3u0qYrdf3G8eZSOceT3uV5ELC4clAU7d_L5QmHhD5q5f9jpet93iMS0Io24ZxUBbFI8lWxI)]
-
-[![IMAGE ALT TEXT](https://media-exp1.licdn.com/media-proxy/ext?w=1024&h=768&f=n&hash=ClqFvKCKz3ViID6JjLa49QXb9Ks%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWi8eMfcebX1o0AeKXoDjQBjeuq1STfhRI6_LIjmeNxwjJXlLZD5agYUbhl4j3lK6w)]
-
-[![IMAGE ALT TEXT](https://media-exp1.licdn.com/media-proxy/ext?w=1024&h=1004&f=n&hash=qVGfbGZVMeN4fd74v9TbmdtMwso%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjoK8ONe-SioEAQf30GjQA6Kum1ETS0EY7qIt_uKI9w38HscJD5agYUbhl4j3lK6w)]
-
-[![IMAGE ALT TEXT](https://media-exp1.licdn.com/media-proxy/ext?w=1024&h=768&f=n&hash=c%2FNOu2%2BiOeRHJzBSkg6cIQoer30%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjhcc7efLWi9UAUeCQHjQBjeua1EWOwG47qIo3ufokkicLgJsb5agYUbhl4j3lK6w)]
-
-[![IMAGE ALT TEXT](/images/tweet.PNG)](http://media.licdn.com/embeds/media.html?src=https%3A%2F%2Ftwitter.com%2Fleonlaroue%2Fstatus%2F1059263707417534464&amp;url=https%3A%2F%2Ftwitter.com%2Fleonlaroue%2Fstatus%2F1059263707417534464&amp;type=text%2Fhtml&amp;schema=twitter)
-
-[![IMAGE ALT TEXT](https://media-exp1.licdn.com/media-proxy/ext?w=1024&h=768&f=n&hash=vgqAW7ect%2FAclOrjdnMzujQNftU%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjgfMbaKLD1o0AWf3kEjQBneeu1STPmQI7qLIm5KNQkicS2IZT5agYUbhl4j3lK6w)]
-
-[![IMAGE ALT TEXT](https://media-exp1.licdn.com/media-proxy/ext?w=1024&h=768&f=n&hash=AEtomuVETBlDVQyZVOHulkadUMI%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWi7KJXbfbupp0AfeSUIjQA6fee1ETTiEo67Ld-6KYly3cO2JsX5agYUbhl4j3lK6w)]
-
-[![IMAGE ALT TEXT](/images/fashism.jpg)]
-
+<iframe src="https://hkustconnect-my.sharepoint.com/personal/sdatta_connect_ust_hk/_layouts/15/Doc.aspx?sourcedoc={f272216e-d008-4f20-a1a8-b57e4228926d}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="350px" height="221px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
