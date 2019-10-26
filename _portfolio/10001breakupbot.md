@@ -22,11 +22,9 @@ After building and testing the system within a group of test users, I additional
 
 [![IMAGE ALT TEXT](/images/poster.PNG)](https://drive.google.com/open?id=0Bya0t6OLDU2FNTV2S2NKTmpMSHc)
 
-[![IMAGE ALT TEXT](/images/bb1.jpg)]
+[![IMAGE ALT TEXT](/images/bb1.png)]
 
 [![IMAGE ALT TEXT](/images/Inkedbb2_LI.jpg)]
-
-<iframe width="560" src="https://github.com/dattasiddhartha-3/dattasiddhartha-3.github.io/blob/master/images/Inkedbb2_LI.jpg?raw=true" ></iframe>
 
 [paper](https://drive.google.com/file/d/142kTVrKNGH42splekvbfXGVtT9HhNQPq/view)
 
