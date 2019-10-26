@@ -6,7 +6,7 @@ collection: portfolio
 
 <!-- [![IMAGE ALT TEXT](http://img.youtube.com/vi/1NxWMQA7tlM/0.jpg)](https://www.youtube.com/watch?v=1NxWMQA7tlM) -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=1NxWMQA7tlM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1NxWMQA7tlM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Try the demo](https://www.facebook.com/BreakupBot-20-1328526643902687/) : Click "Send Message" to start interacting with the isolated NLP system (or watch the [demo](https://www.youtube.com/watch?v=1NxWMQA7tlM))
 
