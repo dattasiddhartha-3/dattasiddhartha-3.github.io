@@ -78,5 +78,5 @@ Particular contributions include:
 
 ### Gallery
 
-<iframe src="https://hkustconnect-my.sharepoint.com/personal/sdatta_connect_ust_hk/_layouts/15/Doc.aspx?sourcedoc={f272216e-d008-4f20-a1a8-b57e4228926d}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="350px" height="221px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://hkustconnect-my.sharepoint.com/personal/sdatta_connect_ust_hk/_layouts/15/Doc.aspx?sourcedoc={f272216e-d008-4f20-a1a8-b57e4228926d}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="1186px" height="691px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
