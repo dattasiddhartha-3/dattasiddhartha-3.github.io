@@ -20,6 +20,8 @@ After building and testing the system within a group of test users, I additional
 
 [![IMAGE ALT TEXT](/images/poster.PNG)](https://drive.google.com/open?id=0Bya0t6OLDU2FNTV2S2NKTmpMSHc)
 
+[![IMAGE ALT TEXT](/images/bb1.JPG)]
+[![IMAGE ALT TEXT](/images/Inkedbb2_LI.JPG)]
 
 [paper](https://drive.google.com/file/d/142kTVrKNGH42splekvbfXGVtT9HhNQPq/view)
 
