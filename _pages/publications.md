@@ -105,3 +105,4 @@ _** Awarded to Top 0.0015% of undergraduate student population
 <!-- * Prof Thomas Bourveau, Accounting, Columbia University -->
 <!-- * Prof Ikhlaq Sidhu, Industrial Engineering & Operations Research, UC Berkeley -->
 <!-- * Prof Ted Clark, Information Systems, HKUST -->
+* Peers testimony: [CalHacks](http://www.zacharychaoportfolio.com/blog/calhacks), [SacHacks](http://www.zacharychaoportfolio.com/blog/sacHacks)
