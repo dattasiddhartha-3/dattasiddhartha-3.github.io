@@ -2,7 +2,7 @@
 main:
 
   - title: "Project Portfolio"
-    url: /visualportfolio/
+    url: /portfolio/
 
   - title: "Research Experience"
     url: /publications/
