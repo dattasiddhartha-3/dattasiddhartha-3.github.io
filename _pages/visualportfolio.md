@@ -11,7 +11,7 @@ author_profile: true
 
 * Winning submisson at Cal Hacks 5.0 (Epson sponsor award). Our team developed a pair of display goggles that helps patients with Alzheimer’s or other visual/mental disabilities in locating their personal belongings. Users verbalize the item they are searching for (typically items from the COCO image dataset), and all objects detected would be highlighted.
 
-#### [BreakupBot: An Artificial Intelligence Therapeutic Chatbot Conducting Empathetic Counselling via Heartrate Sentimental Analysis]()
+#### [BreakupBot: An Artificial Intelligence Therapeutic Chatbot Conducting Empathetic Counselling via Heartrate Sentimental Analysis](https://dattasiddhartha-3.github.io/portfolio/10001breakupbot/)
 
  <img src="/images/bb1.png" height="50"> <img src="/images/pipeline.PNG" width="50">
 
