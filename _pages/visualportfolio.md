@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Projects"
 permalink: /visualportfolio/
 author_profile: true
 ---
@@ -17,28 +17,28 @@ author_profile: true
 _Winning submisson at Cal Hacks 5.0; display goggles that helps Alzheimer’s patients locate personal affects using object detection and speech recognition._
 
 <details>
-  <summary> Implementation</summary>
+  <summary> Implementation description</summary>
   
-  (*) Trained Mask R-CNN object detection classifier on grayed-out ImageNet dataset to sustain realtime inference / classification rate at least 30fps; optimized setup of models (e.g. Yolo v1-3), datasets (e.g. MS Coco) on high-latency Android embedded system
-  
-  
-  (*) Built Android application and custom scripts (for parsing and relaying camera input) and root-installed into Moverio augmented reality display googles to stream camera input, apply bounding boxes around objects to be detected, and output to display feed of device
+  |>| Trained Mask R-CNN object detection classifier on grayed-out ImageNet dataset to sustain realtime inference / classification rate at least 30fps; optimized setup of models (e.g. Yolo v1-3), datasets (e.g. MS Coco) on high-latency Android embedded system
   
   
-  (*) Contributed an optimized low-latency embedded-system implementation that performs speech recognition, video streaming/display, image processing with minimal visible stutter
+  |>| Built Android application and custom scripts (for parsing and relaying camera input) and root-installed into Moverio augmented reality display googles to stream camera input, apply bounding boxes around objects to be detected, and output to display feed of device
+  
+  
+  |>| Contributed an optimized low-latency embedded-system implementation that performs speech recognition, video streaming/display, image processing with minimal visible stutter
 </details>
 
 <details>
-  <summary> Domain/application value</summary>
+  <summary> Domain/application description</summary>
   
-  (*) 
+  |>| 
   
   
-  (*) 
+  |>| 
   
 </details>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s6UWctGQRwA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="280" height="150" src="https://www.youtube.com/embed/s6UWctGQRwA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### [Execution of philosophical counselling through knowledge graphing, natural language processing, and sentiment approximation](https://dattasiddhartha-3.github.io/portfolio/10001breakupbot/)
@@ -52,34 +52,34 @@ _Winning submisson at Cal Hacks 5.0; display goggles that helps Alzheimer’s pa
 _BreakupBot, a therapeutic chatbot to recuperate from romantic breakups, organically acquired 200+ users of varying demographics within first week._
 
 <details>
-  <summary> Implementation</summary>
+  <summary> Implementation description</summary>
   
-  (*) Built Android application and JSON-based API that receives user text input and returns counselling-based responses
-  
-  
-  (*) Based on real-time user variables (lover type, heartrate-sentiment approximation), categorized text corpus is filtered before running hidden markov chain text generator
+  |>| Built Android application and JSON-based API that receives user text input and returns counselling-based responses
   
   
-  (*) Use random forest classification model and hierarichal clustering to bucket users into John A. Lee's six types of lovers based on preliminary text input
+  |>| Based on real-time user variables (lover type, heartrate-sentiment approximation), categorized text corpus is filtered before running hidden markov chain text generator
   
   
-  (*) Adopted script that estimates heartrate from camera image input based on measurement of signal peak difference at time intervals
+  |>| Use random forest classification model and hierarichal clustering to bucket users into John A. Lee's six types of lovers based on preliminary text input
   
   
-  (*) Scripted web scrapers to pull high-rated responses from love-related forums; constructed knowledge graph from corpora to facilitate filtering for text generator
+  |>| Adopted script that estimates heartrate from camera image input based on measurement of signal peak difference at time intervals
+  
+  
+  |>| Scripted web scrapers to pull high-rated responses from love-related forums; constructed knowledge graph from corpora to facilitate filtering for text generator
 
 
 </details>
 
 <details>
-  <summary> Domain/application value</summary>
+  <summary> Domain/application description</summary>
   
-  (*) 
+  |>| 
   
-  (*) 
+  |>| 
 </details>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1NxWMQA7tlM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="280" height="150" src="https://www.youtube.com/embed/1NxWMQA7tlM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -92,21 +92,21 @@ _BreakupBot, a therapeutic chatbot to recuperate from romantic breakups, organic
 _Contributed (1) quantitative framework for evaluating obfuscated code; (2) privacy-preserving system that uses seq2seq models to obfuscate plaintext and execute obfuscated ciphertext. Submitted to ICASSP 2020_
 
 <details>
-  <summary> Implementation</summary>
+  <summary> Implementation description</summary>
   
-  (*) Implemented reversible character-embedded encoder-decoder model that takes plaintext input, recursively generates obfuscated code to ensure the execution program can run the obfiscated code without error, then returns obfuscated code, h5 model files, and  char/word-to-index dictionaries
+  |>| Implemented reversible character-embedded encoder-decoder model that takes plaintext input, recursively generates obfuscated code to ensure the execution program can run the obfiscated code without error, then returns obfuscated code, h5 model files, and  char/word-to-index dictionaries
   
-  (*) Set up experimental pipeline to obfuscate benchmark source code, and compare/plot defined metrics between benchmark obfuscated and seq2seq obfuscated code
+  |>| Set up experimental pipeline to obfuscate benchmark source code, and compare/plot defined metrics between benchmark obfuscated and seq2seq obfuscated code
   
 
 </details>
 
 <details>
-  <summary> Domain/application value</summary>
+  <summary> Domain/application description</summary>
   
-  (*) 
+  |>| 
   
-  (*) 
+  |>| 
 </details>
 
 ### [Motif detection and clustering of franchise location network graphs](https://dattasiddhartha-3.github.io/portfolio/10002locationfingerprinting/)
@@ -120,23 +120,23 @@ _Contributed (1) quantitative framework for evaluating obfuscated code; (2) priv
 _Clustering network motifs of successful franchise locations, to consequently identify franchise expansion patterns._
 
 <details>
-  <summary> Implementation</summary>
+  <summary> Implementation description</summary>
   
-  (*) Hybrid implementation of motif-detection, bridge-detection, and clustering algorithms to yield sequential coordinates of geographical locations depending on category of product/business, based on network de-anonymization framework
+  |>| Hybrid implementation of motif-detection, bridge-detection, and clustering algorithms to yield sequential coordinates of geographical locations depending on category of product/business, based on network de-anonymization framework
   
-  (*) Developed REST API to run algorithm and pass JSON-formatted output to Ruby on Rails frontend
+  |>| Developed REST API to run algorithm and pass JSON-formatted output to Ruby on Rails frontend
   
-  (*) Contributions of this work in the use of network graphs in time-independent pattern interpolation, recursive backtesting method of running/validating the motifs through training/testing franchises
+  |>| Contributions of this work in the use of network graphs in time-independent pattern interpolation, recursive backtesting method of running/validating the motifs through training/testing franchises
   
 
 </details>
 
 <details>
-  <summary> Domain/application value</summary>
+  <summary> Domain/application description</summary>
   
-  (*) The project holds value from a geographical information systems (GIS) or operations perspective, as it autonomously generates expansion patterns, including non-obvious ones. This would aid newly-developed companies to expand their businesses in a structured way that had "proven" to succeed.
+  |>| The project holds value from a geographical information systems (GIS) or operations perspective, as it autonomously generates expansion patterns, including non-obvious ones. This would aid newly-developed companies to expand their businesses in a structured way that had "proven" to succeed.
   
-  (*) 
+  |>| 
 </details>
 
 ### [GAN-MC simulation for HIV sequence prediction](https://dattasiddhartha-3.github.io/portfolio/10003haiv/)
@@ -150,19 +150,19 @@ _Clustering network motifs of successful franchise locations, to consequently id
 _Predicting future HIV sequences given initial strains through use of Monte Carlo in mutation, and generative adversarial networks to prune predictions._
 
 <details>
-  <summary> Implementation</summary>
+  <summary> Implementation description</summary>
   
-  (*) Applied mutations (addition, substitution, etc) through Monte Carlo upon listed initial strain sequences (source: Stanford HIV database); built adversarial network to generate adversarial sequences, and discriminator/classification network to identify valid subsequent sequences to prune MC-mutations
+  |>| Applied mutations (addition, substitution, etc) through Monte Carlo upon listed initial strain sequences (source: Stanford HIV database); built adversarial network to generate adversarial sequences, and discriminator/classification network to identify valid subsequent sequences to prune MC-mutations
   
 
 </details>
 
 <details>
-  <summary> Domain/application value</summary>
+  <summary> Domain/application description</summary>
   
-  (*) Further contribution of providing a mutation prediction algorithm is classifying HIV antiretroviral medication for specific strains of HIV, thus optimizing medication intake for patients in terms of viral drig resistance and elimination of virus
+  |>| Further contribution of providing a mutation prediction algorithm is classifying HIV antiretroviral medication for specific strains of HIV, thus optimizing medication intake for patients in terms of viral drig resistance and elimination of virus
   
-  (*) 
+  |>| 
   
 </details>
 
@@ -179,23 +179,23 @@ _Predicting future HIV sequences given initial strains through use of Monte Carl
 _Synthesis of musical notes based on tapping food with utensils, with each dish assigned to a different instrument._
 
 <details>
-  <summary> Implementation</summary>
+  <summary> Implementation description</summary>
   
-  (*) Trained Resnet and Yolo object detection models on labelled food images; paired food categories with instruments, and sub-categories with different notes, and encoded x-axis location across the sub-category image with distinct notes
+  |>| Trained Resnet and Yolo object detection models on labelled food images; paired food categories with instruments, and sub-categories with different notes, and encoded x-axis location across the sub-category image with distinct notes
   
-  (*) Trained separate object detection model to identify utensils, and calculate proximity between utensils and food item (distance~0 infers impact)
+  |>| Trained separate object detection model to identify utensils, and calculate proximity between utensils and food item (distance~0 infers impact)
   
-  (*) Human-computer interaction contribution in terms of augmenting a dining experience with sound, visuals and physical action.
+  |>| Human-computer interaction contribution in terms of augmenting a dining experience with sound, visuals and physical action.
   
 
 </details>
 
 <details>
-  <summary> Domain/application value</summary>
+  <summary> Domain/application description</summary>
   
-  (*) 
+  |>| 
   
-  (*) 
+  |>| 
   
 </details>
 
@@ -214,21 +214,21 @@ _Synthesis of musical notes based on tapping food with utensils, with each dish 
 _Predicting likelihood to act or not to act through computational models based on (i) expected value to gain and (ii) neural ECoG signals._
 
 <details>
-  <summary> Implementation</summary>
+  <summary> Implementation description</summary>
   
-  (*) Built deep learning models (multilayer perceptron, LSTM, R-CNN) with Pytorch to generate ECoG decision-making distributions and prediction of decision classification based on initial ECoG and potential gainable values
+  |>| Built deep learning models (multilayer perceptron, LSTM, R-CNN) with Pytorch to generate ECoG decision-making distributions and prediction of decision classification based on initial ECoG and potential gainable values
   
-  (*) Built visualization functions to plot MATLAB-stored ECoG signals recorded from epilepsy patients performing gambling tasks
+  |>| Built visualization functions to plot MATLAB-stored ECoG signals recorded from epilepsy patients performing gambling tasks
   
 
 </details>
 
 <details>
-  <summary> Domain/application value</summary>
+  <summary> Domain/application description</summary>
   
-  (*) 
+  |>| 
   
-  (*) 
+  |>| 
   
 </details>
 
@@ -243,19 +243,19 @@ _Predicting likelihood to act or not to act through computational models based o
 _Tag words of multiple definitions to study concept/word learning among children._
 
 <details>
-  <summary> Implementation</summary>
+  <summary> Implementation description</summary>
   
-  (*) Loaded corpora from childes-db, loaded tagging functions and text data from SemCor, built interactive tool using JavaScript and jquery for users on Mechanical Turk to tag polysemous words, in order to develop computational models around chidren concept learning
+  |>| Loaded corpora from childes-db, loaded tagging functions and text data from SemCor, built interactive tool using JavaScript and jquery for users on Mechanical Turk to tag polysemous words, in order to develop computational models around chidren concept learning
   
 
 </details>
 
 <details>
-  <summary> Domain/application value</summary>
+  <summary> Domain/application description</summary>
   
-  (*) 
+  |>| 
   
-  (*) 
+  |>| 
   
   
 </details>
