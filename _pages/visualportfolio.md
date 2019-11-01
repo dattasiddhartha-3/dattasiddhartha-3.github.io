@@ -19,6 +19,8 @@ author_profile: true
   </div>
 </div>
 
+<img width="150" src="https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/e253ebdepson_goggles_lq.PNG"> <img width="350" src="/images/ba06d3445330501_2205033879773905_1146807820524453888_n.jpg" > <img width="150" src="/images/moverioimage.PNG">
+
 [video](http://www.youtube.com/watch?v=s6UWctGQRwA)
 [code](https://hkustconnect-my.sharepoint.com/personal/sdatta_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsdatta%5Fconnect%5Fust%5Fhk%2FDocuments%2FBerkeley%2FMoverio%2DMemoryPalace%2DInstructions%2Ezip&parent=%2Fpersonal%2Fsdatta%5Fconnect%5Fust%5Fhk%2FDocuments%2FBerkeley) 
 [install instructions](https://drive.google.com/open?id=183nrhzzW63Xrgerxxk8LOU9aBcUO_XZH) 
@@ -73,15 +75,15 @@ _BreakupBot, a therapeutic chatbot to recuperate from romantic breakups, organic
 <details>
   <summary> Implementation</summary>
   
-  (*) Trained Mask R-CNN object detection classifier on grayed-out ImageNet dataset to sustain realtime inference / classification rate at least 30fps; optimized setup of models (e.g. Yolo v1-3), datasets (e.g. MS Coco) on high-latency Android embedded system
+  (*) 
   
-  (*) Built Android application and custom scripts (for parsing and relaying camera input) and root-installed into Moverio augmented reality display googles to stream camera input, apply bounding boxes around objects to be detected, and output to display feed of device
+  (*) 
   
-  (*) Contributed an optimized low-latency embedded-system implementation that performs speech recognition, video streaming/display, image processing with minimal visible stutter
-</details>
+  (*) 
 
 <details>
   <summary> Domain/application value</summary>
+  
   (*) 
   
   (*) 
