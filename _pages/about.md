@@ -1,12 +1,10 @@
 ---
-layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/Q11_R_vP8iDYi8VD6heNj_Compressed_4.png
 excerpt: >
   A young, aspiring computational scientist with the ambition to design new tools to solve larger problems.<br />
-feature_row:
 
  ### [Mask R-CNN object detection to augment human peripheral search](https://dattasiddhartha-3.github.io/portfolio/10000memorypalace/)
 
@@ -230,6 +228,3 @@ _Synthesis of musical notes based on tapping food with utensils, with each dish 
   
 </details>
 
----
-
-{% include feature_row %}
