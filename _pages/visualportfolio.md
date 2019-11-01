@@ -38,6 +38,7 @@ _Winning submisson at Cal Hacks 5.0; display goggles that helps Alzheimer’s pa
   
 </details>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s6UWctGQRwA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### [Execution of philosophical counselling through knowledge graphing, natural language processing, and sentiment approximation](https://dattasiddhartha-3.github.io/portfolio/10001breakupbot/)
@@ -77,6 +78,9 @@ _BreakupBot, a therapeutic chatbot to recuperate from romantic breakups, organic
   
   (*) 
 </details>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1NxWMQA7tlM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 ### [Automated source code obfuscation and privacy-preserving execution through sequence-to-sequence networks](https://dattasiddhartha-3.github.io/portfolio/10002doc/)
@@ -193,27 +197,28 @@ _Synthesis of musical notes based on tapping food with utensils, with each dish 
   
   (*) 
   
+</details>
+
   
-### [](https://dattasiddhartha-3.github.io/portfolio/10004armusic/)
+### [Value-based decision-making predictions through time-series ECoG signal models](https://dattasiddhartha-3.github.io/portfolio/20010schoolproj/)
 
-<img width="350" src="/images/armusic.png">
+<img width="350" src="https://i1.wp.com/data-x.blog/wp-content/uploads/2018/12/Brain-Poster-Aditya-Goel-page-001.jpg?zoom=2&resize=2000%2C1200&ssl=1">
 
-[code](https://bit.ly/2P7YYRQ)
+[code](https://github.com/dattasiddhartha/DataX-NeuralDecisionMaking)
 
-[video](https://bit.ly/2GcKUCl)
+[poster](https://data-x.blog/projects/predicting-gambling-decisions/)
 
-[video](https://bit.ly/2UY9FM0)
+[data](https://crcns.org/data-sets/ofc/ofc-3/about-ofc-2)
 
-_Synthesis of musical notes based on tapping food with utensils, with each dish assigned to a different instrument._
+
+_Predicting likelihood to act or not to act through computational models based on (i) expected value to gain and (ii) neural ECoG signals._
 
 <details>
   <summary> Implementation</summary>
   
-  (*) Trained Resnet and Yolo object detection models on labelled food images; paired food categories with instruments, and sub-categories with different notes, and encoded x-axis location across the sub-category image with distinct notes
+  (*) Built deep learning models (multilayer perceptron, LSTM, R-CNN) with Pytorch to generate ECoG decision-making distributions and prediction of decision classification based on initial ECoG and potential gainable values
   
-  (*) Trained separate object detection model to identify utensils, and calculate proximity between utensils and food item (distance~0 infers impact)
-  
-  (*) Human-computer interaction contribution in terms of augmenting a dining experience with sound, visuals and physical action.
+  (*) Built visualization functions to plot MATLAB-stored ECoG signals recorded from epilepsy patients performing gambling tasks
   
 
 </details>
@@ -227,6 +232,38 @@ _Synthesis of musical notes based on tapping food with utensils, with each dish 
   
 </details>
 
----
 
-{% include feature_row %}
+### [Polysemy word tagging tool](https://dattasiddhartha-3.github.io/portfolio/20010schoolproj/)
+
+<img width="350" src="https://github.com/dattasiddhartha-1/polysemous-word-tagging-tool/raw/master/screenshot_preview.PNG">
+
+[code](https://github.com/dattasiddhartha-1/polysemous-word-tagging-tool/tree/master)
+
+
+_Tag words of multiple definitions to study concept/word learning among children._
+
+<details>
+  <summary> Implementation</summary>
+  
+  (*) Loaded corpora from childes-db, loaded tagging functions and text data from SemCor, built interactive tool using JavaScript and jquery for users on Mechanical Turk to tag polysemous words, in order to develop computational models around chidren concept learning
+  
+
+</details>
+
+<details>
+  <summary> Domain/application value</summary>
+  
+  (*) 
+  
+  (*) 
+  
+  
+</details>
+
+  ### [Past Hackathon Winnings/Submission](https://dattasiddhartha-3.github.io/portfolio/20000hackathons/)
+  
+  ### [Past School Projects](https://dattasiddhartha-3.github.io/portfolio/20010schoolproj/)
+  
+  ### [Side Projects](https://dattasiddhartha-3.github.io/portfolio/20015sideprojects/)
+  
+  ### [Open-source Contributions](https://dattasiddhartha-3.github.io/portfolio/20020opensource/)
