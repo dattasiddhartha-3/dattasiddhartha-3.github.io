@@ -162,6 +162,38 @@ _Predicting future HIV sequences given initial strains through use of Monte Carl
   
 </details>
 
+### [Instrumental note generation through object-impact detection](https://dattasiddhartha-3.github.io/portfolio/10004armusic/)
+
+<img width="350" src="/images/armusic.png">
+
+[code](https://bit.ly/2P7YYRQ)
+
+[video](https://bit.ly/2GcKUCl)
+
+[video](https://bit.ly/2UY9FM0)
+
+_Synthesis of musical notes based on tapping food with utensils, with each dish assigned to a different instrument._
+
+<details>
+  <summary> Implementation</summary>
+  
+  (*) Trained Resnet and Yolo object detection models on labelled food images; paired food categories with instruments, and sub-categories with different notes, and encoded x-axis location across the sub-category image with distinct notes
+  
+  (*) Trained separate object detection model to identify utensils, and calculate proximity between utensils and food item (distance~0 infers impact)
+  
+  (*) Human-computer interaction contribution in terms of augmenting a dining experience with sound, visuals and physical action.
+  
+
+</details>
+
+<details>
+  <summary> Domain/application value</summary>
+  
+  (*) 
+  
+  (*) 
+  
+  
 ### [](https://dattasiddhartha-3.github.io/portfolio/10004armusic/)
 
 <img width="350" src="/images/armusic.png">
@@ -172,12 +204,16 @@ _Predicting future HIV sequences given initial strains through use of Monte Carl
 
 [video](https://bit.ly/2UY9FM0)
 
-_ _
+_Synthesis of musical notes based on tapping food with utensils, with each dish assigned to a different instrument._
 
 <details>
   <summary> Implementation</summary>
   
-  (*) 
+  (*) Trained Resnet and Yolo object detection models on labelled food images; paired food categories with instruments, and sub-categories with different notes, and encoded x-axis location across the sub-category image with distinct notes
+  
+  (*) Trained separate object detection model to identify utensils, and calculate proximity between utensils and food item (distance~0 infers impact)
+  
+  (*) Human-computer interaction contribution in terms of augmenting a dining experience with sound, visuals and physical action.
   
 
 </details>
