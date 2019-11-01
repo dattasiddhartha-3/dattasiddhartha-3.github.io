@@ -15,7 +15,7 @@ This is a project for INFO190 at UC Berkeley, where my team used Illustrator, Ta
 [d3.js code](https://github.com/dattasiddhartha/INFO190-DATAVIZ)
 
 Sample visualization:
-<iframe width="100" src="http://dattasiddhartha.github.io/INFO190-DATAVIZ"></iframe>
+<iframe width="1000" height="300" src="http://dattasiddhartha.github.io/INFO190-DATAVIZ"></iframe>
 
 
 ### Audio Style Transfer
