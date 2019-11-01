@@ -5,7 +5,7 @@ permalink: /visualportfolio/
 author_profile: true
 ---
 
-#### [Mask R-CNN object detection to augment human peripheral search](https://dattasiddhartha-3.github.io/portfolio/10000memorypalace/)
+### [Mask R-CNN object detection to augment human peripheral search](https://dattasiddhartha-3.github.io/portfolio/10000memorypalace/)
 
 <div class="row">
   <div class="column1">
@@ -18,6 +18,7 @@ author_profile: true
     <img width="150" src="/images/moverioimage.PNG">
   </div>
 </div>
+
 [video](http://www.youtube.com/watch?v=s6UWctGQRwA)
 [code](https://hkustconnect-my.sharepoint.com/personal/sdatta_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsdatta%5Fconnect%5Fust%5Fhk%2FDocuments%2FBerkeley%2FMoverio%2DMemoryPalace%2DInstructions%2Ezip&parent=%2Fpersonal%2Fsdatta%5Fconnect%5Fust%5Fhk%2FDocuments%2FBerkeley) 
 [install instructions](https://drive.google.com/open?id=183nrhzzW63Xrgerxxk8LOU9aBcUO_XZH) 
@@ -49,7 +50,7 @@ _Winning submisson at Cal Hacks 5.0; display goggles that helps Alzheimer’s pa
 
 
 
-#### [Execution of philosophical counselling through knowledge graphing, natural language processing, and sentiment approximation](https://dattasiddhartha-3.github.io/portfolio/10001breakupbot/)
+### [Execution of philosophical counselling through knowledge graphing, natural language processing, and sentiment approximation](https://dattasiddhartha-3.github.io/portfolio/10001breakupbot/)
 
 <div class="row">
   <div class="column1">
@@ -62,11 +63,12 @@ _Winning submisson at Cal Hacks 5.0; display goggles that helps Alzheimer’s pa
     <img width="200" src="/images/Inkedbb2_LI.jpg">
   </div>
 </div>
+
 [video](https://www.youtube.com/embed/1NxWMQA7tlM)
 [paper](https://drive.google.com/file/d/142kTVrKNGH42splekvbfXGVtT9HhNQPq/view)
 [poster](https://drive.google.com/open?id=0Bya0t6OLDU2FNTV2S2NKTmpMSHc)
 
-_BreakupBot, a therapeutic chatbot to recuperate from romantic breakups, organically acquired 200+ users of varying demographics within first week. _
+_BreakupBot, a therapeutic chatbot to recuperate from romantic breakups, organically acquired 200+ users of varying demographics within first week._
 
 <details>
   <summary> Implementation</summary>
