@@ -7,18 +7,6 @@ author_profile: true
 
 ### [Mask R-CNN object detection to augment human peripheral search](https://dattasiddhartha-3.github.io/portfolio/10000memorypalace/)
 
-<div class="row">
-  <div class="column1">
-    <img width="150" src="https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/e253ebdepson_goggles_lq.PNG">
-  </div>
-  <div class="column2">
-    <img width="350" src="/images/ba06d3445330501_2205033879773905_1146807820524453888_n.jpg" >
-  </div>
-  <div class="column3">
-    <img width="150" src="/images/moverioimage.PNG">
-  </div>
-</div>
-
 <img width="150" src="https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/e253ebdepson_goggles_lq.PNG"> <img width="350" src="/images/ba06d3445330501_2205033879773905_1146807820524453888_n.jpg" > <img width="150" src="/images/moverioimage.PNG">
 
 [video](http://www.youtube.com/watch?v=s6UWctGQRwA)
@@ -54,23 +42,38 @@ _Winning submisson at Cal Hacks 5.0; display goggles that helps Alzheimer’s pa
 
 ### [Execution of philosophical counselling through knowledge graphing, natural language processing, and sentiment approximation](https://dattasiddhartha-3.github.io/portfolio/10001breakupbot/)
 
-<div class="row">
-  <div class="column1">
-    <img width="150" src="/images/bb1.png">
-  </div>
-  <div class="column2">
-    <img width="400" src="/images/pipeline.PNG" >
-  </div>
-  <div class="column3">
-    <img width="200" src="/images/Inkedbb2_LI.jpg">
-  </div>
-</div>
+<img width="150" src="/images/bb1.png"> <img width="400" src="/images/pipeline.PNG" > <img width="200" src="/images/Inkedbb2_LI.jpg">
 
 [video](https://www.youtube.com/embed/1NxWMQA7tlM)
 [paper](https://drive.google.com/file/d/142kTVrKNGH42splekvbfXGVtT9HhNQPq/view)
 [poster](https://drive.google.com/open?id=0Bya0t6OLDU2FNTV2S2NKTmpMSHc)
 
 _BreakupBot, a therapeutic chatbot to recuperate from romantic breakups, organically acquired 200+ users of varying demographics within first week._
+
+<details>
+  <summary> Implementation</summary>
+  
+  (*) 
+  
+  (*) 
+  
+  (*) 
+
+<details>
+  <summary> Domain/application value</summary>
+  
+  (*) 
+  
+  (*) 
+</details>
+
+### [Execution of philosophical counselling through knowledge graphing, natural language processing, and sentiment approximation](https://dattasiddhartha-3.github.io/portfolio/10001breakupbot/)
+
+<img width="150" src="/images/bb1.png"> <img width="400" src="/images/pipeline.PNG" > <iframe width="200" src="https://www.youtube.com/embed/1NxWMQA7tlM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[video](https://www.youtube.com/embed/1NxWMQA7tlM)
+
+_ _
 
 <details>
   <summary> Implementation</summary>
