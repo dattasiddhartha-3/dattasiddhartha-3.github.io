@@ -85,16 +85,15 @@ _BreakupBot, a therapeutic chatbot to recuperate from romantic breakups, organic
 
 [pdf](https://arxiv.org/pdf/1909.01837.pdf)
 
-_Contributed (1) quantitative framework for evaluating obfuscated code; (2) privacy-preserving system that uses seq2seq models to obfuscate plaintext and execute obfuscated ciphertext. _
+_Contributed (1) quantitative framework for evaluating obfuscated code; (2) privacy-preserving system that uses seq2seq models to obfuscate plaintext and execute obfuscated ciphertext. Submitted to ICASSP 2020_
 
 <details>
   <summary> Implementation</summary>
   
-  (*) 
+  (*) Implemented reversible character-embedded encoder-decoder model that takes plaintext input, recursively generates obfuscated code to ensure the execution program can run the obfiscated code without error, then returns obfuscated code, h5 model files, and  char/word-to-index dictionaries
   
-  (*) 
+  (*) Set up experimental pipeline to obfuscate benchmark source code, and compare/plot defined metrics between benchmark obfuscated and seq2seq obfuscated code
   
-  (*) 
 
 </details>
 
@@ -104,4 +103,90 @@ _Contributed (1) quantitative framework for evaluating obfuscated code; (2) priv
   (*) 
   
   (*) 
+</details>
+
+### [Motif detection and clustering of franchise location network graphs](https://dattasiddhartha-3.github.io/portfolio/10002locationfingerprinting/)
+
+<img width="250" src="/images/fingerprint.PNG"> <img width="450" src="/images/fingerprint2.PNG" >
+
+[code](https://github.com/dattasiddhartha-1/Berkeley-Demand-Enterprises)
+
+[slides](https://drive.google.com/open?id=1aOQiZsVpe2V5yjKr-_aAqeqCny1E2izo)
+
+_Clustering network motifs of successful franchise locations, to consequently identify franchise expansion patterns._
+
+<details>
+  <summary> Implementation</summary>
+  
+  (*) Hybrid implementation of motif-detection, bridge-detection, and clustering algorithms to yield sequential coordinates of geographical locations depending on category of product/business, based on network de-anonymization framework
+  
+  (*) Developed REST API to run algorithm and pass JSON-formatted output to Ruby on Rails frontend
+  
+  (*) Contributions of this work in the use of network graphs in time-independent pattern interpolation, recursive backtesting method of running/validating the motifs through training/testing franchises
+  
+
+</details>
+
+<details>
+  <summary> Domain/application value</summary>
+  
+  (*) The project holds value from a geographical information systems (GIS) or operations perspective, as it autonomously generates expansion patterns, including non-obvious ones. This would aid newly-developed companies to expand their businesses in a structured way that had "proven" to succeed.
+  
+  (*) 
+</details>
+
+### [GAN-MC simulation for HIV sequence prediction](https://dattasiddhartha-3.github.io/portfolio/10003haiv/)
+
+<img width="350" src="/images/haiv5.PNG"> <img width="400" src="/images/haiv4.PNG" >
+
+[paper](https://drive.google.com/open?id=1UwI3d3BeTJiHmEiT8r4QizsMBvl6ONaI)
+
+[poster](https://drive.google.com/open?id=1kv3ASC_jhFq8qyhGdLw87ZcuxMC8Dpnu)
+
+_Predicting future HIV sequences given initial strains through use of Monte Carlo in mutation, and generative adversarial networks to prune predictions._
+
+<details>
+  <summary> Implementation</summary>
+  
+  (*) Applied mutations (addition, substitution, etc) through Monte Carlo upon listed initial strain sequences (source: Stanford HIV database); built adversarial network to generate adversarial sequences, and discriminator/classification network to identify valid subsequent sequences to prune MC-mutations
+  
+
+</details>
+
+<details>
+  <summary> Domain/application value</summary>
+  
+  (*) Further contribution of providing a mutation prediction algorithm is classifying HIV antiretroviral medication for specific strains of HIV, thus optimizing medication intake for patients in terms of viral drig resistance and elimination of virus
+  
+  (*) 
+  
+</details>
+
+### [](https://dattasiddhartha-3.github.io/portfolio/10004armusic/)
+
+<img width="350" src="/images/armusic.png">
+
+[code](https://bit.ly/2P7YYRQ)
+
+[video](https://bit.ly/2GcKUCl)
+
+[video](https://bit.ly/2UY9FM0)
+
+_ _
+
+<details>
+  <summary> Implementation</summary>
+  
+  (*) 
+  
+
+</details>
+
+<details>
+  <summary> Domain/application value</summary>
+  
+  (*) 
+  
+  (*) 
+  
 </details>
