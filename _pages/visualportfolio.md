@@ -53,11 +53,20 @@ _BreakupBot, a therapeutic chatbot to recuperate from romantic breakups, organic
 <details>
   <summary> Implementation</summary>
   
-  (*) 
+  (*) Built Android application and JSON-based API that receives user text input and returns counselling-based responses
   
-  (*) 
   
-  (*) 
+  (*) Based on real-time user variables (lover type, heartrate-sentiment approximation), categorized text corpus is filtered before running hidden markov chain text generator
+  
+  
+  (*) Use random forest classification model and hierarichal clustering to bucket users into John A. Lee's six types of lovers based on preliminary text input
+  
+  
+  (*) Adopted script that estimates heartrate from camera image input based on measurement of signal peak difference at time intervals
+  
+  
+  (*) Scripted web scrapers to pull high-rated responses from love-related forums; constructed knowledge graph from corpora to facilitate filtering for text generator
+
 
 </details>
 
@@ -70,13 +79,13 @@ _BreakupBot, a therapeutic chatbot to recuperate from romantic breakups, organic
 </details>
 
 
-### [Execution of philosophical counselling through knowledge graphing, natural language processing, and sentiment approximation](https://dattasiddhartha-3.github.io/portfolio/10001breakupbot/)
+### [Automated source code obfuscation and privacy-preserving execution through sequence-to-sequence networks](https://dattasiddhartha-3.github.io/portfolio/10002doc/)
 
-<img width="150" src="/images/bb1.png"> <img width="400" src="/images/pipeline.PNG" > <iframe width="200" src="https://www.youtube.com/embed/1NxWMQA7tlM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<img width="250" src="/images/ciphertext_generation.PNG"> <img width="250" src="/images/key_generation.PNG" > <img width="250" src="/images/execution.PNG" >
 
-[video](https://www.youtube.com/embed/1NxWMQA7tlM)
+[pdf](https://arxiv.org/pdf/1909.01837.pdf)
 
-_ _
+_Contributed (1) quantitative framework for evaluating obfuscated code; (2) privacy-preserving system that uses seq2seq models to obfuscate plaintext and execute obfuscated ciphertext. _
 
 <details>
   <summary> Implementation</summary>
