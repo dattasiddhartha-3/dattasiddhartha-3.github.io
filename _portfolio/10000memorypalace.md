@@ -4,6 +4,20 @@ excerpt: "Winning submisson at Cal Hacks 5.0 (Epson sponsor award). Our team dev
 collection: portfolio
 ---
 
+
+<div class="row">
+  <div class="column">
+    <img src="https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/e253ebdepson_goggles_lq.PNG">
+  </div>
+  <div class="column">
+    <img src="https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/e253ebdepson_goggles_lq.PNG">
+  </div>
+  <div class="column">
+    <img src="https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/e253ebdepson_goggles_lq.PNG">
+  </div>
+</div>
+
+
 <img src="https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/e253ebdepson_goggles_lq.PNG" width="500">
 
 This is what the user sees.
