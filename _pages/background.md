@@ -41,5 +41,5 @@ In my spare time I take a drone out for a spin in the country side and capture a
 
 And I sometimes take part in a few skits...
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=PA74bXwo20w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PA74bXwo20w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
