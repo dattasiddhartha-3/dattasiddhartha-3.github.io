@@ -59,6 +59,8 @@ _BreakupBot, a therapeutic chatbot to recuperate from romantic breakups, organic
   
   (*) 
 
+</details>
+
 <details>
   <summary> Domain/application value</summary>
   
@@ -66,6 +68,7 @@ _BreakupBot, a therapeutic chatbot to recuperate from romantic breakups, organic
   
   (*) 
 </details>
+
 
 ### [Execution of philosophical counselling through knowledge graphing, natural language processing, and sentiment approximation](https://dattasiddhartha-3.github.io/portfolio/10001breakupbot/)
 
@@ -83,6 +86,8 @@ _ _
   (*) 
   
   (*) 
+
+</details>
 
 <details>
   <summary> Domain/application value</summary>
