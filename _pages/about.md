@@ -159,7 +159,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more" 
     
-  - image_path: 
+  - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/winnings.PNG
     alt: "100% fre4e"
     title: "Past Hackathon Winnings/Submission"
     excerpt: ""
@@ -167,7 +167,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more" 
 
-  - image_path: 
+  - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/school2.PNG
     alt: "100% fre4e"
     title: "Past School Projects"
     excerpt: ""
@@ -175,7 +175,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more" 
 
-  - image_path: 
+  - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/emptyclass.PNG
     alt: "100% fre4e"
     title: "Other Side Projects"
     excerpt: ""
@@ -183,7 +183,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more" 
 
-  - image_path: 
+  - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/opens.PNG
     alt: "100% fre4e"
     title: "Open-source Contributions"
     excerpt: ""
