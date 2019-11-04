@@ -61,7 +61,8 @@ feature_row:
   - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/ciphertext_generation.PNG
     alt: "100% free"
     title: "Automated source code obfuscation and privacy-preserving execution through sequence-to-sequence networks"
-    excerpt: "Contributed (1) quantitative framework for evaluating obfuscated code; (2) privacy-preserving system that uses seq2seq models to obfuscate plaintext and execute obfuscated ciphertext. Submitted to ICASSP 2020\n
+    excerpt: "
+    Contributed (1) quantitative framework for evaluating obfuscated code; (2) privacy-preserving system that uses seq2seq models to obfuscate plaintext and execute obfuscated ciphertext. Submitted to ICASSP 2020\n
     
     > [pdf](https://arxiv.org/pdf/1909.01837.pdf)\n
     
@@ -109,7 +110,8 @@ feature_row:
   - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/armusic.png
     alt: "100% fre4e"
     title: "Instrumental note generation through object-impact detection"
-    excerpt: "Synthesis of musical notes based on tapping food with utensils, with each dish assigned to a different instrument.\n
+    excerpt: "
+    Synthesis of musical notes based on tapping food with utensils, with each dish assigned to a different instrument.\n
     
     > [code](https://bit.ly/2P7YYRQ) 
 [video](https://bit.ly/2GcKUCl) 
@@ -129,7 +131,8 @@ feature_row:
  - image_path: https://i1.wp.com/data-x.blog/wp-content/uploads/2018/12/Brain-Poster-Aditya-Goel-page-001.jpg?zoom=2&resize=2000%2C1200&ssl=1
     alt: "100% fre5e"
     title: "Value-based decision-making predictions through time-series ECoG signal models"
-    excerpt: "Predicting likelihood to act or not to act through computational models based on (i) expected value to gain and (ii) neural ECoG signals.\n
+    excerpt: "
+    Predicting likelihood to act or not to act through computational models based on (i) expected value to gain and (ii) neural ECoG signals.\n
     
     > [code](https://github.com/dattasiddhartha/DataX-NeuralDecisionMaking) 
       [poster](https://data-x.blog/projects/predicting-gambling-decisions/) 
