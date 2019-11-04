@@ -157,8 +157,40 @@ feature_row:
     "
     url: "https://dattasiddhartha-3.github.io/portfolio/20010schoolproj/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"  
+    btn_label: "Learn more" 
     
+  - image_path: 
+    alt: "100% fre4e"
+    title: "Past Hackathon Winnings/Submission"
+    excerpt: ""
+    url: "https://dattasiddhartha-3.github.io/portfolio/20000hackathons/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more" 
+
+  - image_path: 
+    alt: "100% fre4e"
+    title: "Past School Projects"
+    excerpt: ""
+    url: "https://dattasiddhartha-3.github.io/portfolio/20010schoolproj/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more" 
+
+  - image_path: 
+    alt: "100% fre4e"
+    title: "Other Side Projects"
+    excerpt: ""
+    url: "https://dattasiddhartha-3.github.io/portfolio/20015sideprojects/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more" 
+
+  - image_path: 
+    alt: "100% fre4e"
+    title: "Open-source Contributions"
+    excerpt: ""
+    url: "https://dattasiddhartha-3.github.io/portfolio/20020opensource/)
+    btn_class: "btn--primary"
+    btn_label: "Learn more" 
+
 ---
 
 {% include feature_row %}
