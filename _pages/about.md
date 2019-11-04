@@ -66,6 +66,10 @@ feature_row:
     title: "Motif detection and clustering of franchise location network graphs"
     excerpt: "Clustering network motifs of successful franchise locations, to consequently identify franchise expansion patterns.
     
+    [code](https://github.com/dattasiddhartha-1/Berkeley-Demand-Enterprises)
+
+    [slides](https://drive.google.com/open?id=1aOQiZsVpe2V5yjKr-_aAqeqCny1E2izo)
+    
      Hybrid implementation of motif-detection, bridge-detection, and clustering algorithms to yield sequential coordinates of geographical locations depending on category of product/business, based on network de-anonymization framework
   
   Developed REST API to run algorithm and pass JSON-formatted output to Ruby on Rails frontend
