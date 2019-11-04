@@ -127,6 +127,20 @@ feature_row:
     
 
     
+    
+ - image_path: https://github.com/dattasiddhartha-1/polysemous-word-tagging-tool/raw/master/screenshot_preview.PNG
+    alt: "100% fre4e"
+    title: "Definition and word property tagging web application for word polysemy"
+    excerpt: "Tag words of multiple definitions to study concept/word learning among children.\n
+    
+    > [code](https://github.com/dattasiddhartha-1/polysemous-word-tagging-tool/tree/master)\n
+
+> Loaded corpora from childes-db, loaded tagging functions and text data from SemCor, built interactive tool using JavaScript and jquery for users on Mechanical Turk to tag polysemous words, in order to develop computational models around chidren concept learning
+    "
+    url: "https://dattasiddhartha-3.github.io/portfolio/20010schoolproj/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"  
+    
 ---
 
 {% include feature_row %}
