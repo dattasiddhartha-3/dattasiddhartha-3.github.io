@@ -126,7 +126,7 @@ feature_row:
     
     
  - image_path: https://i1.wp.com/data-x.blog/wp-content/uploads/2018/12/Brain-Poster-Aditya-Goel-page-001.jpg?zoom=2&resize=2000%2C1200&ssl=1
-    alt: "100% fre4e"
+    alt: "100% fre5e"
     title: "Value-based decision-making predictions through time-series ECoG signal models"
     excerpt: "Predicting likelihood to act or not to act through computational models based on (i) expected value to gain and (ii) neural ECoG signals.\n
     
@@ -136,7 +136,7 @@ feature_row:
 
     > Built deep learning models (multilayer perceptron, LSTM, R-CNN) with Pytorch to generate ECoG decision-making distributions and prediction of decision classification based on initial ECoG and potential gainable values\n
   
- > Built visualization functions to plot MATLAB-stored ECoG signals recorded from epilepsy patients performing gambling tasks
+   > Built visualization functions to plot MATLAB-stored ECoG signals recorded from epilepsy patients performing gambling tasks
     "
     url: "https://dattasiddhartha-3.github.io/portfolio/20010schoolproj/"
     btn_class: "btn--primary"
@@ -144,7 +144,7 @@ feature_row:
     
     
  - image_path: https://github.com/dattasiddhartha-1/polysemous-word-tagging-tool/raw/master/screenshot_preview.PNG
-    alt: "100% fre4e"
+    alt: "100% fre6e"
     title: "Definition and word property tagging web application for word polysemy"
     excerpt: "Tag words of multiple definitions to study concept/word learning among children.\n
     
