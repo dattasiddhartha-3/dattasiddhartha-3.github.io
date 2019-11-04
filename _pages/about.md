@@ -64,11 +64,11 @@ feature_row:
   - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/fingerprint.PNG
     alt: "100% free2"
     title: "Motif detection and clustering of franchise location network graphs"
-    excerpt: "Clustering network motifs of successful franchise locations, to consequently identify franchise expansion patterns.
+    excerpt: "Clustering network motifs of successful franchise locations, to consequently identify franchise expansion patterns.\n
     
     [code](https://github.com/dattasiddhartha-1/Berkeley-Demand-Enterprises)
 
-    [slides](https://drive.google.com/open?id=1aOQiZsVpe2V5yjKr-_aAqeqCny1E2izo)
+    [slides](https://drive.google.com/open?id=1aOQiZsVpe2V5yjKr-_aAqeqCny1E2izo)\n
     
      Hybrid implementation of motif-detection, bridge-detection, and clustering algorithms to yield sequential coordinates of geographical locations depending on category of product/business, based on network de-anonymization framework
   
