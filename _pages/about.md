@@ -153,7 +153,7 @@ feature_row:
 > Loaded corpora from childes-db, loaded tagging functions and text data from SemCor, built interactive tool using JavaScript and jquery for users on Mechanical Turk to tag polysemous words, in order to develop computational models around chidren concept learning
     "
     url: "https://dattasiddhartha-3.github.io/portfolio/10004armusic/"
-    btn_class: "btn--secondary"
+    btn_class: "btn--primary"
     btn_label: "Learn more"  
     
 ---
