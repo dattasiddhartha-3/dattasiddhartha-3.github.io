@@ -187,7 +187,7 @@ feature_row:
     alt: "100% fre4e"
     title: "Open-source Contributions"
     excerpt: ""
-    url: "https://dattasiddhartha-3.github.io/portfolio/20020opensource/)
+    url: "https://dattasiddhartha-3.github.io/portfolio/20020opensource/"
     btn_class: "btn--primary"
     btn_label: "Learn more" 
 
