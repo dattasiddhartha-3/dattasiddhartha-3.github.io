@@ -124,6 +124,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"  
     
+    
  - image_path: https://i1.wp.com/data-x.blog/wp-content/uploads/2018/12/Brain-Poster-Aditya-Goel-page-001.jpg?zoom=2&resize=2000%2C1200&ssl=1
     alt: "100% fre4e"
     title: "Value-based decision-making predictions through time-series ECoG signal models"
@@ -143,6 +144,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"  
     
+    
  - image_path: https://github.com/dattasiddhartha-1/polysemous-word-tagging-tool/raw/master/screenshot_preview.PNG
     alt: "100% fre4e"
     title: "Definition and word property tagging web application for word polysemy"
@@ -152,7 +154,7 @@ feature_row:
 
 > Loaded corpora from childes-db, loaded tagging functions and text data from SemCor, built interactive tool using JavaScript and jquery for users on Mechanical Turk to tag polysemous words, in order to develop computational models around chidren concept learning
     "
-    url: "https://dattasiddhartha-3.github.io/portfolio/10004armusic/"
+    url: "https://dattasiddhartha-3.github.io/portfolio/20010schoolproj/"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
     
