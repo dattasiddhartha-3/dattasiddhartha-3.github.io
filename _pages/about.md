@@ -131,9 +131,7 @@ feature_row:
     excerpt: "Predicting likelihood to act or not to act through computational models based on (i) expected value to gain and (ii) neural ECoG signals.\n
     
     > [code](https://github.com/dattasiddhartha/DataX-NeuralDecisionMaking) 
-
       [poster](https://data-x.blog/projects/predicting-gambling-decisions/) 
-
       [data](https://crcns.org/data-sets/ofc/ofc-3/about-ofc-2)\n
 
     > Built deep learning models (multilayer perceptron, LSTM, R-CNN) with Pytorch to generate ECoG decision-making distributions and prediction of decision classification based on initial ECoG and potential gainable values\n
