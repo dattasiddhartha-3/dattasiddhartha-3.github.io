@@ -125,26 +125,6 @@ feature_row:
     btn_label: "Learn more"  
     
     
- - image_path: https://i1.wp.com/data-x.blog/wp-content/uploads/2018/12/Brain-Poster-Aditya-Goel-page-001.jpg?zoom=2&resize=2000%2C1200&ssl=1
-    alt: "100% fre4e"
-    title: "Value-based decision-making predictions through time-series ECoG signal models"
-    excerpt: "Predicting likelihood to act or not to act through computational models based on (i) expected value to gain and (ii) neural ECoG signals.\n
-    
-    > [code](https://github.com/dattasiddhartha/DataX-NeuralDecisionMaking) 
-
-[poster](https://data-x.blog/projects/predicting-gambling-decisions/) 
-
-[data](https://crcns.org/data-sets/ofc/ofc-3/about-ofc-2)\n
-
-> Built deep learning models (multilayer perceptron, LSTM, R-CNN) with Pytorch to generate ECoG decision-making distributions and prediction of decision classification based on initial ECoG and potential gainable values\n
-  
- > Built visualization functions to plot MATLAB-stored ECoG signals recorded from epilepsy patients performing gambling tasks
-    "
-    url: "https://dattasiddhartha-3.github.io/portfolio/20010schoolproj/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"  
-    
-    
 
     
 ---
