@@ -136,7 +136,7 @@ feature_row:
 
       [data](https://crcns.org/data-sets/ofc/ofc-3/about-ofc-2)\n
 
-> Built deep learning models (multilayer perceptron, LSTM, R-CNN) with Pytorch to generate ECoG decision-making distributions and prediction of decision classification based on initial ECoG and potential gainable values\n
+    > Built deep learning models (multilayer perceptron, LSTM, R-CNN) with Pytorch to generate ECoG decision-making distributions and prediction of decision classification based on initial ECoG and potential gainable values\n
   
  > Built visualization functions to plot MATLAB-stored ECoG signals recorded from epilepsy patients performing gambling tasks
     "
