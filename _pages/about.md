@@ -127,23 +127,34 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"  
     
-  - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/armusic.png
-    alt: "100% fre4e"
-    title: "Instrumental note generation through object-impact detection"
+  - image_path: https://i1.wp.com/data-x.blog/wp-content/uploads/2018/12/Brain-Poster-Aditya-Goel-page-001.jpg?zoom=2&resize=2000%2C1200&ssl=1
+    alt: "100% fre5e"
+    title: "Value-based decision-making predictions through time-series ECoG signal models"
     excerpt: "
-    Synthesis of musical notes based on tapping food with utensils, with each dish assigned to a different instrument.\n
+    Predicting likelihood to act or not to act through computational models based on (i) expected value to gain and (ii) neural ECoG signals.\n
     
-    > [code](https://bit.ly/2P7YYRQ) 
-[video](https://bit.ly/2GcKUCl) 
-[video](https://bit.ly/2UY9FM0)\n
+    > [code](https://github.com/dattasiddhartha/DataX-NeuralDecisionMaking) 
+      [poster](https://data-x.blog/projects/predicting-gambling-decisions/) 
+      [data](https://crcns.org/data-sets/ofc/ofc-3/about-ofc-2)\n
 
-> Trained Resnet and Yolo object detection models on labelled food images; paired food categories with instruments, and sub-categories with different notes, and encoded x-axis location across the sub-category image with distinct notes\n
+    > Built deep learning models (multilayer perceptron, LSTM, R-CNN) with Pytorch to generate ECoG decision-making distributions and prediction of decision classification based on initial ECoG and potential gainable values\n
   
-  > Trained separate object detection model to identify utensils, and calculate proximity between utensils and food item (distance~0 infers impact)\n
-  
-  > Human-computer interaction contribution in terms of augmenting a dining experience with sound, visuals and physical action.
+   > Built visualization functions to plot MATLAB-stored ECoG signals recorded from epilepsy patients performing gambling tasks
     "
-    url: "https://dattasiddhartha-3.github.io/portfolio/10004armusic/"
+    url: "https://dattasiddhartha-3.github.io/portfolio/20010schoolproj/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"  
+    
+ - image_path: https://raw.githubusercontent.com/dattasiddhartha-1/polysemous-word-tagging-tool/master/screenshot_preview.PNG
+    alt: "100% fre6e"
+    title: "Definition and word property tagging web application for word polysemy"
+    excerpt: "Tag words of multiple definitions to study concept/word learning among children.\n
+    
+    > [code](https://github.com/dattasiddhartha-1/polysemous-word-tagging-tool/tree/master)\n
+
+    > Loaded corpora from childes-db, loaded tagging functions and text data from SemCor, built interactive tool using JavaScript and jquery for users on Mechanical Turk to tag polysemous words, in order to develop computational models around chidren concept learning
+    "
+    url: "https://dattasiddhartha-3.github.io/portfolio/20010schoolproj/"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
     
