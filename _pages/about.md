@@ -110,6 +110,7 @@ feature_row:
     alt: "100% fre4e"
     title: "Instrumental note generation through object-impact detection"
     excerpt: "Synthesis of musical notes based on tapping food with utensils, with each dish assigned to a different instrument.\n
+    
     > [code](https://bit.ly/2P7YYRQ) 
 [video](https://bit.ly/2GcKUCl) 
 [video](https://bit.ly/2UY9FM0)\n
@@ -143,7 +144,7 @@ feature_row:
     btn_label: "Learn more"  
     
     
- - image_path: https://github.com/dattasiddhartha-1/polysemous-word-tagging-tool/raw/master/screenshot_preview.PNG
+ - image_path: https://raw.githubusercontent.com/dattasiddhartha-1/polysemous-word-tagging-tool/master/screenshot_preview.PNG
     alt: "100% fre6e"
     title: "Definition and word property tagging web application for word polysemy"
     excerpt: "Tag words of multiple definitions to study concept/word learning among children.\n
