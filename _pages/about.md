@@ -12,13 +12,13 @@ feature_row:
     alt: "customizable"
     title: "Mask R-CNN object detection to augment human peripheral search"
     excerpt: "
-    Winning submisson at Cal Hacks 5.0; display goggles that helps Alzheimer’s patients locate personal affects using object detection and speech recognition.
+    Winning submisson at Cal Hacks 5.0; display goggles that helps Alzheimer’s patients locate personal affects using object detection and speech recognition.\n
     
-    Trained Mask R-CNN object detection classifier on grayed-out ImageNet dataset to sustain realtime inference / classification rate at least 30fps; optimized setup of models (e.g. Yolo v1-3), datasets (e.g. MS Coco) on high-latency Android embedded system
+    > Trained Mask R-CNN object detection classifier on grayed-out ImageNet dataset to sustain realtime inference / classification rate at least 30fps; optimized setup of models (e.g. Yolo v1-3), datasets (e.g. MS Coco) on high-latency Android embedded system\n
   
-  Built Android application and custom scripts (for parsing and relaying camera input) and root-installed into Moverio augmented reality display googles to stream camera input, apply bounding boxes around objects to be detected, and output to display feed of device
+  > Built Android application and custom scripts (for parsing and relaying camera input) and root-installed into Moverio augmented reality display googles to stream camera input, apply bounding boxes around objects to be detected, and output to display feed of device \n
   
-  Contributed an optimized low-latency embedded-system implementation that performs speech recognition, video streaming/display, image processing with minimal visible stutter
+  > Contributed an optimized low-latency embedded-system implementation that performs speech recognition, video streaming/display, image processing with minimal visible stutter
 "
     url: "https://dattasiddhartha-3.github.io/portfolio/10000memorypalace/"
     btn_class: "btn--primary"
@@ -26,23 +26,23 @@ feature_row:
     
   - image_path: http://img.youtube.com/vi/1NxWMQA7tlM/0.jpg
     alt: "fully responsive"
-    title: "
-    BreakupBot, a therapeutic chatbot to recuperate from romantic breakups, organically acquired 200+ users of varying demographics within first week.
+    title: "Execution of philosophical counselling through knowledge graphing, natural language processing, and sentiment approximation"
+    excerpt: "
+    BreakupBot, a therapeutic chatbot to recuperate from romantic breakups, organically acquired 200+ users of varying demographics within first week.\n
     
-    Built Android application and JSON-based API that receives user text input and returns counselling-based responses
+    > Built Android application and JSON-based API that receives user text input and returns counselling-based responses\n
   
   
-  Based on real-time user variables (lover type, heartrate-sentiment approximation), categorized text corpus is filtered before running hidden markov chain text generator
+  > Based on real-time user variables (lover type, heartrate-sentiment approximation), categorized text corpus is filtered before running hidden markov chain text generator\n
   
   
-  Use random forest classification model and hierarichal clustering to bucket users into John A. Lee's six types of lovers based on preliminary text input
+  > Use random forest classification model and hierarichal clustering to bucket users into John A. Lee's six types of lovers based on preliminary text input\n
   
   
-  Adopted script that estimates heartrate from camera image input based on measurement of signal peak difference at time intervals
+  > dopted script that estimates heartrate from camera image input based on measurement of signal peak difference at time intervals\n
   
   
-  Scripted web scrapers to pull high-rated responses from love-related forums; constructed knowledge graph from corpora to facilitate filtering for text generator
-    
+  > Scripted web scrapers to pull high-rated responses from love-related forums; constructed knowledge graph from corpora to facilitate filtering for text generator
     "
     url: "https://dattasiddhartha-3.github.io/portfolio/10001breakupbot/"
     btn_class: "btn--primary"
