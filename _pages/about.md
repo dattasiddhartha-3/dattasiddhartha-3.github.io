@@ -127,7 +127,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"  
     
-    - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/armusic.png
+  - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/armusic.png
     alt: "100% fre4e"
     title: "Instrumental note generation through object-impact detection"
     excerpt: "
