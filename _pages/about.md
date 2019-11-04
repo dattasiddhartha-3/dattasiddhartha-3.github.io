@@ -90,6 +90,20 @@ feature_row:
     url: "https://dattasiddhartha-3.github.io/portfolio/10002locationfingerprinting/"
     btn_class: "btn--primary"
     btn_label: "Learn more"     
+   
+  - image_path: https://raw.githubusercontent.com/dattasiddhartha/neurocogpy/master/images/ts_image.PNG
+    alt: "100% fre3e"
+    title: "neurocogpy"
+    excerpt: "
+    Open-sourced electrophysiological signal visualization library built for Python\n
+    
+    > [library](https://github.com/dattasiddhartha/neurocogpy)\n
+
+    > Defined modules/functions for general-purpose data processing, analysis and modeling of ECoG signal data, including parsing of MATLAB files into Python, different feature engineering techniques for multi-electrode time series data, different visualization techniques, and pre-built class-based decision-making classification models
+    "
+    url: "https://github.com/dattasiddhartha/neurocogpy"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
     
   - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/haiv5.PNG
     alt: "100% fre3e"
