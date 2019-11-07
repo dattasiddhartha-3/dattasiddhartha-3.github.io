@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: false
 ---
 
 ### Resume
 
-<iframe src="https://drive.google.com/file/d/1BzMZ8Ezd5-2eqrytvFJXJ0srravabwJ3/preview" width="640" height="380"></iframe>
+<iframe src="https://drive.google.com/file/d/1ft6yD26gz87DvQJsdwMPuRzV4gIIFclB/preview" width="640" height="480"></iframe>
 
 ### Formal paper submissions
 
@@ -33,8 +33,9 @@ A project focused on predicting gambling decisions from brainwave electrocortico
 ###### [o] open-source; [c] closed-source
 
 ##### [Polysemy Word Tagging Tool](https://github.com/dattasiddhartha/polysemous-word-tagging-tool) [o]
-* Worked under supervision of **Prof. Mahesh Srinivasan** of **Language & Children Development Lab (UC Berkeley)**
-* Built polysemy word tagging tool for the LCD lab to help in tagging words for multiple meanings and facilitate pattern detection
+Worked under supervision of **Prof. Mahesh Srinivasan** of **Language & Children Development Lab (UC Berkeley)**
+
+Built polysemy word tagging tool for the LCD lab to help in tagging words for multiple meanings and facilitate pattern detection
 
 ##### CalUnmanned
 * Worked with team of engineers under supervision of **Prof. Raja Sengupta** to develop autonomous drone system for crack detection
