@@ -49,15 +49,20 @@ A project focused on predicting gambling decisions from brainwave electrocortico
 * Worked under **Prof Christy Zhou Koval** on analysis of gender and race bias on online work platforms: Built a web-scraper, and built an workaround to bypass CAPTCHA security mechanisms; managed room of 11 computing resources simutaneously; Analyzed data, plotted and studied social network interaction charts and relations within employees and employers
 
 ##### [_neurocogpy_](https://github.com/dattasiddhartha/neurocogpy) [o]
-* Neuroscience visualization library built in affiliation with Data-X and Knight Lab (UC Berkeley).
+* Built an open-source electrophysiological signal visualization library in affiliation with Data-X and Knight Lab (UC Berkeley).
+* Defined modules/functions for general-purpose data processing, analysis and modeling of ECoG signal data, including parsing of MATLAB files into Python, different feature engineering techniques for multi-electrode time series data, different visualization techniques, and pre-built class-based decision-making classification models
 
 ### Additional research work
 
 ##### ["Using Structural Imbalance to Evaluate Models of International Relations"](https://drive.google.com/open?id=1lUfM2D4XycYqbIgJThU1Xjk0sdku4z3n)
+* Studied whether international conflicts could be predicted or captured in network imbalances between nodes; we used discrete sign methods to measure structural imbalances for each feature, and also used a continuous reinforcement learning method to calculate weights for each feature in each edge to measure structural imbalance in one graph
 
-##### ["Power and Politics in Academia: A Network Analysis"](https://drive.google.com/open?id=1QeZQ_kntH01j5cPpZE9vsg7nKkvfWzk5)
 
-##### ["Location Network Fingerprinting"](https://drive.google.com/open?id=1aOQiZsVpe2V5yjKr-_aAqeqCny1E2izo)
+##### ["Network Analysis of Power and Politics in Academia"](https://drive.google.com/open?id=1QeZQ_kntH01j5cPpZE9vsg7nKkvfWzk5)
+* Iterated through academic network graphs to calculate relative power differences between grad students and their PIs; obtained weights of each power feature in weighted-function of edge weight through gradient descent
+
+##### ["Motif detection and clustering of franchise location network graphs"](https://drive.google.com/open?id=1aOQiZsVpe2V5yjKr-_aAqeqCny1E2izo)
+* Hybrid implementation of motif-detection, bridge-detection, and clustering algorithms to yield sequential coordinates of geographical locations depending on category of product/business, based on network de-anonymization framework
 
 ##### ["Youtube Sentiment-based Portfolio Selection and Trading Strategy"](https://github.com/dattasiddhartha/QuantTrading_Decal)
 
@@ -66,16 +71,16 @@ A project focused on predicting gambling decisions from brainwave electrocortico
 ### Scholarships/Honors:
 + Dean's List (2017-18, 2018-19)
 + Joseph Lau Luen Hung Charitable Trust Scholarship Hong Kong Award (HK$ 80,000 p.a.)
-+ Li Ka Shing Foundation Scholarship for Innovation and Creativity (HK$ 50,000)
++ Li Ka Shing Foundation Scholarship for Innovation and Creativity (HK$ 50,000)**
 + Hong Kong Unison Scholarship (HK$ 15,000 p.a.)
 + Br Bernard Guellec Memorial Prize for French
 + Br Felix Sheehan Memorial Prize for English
 + University Entrance Scholarship
 + Harmony Scholarship (Home Affairs Bureau, HKSAR Government)
 
-_* Total scholarship HK$ 110,000 per year; 2.5x annual tuition
+_* Total scholarship HK$ 110,000 per year; 2.5x annual tuition_
 
-_** Awarded to Top 0.0015% of undergraduate student population
+_** Awarded to Top 0.0015% of undergraduate student population_
 
 
 ### Awards:
