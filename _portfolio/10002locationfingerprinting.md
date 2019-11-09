@@ -12,9 +12,12 @@ The idea sparked after reading [Wherefore art thou R3579X?](https://personal.utd
 
 [![IMAGE ALT TEXT](/images/fingerprint2.PNG)]
 
-You may consider going through the graphs in the slide deck for a better udnerstanding of the algorithm, and additional patterns we found.  
+You may consider going through the graphs in the slide deck for a better understanding of the implementation, and additional patterns we found.  
 
-[Pitch Deck](https://drive.google.com/open?id=1aOQiZsVpe2V5yjKr-_aAqeqCny1E2izo)
+<iframe src="https://drive.google.com/file/d/1aOQiZsVpe2V5yjKr-_aAqeqCny1E2izo/preview" width="640" height="480"></iframe>
+
+
+[Implementation Details](https://drive.google.com/open?id=1aOQiZsVpe2V5yjKr-_aAqeqCny1E2izo)
 
 [Algorithm](https://github.com/dattasiddhartha/Location-Network-Fingerprinting)
 
