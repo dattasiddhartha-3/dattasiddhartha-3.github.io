@@ -46,6 +46,8 @@ _Ignacio Saez, Jack Lin, Arjen Stolk, Edward Chang, Josef Parvizi, Gerwin Schalk
 
 ### Stock Analzer
 
+[![IMAGE ALT TEXT](images/IMG-20190505-WA0000.jpg)]
+
 VBA-coded user interface to analyze stocks, for ISOM3230 (HKUST).
 
 [code](https://github.com/dattasiddhartha/StockAnalyzerGUI)
