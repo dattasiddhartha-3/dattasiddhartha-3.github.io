@@ -178,8 +178,11 @@ feature_row:
     alt: "100% fre4e"
     title: "Inter-language Grammar Error Correction: Correction platform + GEC algorithms"
     excerpt: "
+    Automated GEC system to grade grammatical integrity of student essays and aid non-native English writers learn from Chinese-specific inter-language errors. 
     
     > Built transformer models, error-specific character-embedded and word-embedded sequence-to-sequence models, general-error hidden markov models, and hard-coded error models to implement a general-purpose language correction system for the Linguistics department, HKUST
+    
+    > Built a GUI for faculty members to enter errors to build training set
 
     > Contribution in building models that targets passive voice errors (with sentence-to-sentence seq2seq to infer context in markov model active-passive conversion) and interlanguage errors made by Chinese students, pending publication
     "
