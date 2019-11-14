@@ -163,9 +163,11 @@ feature_row:
     alt: "100% fre4e"
     title: "Definition and word property tagging web application for word polysemy"
     excerpt: "
-    > Built transformer models, error-specific character-embedded and word-embedded sequence-to-sequence models, general-error hidden markov models, and hard-coded error models to implement a general-purpose language correction system for the Linguistics department, HKUST
+    Tag words of multiple definitions to study concept/word learning among children.\n
+    
+    > [code](https://github.com/dattasiddhartha-1/polysemous-word-tagging-tool/tree/master)\n
 
-    > Contribution in building models that targets passive voice errors (with sentence-to-sentence seq2seq to infer context in markov model active-passive conversion) and interlanguage errors made by Chinese students, pending publication
+    > Loaded corpora from childes-db, loaded tagging functions and text data from SemCor, built interactive tool using JavaScript and jquery for users on Mechanical Turk to tag polysemous words, in order to develop computational models around chidren concept learning
     "
     url: "https://dattasiddhartha-3.github.io/portfolio/20010schoolproj/"
     btn_class: "btn--primary"
@@ -176,11 +178,9 @@ feature_row:
     alt: "100% fre4e"
     title: "Inter-language Grammar Error Correction: Correction platform + GEC algorithms"
     excerpt: "
-    Tag words of multiple definitions to study concept/word learning among children.\n
-    
-    > [code](https://github.com/dattasiddhartha-1/polysemous-word-tagging-tool/tree/master)\n
+    > Built transformer models, error-specific character-embedded and word-embedded sequence-to-sequence models, general-error hidden markov models, and hard-coded error models to implement a general-purpose language correction system for the Linguistics department, HKUST
 
-    > Loaded corpora from childes-db, loaded tagging functions and text data from SemCor, built interactive tool using JavaScript and jquery for users on Mechanical Turk to tag polysemous words, in order to develop computational models around chidren concept learning
+    > Contribution in building models that targets passive voice errors (with sentence-to-sentence seq2seq to infer context in markov model active-passive conversion) and interlanguage errors made by Chinese students, pending publication
     "
     
   - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/winnings.PNG
