@@ -187,7 +187,8 @@ feature_row:
 
     > Contribution in building models that targets passive voice errors (with sentence-to-sentence seq2seq to infer context in markov model active-passive conversion) and interlanguage errors made by Chinese students, pending publication
     "
-    
+
+feature_row2:
   - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/winnings.PNG
     alt: "100% fre4e"
     title: "Past Hackathon Winnings/Submission"
@@ -223,3 +224,5 @@ feature_row:
 ---
 
 {% include feature_row %}
+
+{% include feature_row2 %}
