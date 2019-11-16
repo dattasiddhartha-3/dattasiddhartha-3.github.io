@@ -221,6 +221,8 @@ feature_row:
 
 ---
 
+{% include feature_row %}
+
 <div class="row">
     <div class="col-md-6">
       
@@ -274,6 +276,3 @@ feature_row:
          
    </div>
 </div>
-
-{% include feature_row %}
-
