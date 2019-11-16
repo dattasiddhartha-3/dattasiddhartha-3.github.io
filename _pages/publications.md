@@ -7,7 +7,7 @@ author_profile: false
 
 ### Resume
 
-<iframe align="left" src="https://drive.google.com/file/d/1ft6yD26gz87DvQJsdwMPuRzV4gIIFclB/preview" width="640" height="480"></iframe>
+<iframe align="left" margin-right="auto" src="https://drive.google.com/file/d/1ft6yD26gz87DvQJsdwMPuRzV4gIIFclB/preview" width="640" height="480"></iframe>
 
 ### Scholarships/Honors:
 + Dean's List (2017-18, 2018-19)
