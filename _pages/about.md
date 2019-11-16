@@ -66,7 +66,7 @@ feature_row:
     
     > [pdf](https://arxiv.org/pdf/1909.01837.pdf)\n
     
-    > Implemented reversible character-embedded encoder-decoder model that takes plaintext input, recursively generates obfuscated code to ensure the execution program can run the obfiscated code without error, then returns obfuscated code, h5 model files, and  char/word-to-index dictionaries
+    > Implemented reversible character-embedded encoder-decoder model that takes plaintext input, recursively generates obfuscated code to ensure the execution program can run the obfiscated code without error, then returns obfuscated code, h5 model files, and  char/word-to-index dictionaries\n
   
   > Set up experimental pipeline to obfuscate benchmark source code, and compare/plot defined metrics between benchmark obfuscated and seq2seq obfuscated code"
     url: "https://dattasiddhartha-3.github.io/portfolio/10002doc/"
@@ -115,6 +115,7 @@ feature_row:
 [poster](https://drive.google.com/open?id=1kv3ASC_jhFq8qyhGdLw87ZcuxMC8Dpnu)\n
 
 > Applied mutations (addition, substitution, etc) through Monte Carlo upon listed initial strain sequences (source: Stanford HIV database); built adversarial network to generate adversarial sequences, and discriminator/classification network to identify valid subsequent sequences to prune MC-mutations\n
+
 > Further contribution of providing a mutation prediction algorithm is classifying HIV antiretroviral medication for specific strains of HIV, thus optimizing medication intake for patients in terms of viral drig resistance and elimination of virus
     "
     url: "https://dattasiddhartha-3.github.io/portfolio/10003haiv/"
