@@ -9,6 +9,20 @@ author_profile: false
 
 <iframe src="https://drive.google.com/file/d/1ft6yD26gz87DvQJsdwMPuRzV4gIIFclB/preview" width="640" height="480"></iframe>
 
+
+
+<div class="row">
+    <div class="col-md-6">
+        <iframe src="https://drive.google.com/file/d/1ft6yD26gz87DvQJsdwMPuRzV4gIIFclB/preview" width="640" height="480"></iframe>
+    </div>
+    <div class="col-md-6">
+        ### Awards:
+        + CalHacks 5.0 - Winner (Augmented Reality section, Epson Sponsor Award)
+        + SacHacks 2018 - Winner (Smartcar 1st Runnerup, Best First-Time Hack, Best Domain Name, 3rd Overall)
+        + AngelHack   
+    </div>
+</div>
+
 ### Formal paper submissions
 
 ##### S. Datta. 2019. Submitted. ["DeepObfusCode: Source Code Obfuscation Through Sequence-to-Sequence Networks"](https://arxiv.org/abs/1909.01837) In ICASSP 2020
@@ -70,8 +84,8 @@ A project focused on predicting gambling decisions from brainwave electrocortico
 
 ### Scholarships/Honors:
 + Dean's List (2017-18, 2018-19)
-+ Joseph Lau Luen Hung Charitable Trust Scholarship Hong Kong Award (HK$ 80,000 p.a.)
-+ Li Ka Shing Foundation Scholarship for Innovation and Creativity (HK$ 50,000)**
++ Joseph Lau Luen Hung Charitable Trust Scholarship Hong Kong Award (HK$ 80,000 p.a.)**
++ Li Ka Shing Foundation Scholarship for Innovation and Creativity (HK$ 50,000)
 + Hong Kong Unison Scholarship (HK$ 15,000 p.a.)
 + Br Bernard Guellec Memorial Prize for French
 + Br Felix Sheehan Memorial Prize for English
@@ -84,21 +98,19 @@ _** Awarded to Top 0.0015% of undergraduate student population_
 
 
 ### Awards:
-*2018*
+
 + CalHacks 5.0 - Winner (Augmented Reality section, Epson Sponsor Award)
 + SacHacks 2018 - Winner (Smartcar 1st Runnerup, Best First-Time Hack, Best Domain Name, 3rd Overall)
 + AngelHack 2018 - Champion (Blockchain Category)
-+ Classified Post Hackathon 2018 - Champion
-+ Access to Justice InnoTech Law Hackathon 2018 - Honorable Mentions
-+ CityU Hackathon 2018 - Most Innovative Idea & 1st Runnerup
-
-*2017*
-+ HKUST-Radica Big Datathon 2017 - 2nd
 + Cyberport Creative Micro Fund - Winner
++ Classified Post Hackathon 2018 - Champion
++ Li&Fung Hack the Runway 2017 - Champion
++ HKUST Bizkathon 2019 - 1st Runnerup
++ CityU Hackathon 2018 - Most Innovative Idea award & 1st Runnerup
 + EasyShip 24 Hour E-Commerce Hackathon 2017 - 1st Runner up
-+ Hack the Runway 2017 - Champion
 + HardUST 2017 - 1st Runner-up
-
++ HKUST-Radica Big Datathon 2017 - 1st Runner up
++ Access to Justice InnoTech Law Hackathon 2018 - Honorable Mentions
 
 ### References:
 * Prof Eric Friedman, EECS, UC Berkeley
