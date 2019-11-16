@@ -8,10 +8,48 @@ author_profile: false
 ### Resume
 
 <iframe align="left" src="https://drive.google.com/file/d/1ft6yD26gz87DvQJsdwMPuRzV4gIIFclB/preview" width="640" height="480"></iframe>
+
+### Scholarships/Honors:
++ Dean's List (2017-18, 2018-19)
++ Joseph Lau Luen Hung Charitable Trust Scholarship Hong Kong Award (HK$ 80,000 p.a.)**
++ Li Ka Shing Foundation Scholarship for Innovation and Creativity (HK$ 50,000)
++ Hong Kong Unison Scholarship (HK$ 15,000 p.a.)
++ Br Bernard Guellec Memorial Prize for French
++ Br Felix Sheehan Memorial Prize for English
++ University Entrance Scholarship
++ Harmony Scholarship (Home Affairs Bureau, HKSAR Government)
+
+_* Total scholarship HK$ 110,000 per year; 2.5x annual tuition_
+
+_** Awarded to Top 0.0015% of undergraduate student population_
+
+
 ### Awards:
 
 + CalHacks 5.0 - Winner (Augmented Reality section, Epson Sponsor Award)
 + SacHacks 2018 - Winner (Smartcar 1st Runnerup, Best First-Time Hack, Best Domain Name, 3rd Overall)
++ AngelHack 2018 - Champion (Blockchain Category)
++ Cyberport Creative Micro Fund - Winner
++ Classified Post Hackathon 2018 - Champion
++ Li&Fung Hack the Runway 2017 - Champion
++ HKUST Bizkathon 2019 - 1st Runnerup
++ CityU Hackathon 2018 - Most Innovative Idea award & 1st Runnerup
++ EasyShip 24 Hour E-Commerce Hackathon 2017 - 1st Runner up
++ HardUST 2017 - 1st Runner-up
++ HKUST-Radica Big Datathon 2017 - 1st Runner up
++ Access to Justice InnoTech Law Hackathon 2018 - Honorable Mentions
+
+### References:
+* Prof Eric Friedman, EECS, UC Berkeley
+* Prof Christy Zhou Koval, Michigan State University
+* Prof Gary Chan, Computer Science, HKUST
+* Prof Yang Yi, Information Systems, HKUST
+* Dr Nora Hussein, Linguistics, HKUST
+* Dr Nam Sai Lok, Philosophy, HKUST
+* Peers testimony: [CalHacks](http://www.zacharychaoportfolio.com/blog/calhacks), [SacHacks](http://www.zacharychaoportfolio.com/blog/sacHacks)
+<!-- * Prof Thomas Bourveau, Accounting, Columbia University -->
+<!-- * Prof Ikhlaq Sidhu, Industrial Engineering & Operations Research, UC Berkeley -->
+<!-- * Prof Ted Clark, Information Systems, HKUST -->
 
 ### Formal paper submissions
 
@@ -71,45 +109,3 @@ A project focused on predicting gambling decisions from brainwave electrocortico
 ##### ["Youtube Sentiment-based Portfolio Selection and Trading Strategy"](https://github.com/dattasiddhartha/QuantTrading_Decal)
 
 ##### ["AIDS Epidemic Simulation with Adjustment for Decision-making from neural ECoG data"](https://drive.google.com/open?id=17WZ1hRXWdA-ppuXmkyBdVcu26os3wALx)
-
-### Scholarships/Honors:
-+ Dean's List (2017-18, 2018-19)
-+ Joseph Lau Luen Hung Charitable Trust Scholarship Hong Kong Award (HK$ 80,000 p.a.)**
-+ Li Ka Shing Foundation Scholarship for Innovation and Creativity (HK$ 50,000)
-+ Hong Kong Unison Scholarship (HK$ 15,000 p.a.)
-+ Br Bernard Guellec Memorial Prize for French
-+ Br Felix Sheehan Memorial Prize for English
-+ University Entrance Scholarship
-+ Harmony Scholarship (Home Affairs Bureau, HKSAR Government)
-
-_* Total scholarship HK$ 110,000 per year; 2.5x annual tuition_
-
-_** Awarded to Top 0.0015% of undergraduate student population_
-
-
-### Awards:
-
-+ CalHacks 5.0 - Winner (Augmented Reality section, Epson Sponsor Award)
-+ SacHacks 2018 - Winner (Smartcar 1st Runnerup, Best First-Time Hack, Best Domain Name, 3rd Overall)
-+ AngelHack 2018 - Champion (Blockchain Category)
-+ Cyberport Creative Micro Fund - Winner
-+ Classified Post Hackathon 2018 - Champion
-+ Li&Fung Hack the Runway 2017 - Champion
-+ HKUST Bizkathon 2019 - 1st Runnerup
-+ CityU Hackathon 2018 - Most Innovative Idea award & 1st Runnerup
-+ EasyShip 24 Hour E-Commerce Hackathon 2017 - 1st Runner up
-+ HardUST 2017 - 1st Runner-up
-+ HKUST-Radica Big Datathon 2017 - 1st Runner up
-+ Access to Justice InnoTech Law Hackathon 2018 - Honorable Mentions
-
-### References:
-* Prof Eric Friedman, EECS, UC Berkeley
-* Prof Christy Zhou Koval, Michigan State University
-* Prof Gary Chan, Computer Science, HKUST
-* Prof Yang Yi, Information Systems, HKUST
-* Dr Nora Hussein, Linguistics, HKUST
-* Dr Nam Sai Lok, Philosophy, HKUST
-* Peers testimony: [CalHacks](http://www.zacharychaoportfolio.com/blog/calhacks), [SacHacks](http://www.zacharychaoportfolio.com/blog/sacHacks)
-<!-- * Prof Thomas Bourveau, Accounting, Columbia University -->
-<!-- * Prof Ikhlaq Sidhu, Industrial Engineering & Operations Research, UC Berkeley -->
-<!-- * Prof Ted Clark, Information Systems, HKUST -->
