@@ -7,7 +7,7 @@ author_profile: true
 
 ### Origins
 
-I was born in mid-Autumn 1998 in Bangladesh. Our family has lived in the village of Kaduti for many generations, and my father is the first generation to leave the village (and ended up in Hong Kong). There is a lot to be carried in the Datta name, and I aim to push even further. 
+I was born in mid-Autumn 1998 in Bangladesh. Our family has lived in the village of Kaduti for many generations, and my father is the first generation to leave the village (and ended up in Hong Kong).  
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7579.645071418137!2d90.96662635335532!3d23.404621996496573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x37546194d892d1f7%3A0x62b986bceed141db!2sKaduti%2C%20Bangladesh!5e1!3m2!1sen!2shk!4v1571923656921!5m2!1sen!2shk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
@@ -35,11 +35,10 @@ I was born in mid-Autumn 1998 in Bangladesh. Our family has lived in the village
 
 In my spare time I take a drone out for a spin in the country side and capture a different perspective of the world I inhabit.
 
-[![IMAGE ALT TEXT](/images/drone1.PNG)](https://hkustconnect-my.sharepoint.com/:v:/g/personal/sdatta_connect_ust_hk/EXfTMUL6EXRMke64z0QZN8kBDyWV4hNB_ZUwjmqLzzxC7g?e=huxmIv)
-
-[![IMAGE ALT TEXT](/images/drone2.PNG)](https://hkustconnect-my.sharepoint.com/:v:/g/personal/sdatta_connect_ust_hk/Ee5KfeEquptPmCI0luZuDBEBi_zFwp-ohn1aIB19NCcJxQ?e=6gYwCr)
+<a href="https://hkustconnect-my.sharepoint.com/:v:/g/personal/sdatta_connect_ust_hk/EXfTMUL6EXRMke64z0QZN8kBDyWV4hNB_ZUwjmqLzzxC7g?e=huxmIv"><img src="/images/drone1.PNG" width="360" /></a>
+<a href="https://hkustconnect-my.sharepoint.com/:v:/g/personal/sdatta_connect_ust_hk/Ee5KfeEquptPmCI0luZuDBEBi_zFwp-ohn1aIB19NCcJxQ?e=6gYwCr"><img src="/images/drone2.PNG" width="360" /></a>
 
 And I sometimes take part in a few skits...
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PA74bXwo20w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="360" src="https://www.youtube.com/embed/PA74bXwo20w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
