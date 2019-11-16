@@ -16,10 +16,9 @@ author_profile: false
         <iframe src="https://drive.google.com/file/d/1ft6yD26gz87DvQJsdwMPuRzV4gIIFclB/preview" width="640" height="480"></iframe>
     </div>
     <div class="col-md-6">
-        ### Awards:
-        + CalHacks 5.0 - Winner (Augmented Reality section, Epson Sponsor Award)
-        + SacHacks 2018 - Winner (Smartcar 1st Runnerup, Best First-Time Hack, Best Domain Name, 3rd Overall)
-        + AngelHack   
+        CalHacks 5.0 - Winner (Augmented Reality section, Epson Sponsor Award)
+        SacHacks 2018 - Winner (Smartcar 1st Runnerup, Best First-Time Hack, Best Domain Name, 3rd Overall)
+        AngelHack   
     </div>
 </div>
 
