@@ -1,9 +1,9 @@
 {% include base_path %}
 
 {% if include.id %}
-  {% assign feature_row = page.[include.id] %}
+  {% assign feature_row2 = page.[include.id] %}
 {% else %}
-  {% assign feature_row = page.feature_row %}
+  {% assign feature_row2 = page.feature_row2 %}
 {% endif %}
 
 <div class="feature__wrapper">
