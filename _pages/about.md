@@ -188,6 +188,23 @@ feature_row:
     > Contribution in building models that targets passive voice errors (with sentence-to-sentence seq2seq to infer context in markov model active-passive conversion) and interlanguage errors made by Chinese students, pending publication
     "
     
+  - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/UI.PNG
+    alt: "100% fre4e"
+    title: "Automated 911 and positioning system triggered by weapon detection"
+    excerpt: "
+    Automated GEC system to grade grammatical integrity of student essays and aid non-native English writers learn from Chinese-specific inter-language errors. \n
+    
+    > [video](https://drive.google.com/file/d/1EOl4VYuxbt7_6Gz5KzhhcyGd_sdb3nG6/view?fbclid=IwAR1IgvE1oLZFLLLfAUU1ePDtXjmmFULMciBeDlq23GcWMTbaXXktjjsEGO0) [slides](https://drive.google.com/file/d/18XjwReayYjx8WDMM-l4k_HvLPWb57gW5/view?fbclid=IwAR16UxXIYthOsgbZGkYapLnIUXhxG3KFrVRW3TQDVHsx3eN_LOPMrSKTo2c) [demo](https://sachacks.herokuapp.com/)\n
+    
+    > Identifying crime: used Inception v2 R-CNN trained on a weapons dataset; idea was to place cameras in each car in the network, and use model to run real time inference to detect suspicious activity \n
+    
+    > Notifying the network: retrieve car's geolocation, odometer, locking all surrounding cars using SmartCar's API and sending out an SMS using Twillio and NoonLight when a threat was detected by the model. For this they used  which gave us access to the car's GPS, odometer and locking mechanisms; used Flask to build web app, Google Cloud Platform's Map API and JavaScript to visualize the crime data, Ethereum's API to access the ledger and Twitter's bootstrap for CSS, so when crime data was pushed to the database it would be visualized as each clickable dot displays the frame which set the model off as well as the location and time \n
+    
+    > Rewarding cars: set up smart contracts with Ethereum, letting users and companies alike put up rewards \n
+
+    > Won SacHacks 2018 as well as sponsor award from Smartcar
+    "
+    
 feature_row2:    
 
   - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/winnings.PNG
