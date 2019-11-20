@@ -4,18 +4,6 @@ excerpt: ""
 collection: portfolio
 ---
 
-### HKUST Empty Classroom Finder
-
-
-[Find an Empty Classroom in HKUST](https://dattasiddhartha-1.github.io/EmptyClassroomHKUST/)
-
-A web application that helps students find empty classrooms for studying
-- scraped / parsed the HKUST schedule for all classes
-- processed data to obtain classrooms not being used in all possible time frames
-- presented the output in table site
-
-[source code](https://github.com/dattasiddhartha-1/EmptyClassroomHKUST)
-
 ### Youtube Sentiment-based Portfolio Selection and Trading Strategy
 
 The objective of the project is the test whether sentiment of content in Youtube videos would be a sufficiently accurate indicator of future stock success.
