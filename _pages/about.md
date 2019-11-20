@@ -188,7 +188,7 @@ feature_row:
     > Contribution in building models that targets passive voice errors (with sentence-to-sentence seq2seq to infer context in markov model active-passive conversion) and interlanguage errors made by Chinese students, pending publication
     "
     
-  - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/UI.PNG
+  - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/sachacks.PNG
     alt: "100% fre4e"
     title: "Automated 911 and positioning system triggered by weapon detection"
     excerpt: "
