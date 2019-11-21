@@ -72,7 +72,25 @@ feature_row:
     url: "https://dattasiddhartha-3.github.io/portfolio/10002doc/"
     btn_class: "btn--primary"
     btn_label: "Learn more"     
+  
+  - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/dp_arcchitecture.jpg
+    alt: "100% free2"
+    title: "Inductive inference of decision-making motifs from trade execution networks"
+    excerpt: "Prediction of client trade execution through application of reinforcement learning in rational agent decision-making \n
     
+    > [architecture](https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/dp_arcchitecture.jpg) \n
+
+    > Client inferencing engine built for an investment bank; maps out traders to stocks with 70+ markets/cognitive features to interpolate trade execution motifs \n
+
+    > Network graph between clients and stocks: client-client edges were weighted functions of client-specific properties (e.g. fund type); stock-stock edges on stock-specific properties (e.g. sector, average daily volume); client-stock edges on behavioural/decision-making/trading features (e.g. likelihood of traded with volatility, risk aversity relative to news, momentum/contrarian, preferences for certain sectors, regret minimization, confidence bias) \n
+
+   > Edge weight matrices were calculated using reinforcement learning based on historical trades taken by each client on each stock \n
+
+   > Output was the identification of cognitive decision-making motifs adopted by each individual trader relative to other traders, and even able to identify successful situation-specific motifs based on the cumulative profit made by those cognitive motifs (i.e. clustered different decision-making motifs to specific scenarios/environments) \n
+
+   > Back-testing indicated ~7x% accuracy in predicting client execution on any given day (accuracy rising exponentially as time horizon increases to 2 weeks); successfully captured value-based decision-making cognition of rational agents
+    "
+  
   - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/fingerprint.PNG
     alt: "100% free2"
     title: "Motif detection and clustering of franchise location network graphs"
