@@ -42,12 +42,4 @@ After building and testing the system within a group of test users, I additional
 
 <img src="/images/bb1.png" width="180"> <img src="/images/Inkedbb2_LI.jpg" width="360">
 
-[code (inactive)](https://github.com/s-datta/BreakupBot)
-
-[prototype](https://www.facebook.com/BreakupBot-20-1328526643902687/) 
-
-[video](https://www.youtube.com/watch?v=1NxWMQA7tlM)
-
-[poster](https://drive.google.com/open?id=0Bya0t6OLDU2FNTV2S2NKTmpMSHc)
-
-[Further reference and media](https://drive.google.com/open?id=0Bya0t6OLDU2FZFk1UzdiMU5qb1U)
+[code (inactive)](https://github.com/s-datta/BreakupBot) | [prototype](https://www.facebook.com/BreakupBot-20-1328526643902687/) | [video](https://www.youtube.com/watch?v=1NxWMQA7tlM) | [poster](https://drive.google.com/open?id=0Bya0t6OLDU2FNTV2S2NKTmpMSHc) | [Further reference and media](https://drive.google.com/open?id=0Bya0t6OLDU2FZFk1UzdiMU5qb1U)
