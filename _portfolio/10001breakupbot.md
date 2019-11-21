@@ -4,6 +4,8 @@ excerpt: "BreakupBot is a therapeutic chatbot developed to help get over romanti
 collection: portfolio
 ---
 
+BreakupBot is a therapeutic chatbot developed to help get over romantic breakups. Organically acquired 200+ users of varying demographics. The system, initially built to help people who could not get over breakups, uses scraped content from dating sites and builds a philosophical counselling knowledge graph as the decision tree for generating responses to user input.
+
 <!-- [![IMAGE ALT TEXT](http://img.youtube.com/vi/1NxWMQA7tlM/0.jpg)](https://www.youtube.com/watch?v=1NxWMQA7tlM) -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1NxWMQA7tlM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
