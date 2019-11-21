@@ -30,6 +30,4 @@ You may consider going through the graphs in the slide deck for a better underst
 
 * Contributions of this work in the use of network graphs in time-independent pattern interpolation, recursive backtesting method of running/validating the motifs through training/testing franchises
 
-[implementation details](https://drive.google.com/open?id=1aOQiZsVpe2V5yjKr-_aAqeqCny1E2izo)
-
-[algorithm](https://github.com/dattasiddhartha/Location-Network-Fingerprinting)
+[implementation details](https://drive.google.com/open?id=1aOQiZsVpe2V5yjKr-_aAqeqCny1E2izo) | [algorithm](https://github.com/dattasiddhartha/Location-Network-Fingerprinting)
