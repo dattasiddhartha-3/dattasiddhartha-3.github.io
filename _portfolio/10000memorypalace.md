@@ -34,5 +34,5 @@ Completion of the object detection system backend:
 
 Preview of my teammate testing the goggles out in real-time, while my PC displays what he is seeing (Click the [video]((http://www.youtube.com/watch?v=s6UWctGQRwA)) to watch):
 
-[Hackathon submission](https://calhacks5.hackerearth.com/sprints/cal-hacks-50/dashboard/b436967/submission/) [slides](https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/b524535calhacks_slides.pptx) [Recount on Cal Hacks](http://www.zacharychaoportfolio.com/blog/calhacks)
+[Hackathon submission](https://calhacks5.hackerearth.com/sprints/cal-hacks-50/dashboard/b436967/submission/) | [slides](https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/b524535calhacks_slides.pptx) | [Recount of Cal Hacks](http://www.zacharychaoportfolio.com/blog/calhacks)
 
