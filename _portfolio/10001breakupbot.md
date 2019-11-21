@@ -1,5 +1,5 @@
 ---
-title: "BreakupBot: An Artificial Intelligence Therapeutic Chatbot Conducting Empathetic Counselling via Heartrate Sentimental Analysis"
+title: "BreakupBot: An AI Therapeutic Chatbot Conducting Empathetic Counselling via Heartrate Sentimental Analysis"
 excerpt: "BreakupBot is a therapeutic chatbot developed to help get over romantic breakups. Organically acquired 200+ users of varying demographics. The system, initially built to help people who could not get over breakups, uses scraped content from dating sites and builds a philosophical counselling knowledge graph as the decision tree for generating responses to user input."
 collection: portfolio
 ---
@@ -9,6 +9,22 @@ collection: portfolio
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1NxWMQA7tlM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Try the demo](https://www.facebook.com/BreakupBot-20-1328526643902687/) : Click "Send Message" to start interacting with the isolated NLP system (or watch the [demo](https://www.youtube.com/watch?v=1NxWMQA7tlM))
+
+[paper](https://drive.google.com/file/d/142kTVrKNGH42splekvbfXGVtT9HhNQPq/view)
+
+### Technical summary
+
+* Built Android application and JSON-based API that receives user text input and returns counselling-based responses
+
+* Based on real-time user variables (lover type, heartrate-sentiment approximation), categorized text corpus is filtered before running hidden markov chain text generator
+
+* Used random forest classification model and hierarichal clustering to bucket users into John A. Lee’s six types of lovers based on preliminary text input
+
+* Adopted script that estimates heartrate from camera image input based on measurement of signal peak difference at time intervals
+
+* Scripted web scrapers to pull high-rated responses from love-related forums; constructed knowledge graph from corpora to facilitate filtering for text generator
+
+### Motivation
 
 The backstory of the project started off in my freshman year when my close friend got dumped by his girlfriend right before his final exams, and his GPA dropped from 3.7 to 2.7. It made me realize that even someone as intelligent as my friend could be vulnerable to the emotional dangers of romance. So I set out to figure out a way to help him recover. He did not want to talk about his situation with anyone and wanted to save "face", so I figured he could speak with a very smart bot.
 
@@ -22,11 +38,7 @@ After building and testing the system within a group of test users, I additional
 
 [![IMAGE ALT TEXT](/images/poster.PNG)](https://drive.google.com/open?id=0Bya0t6OLDU2FNTV2S2NKTmpMSHc)
 
-[![IMAGE ALT TEXT](/images/bb1.png)]
-
-[![IMAGE ALT TEXT](/images/Inkedbb2_LI.jpg)]
-
-[paper](https://drive.google.com/file/d/142kTVrKNGH42splekvbfXGVtT9HhNQPq/view)
+<img src="/images/bb1.png" width="180"> <img src="/images/Inkedbb2_LI.jpg" width="360">
 
 [code (inactive)](https://github.com/s-datta/BreakupBot)
 
