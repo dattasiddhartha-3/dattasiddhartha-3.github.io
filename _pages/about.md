@@ -5,7 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/Q11_R_vP8iDYi8VD6heNj_Compressed_4.png
 excerpt: >
-  A young, aspiring computational scientist with the ambition to design new tools to solve larger problems.<br />
+  A young computational scientist testing the waters of the future one project at a time.<br />
 feature_row:
 
   - image_path: https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/e253ebdepson_goggles_lq.PNG
