@@ -23,6 +23,8 @@ author_profile: false
 
 ### Formal paper submissions
 
+##### S. Datta, Y. Yang. 2019. Submitted. "Adversarial attack optimization against crossdomain classification models" In ACL 2020
+
 ##### S. Datta. 2019. Submitted. ["DeepObfusCode: Source Code Obfuscation Through Sequence-to-Sequence Networks"](https://arxiv.org/abs/1909.01837) In ICASSP 2020
 The paper explores a novel methodology in source code obfuscation through the application of text-based recurrent neural network (RNN) encoder-decoder models in ciphertext generation and key generation. Sequence-to-sequence models are incorporated into the model architecture to generate obfuscated code, generate the deobfuscation key, and live execution. Quantitative benchmark comparison to existing obfuscation methods indicate significant improvement in stealth and execution cost for the proposed solution, and experiments regarding the model's properties yield positive results regarding its character variation, dissimilarity to the original codebase, and consistent length of obfuscated code.
 
