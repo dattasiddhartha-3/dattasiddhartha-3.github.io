@@ -13,9 +13,9 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Siddhartha Datta"
+title                    : "Siddhartha Datta (戴克勤)"
 title_separator          : "-"
-name                     : &name "Siddhartha Datta (戴克勤)"
+name                     : &name "Siddhartha Datta"
 description              : &description "Undergraduate student at Hong Kong University of Science & Technology"
 url                      : https://dattasiddhartha-3.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
