@@ -32,7 +32,13 @@ Completion of the object detection system backend:
 
 <img src="/images/moverioimage.PNG" width="360">
 
-Preview of my teammate testing the goggles out in real-time, while my PC displays what he is seeing (Click the [video]((http://www.youtube.com/watch?v=s6UWctGQRwA)) to watch):
+Preview of my teammate testing the goggles out in real-time, while my PC displays what he is seeing (Click the [video]((http://www.youtube.com/watch?v=s6UWctGQRwA)) to watch).
+
+### Software
+
+To install the object detection and streaming system for other AR-capable devices, you may (1) download the [source code](https://hkustconnect-my.sharepoint.com/personal/sdatta_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsdatta%5Fconnect%5Fust%5Fhk%2FDocuments%2FBerkeley%2FMoverio%2DMemoryPalace%2DInstructions%2Ezip&parent=%2Fpersonal%2Fsdatta%5Fconnect%5Fust%5Fhk%2FDocuments%2FBerkeley) and (2) follow the below installation instructions.
+
+<iframe src="https://drive.google.com/file/d/183nrhzzW63Xrgerxxk8LOU9aBcUO_XZH/preview" width="640" height="480"></iframe>
 
 [Hackathon submission](https://calhacks5.hackerearth.com/sprints/cal-hacks-50/dashboard/b436967/submission/) | [slides](https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/b524535calhacks_slides.pptx) | [Recount of Cal Hacks](http://www.zacharychaoportfolio.com/blog/calhacks)
 
