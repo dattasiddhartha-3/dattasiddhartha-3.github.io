@@ -185,7 +185,18 @@ feature_row3:
     btn_class: "btn--primary"
     btn_label: "Learn more"     
   
+  - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/WhatsApp%20Image%202019-11-19%20at%2007.38.53.jpeg
+    alt: "100% free"
+    title: "Adversarial attack optimization against crossdomain classification models"
+    excerpt: "
+    Contributed a new adversarial attack architecture against text classification models; notable differences in this model is that it is a complete black-box attack, and uses features of domain adaptation. Submitted to ACL 2020\n
+    
+    > [brief](https://drive.google.com/open?id=1O5hYeC3roV7LVDLaCoXXFBqwLPmykK9oP0kNpe-LXGQ)\n
+    
+    > Transferred over implementations of FGSM, Random-FGSM and Basic Iterative Method (BIM) from continuous image space over to the text space to apply perturbations to sentences.\n
   
+  > Designed expertimental pipeline to optimize for certain variables (attack algorithm, domains, model architectures, etc) to locate optimal variables to attack a certain victim architecture, and narroweed down on the variable we should use to construct an attack architecture"
+
 
 feature_row4:
 
@@ -277,14 +288,14 @@ feature_row5:
 
 {% include feature_row2 %}
 
-### Privacy preserving systems (incl. Obfuscation, adversarial attacks)
+## Privacy preserving systems (incl. Obfuscation, adversarial attacks)
 
 {% include feature_row3 %}
 
-### Lab contributions
+## Lab contributions
 
 {% include feature_row4 %}
 
-### Other contributions
+## Other contributions
 
 {% include feature_row5 %}
