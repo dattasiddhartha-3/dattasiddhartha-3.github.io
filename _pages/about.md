@@ -56,90 +56,7 @@ feature_row:
     url: "https://dattasiddhartha-3.github.io/portfolio/10001breakupbot/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-    
-    
-  - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/ciphertext_generation.PNG
-    alt: "100% free"
-    title: "Automated source code obfuscation and privacy-preserving execution through sequence-to-sequence networks"
-    excerpt: "
-    Contributed (1) quantitative framework for evaluating obfuscated code; (2) privacy-preserving system that uses seq2seq models to obfuscate plaintext and execute obfuscated ciphertext. Submitted to ICASSP 2020\n
-    
-    > [pdf](https://arxiv.org/pdf/1909.01837.pdf)\n
-    
-    > Implemented reversible character-embedded encoder-decoder model that takes plaintext input, recursively generates obfuscated code to ensure the execution program can run the obfiscated code without error, then returns obfuscated code, h5 model files, and  char/word-to-index dictionaries\n
-  
-  > Set up experimental pipeline to obfuscate benchmark source code, and compare/plot defined metrics between benchmark obfuscated and seq2seq obfuscated code"
-    url: "https://dattasiddhartha-3.github.io/portfolio/10002doc/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"     
-  
-  - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/dp_arcchitecture.jpg
-    alt: "100% free2"
-    title: "Inductive inference of decision-making motifs from trade execution networks"
-    excerpt: "Prediction of client trade execution through application of reinforcement learning in rational agent decision-making \n
-    
-    > [architecture](https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/dp_arcchitecture.jpg) \n
-
-    > Client inferencing engine built for an investment bank; maps out traders to stocks with 70+ markets/cognitive features to interpolate trade execution motifs \n
-
-    > Network graph between clients and stocks: client-client edges were weighted functions of client-specific properties (e.g. fund type); stock-stock edges on stock-specific properties (e.g. sector, average daily volume); client-stock edges on behavioural/decision-making/trading features (e.g. likelihood of traded with volatility, risk aversity relative to news, momentum/contrarian, preferences for certain sectors, regret minimization, confidence bias) \n
-
-   > Edge weight matrices were calculated using reinforcement learning based on historical trades taken by each client on each stock \n
-
-   > Output was the identification of cognitive decision-making motifs adopted by each individual trader relative to other traders, and even able to identify successful situation-specific motifs based on the cumulative profit made by those cognitive motifs (i.e. clustered different decision-making motifs to specific scenarios/environments) \n
-
-   > Back-testing indicated ~7x% accuracy in predicting client execution on any given day (accuracy rising exponentially as time horizon increases to 2 weeks); successfully captured value-based decision-making cognition of rational agents
-    "
-  
-  - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/fingerprint.PNG
-    alt: "100% free2"
-    title: "Motif detection and clustering of franchise location network graphs"
-    excerpt: "Clustering network motifs of successful franchise locations, to consequently identify franchise expansion patterns.\n
-    
-    > [code](https://github.com/dattasiddhartha-1/Berkeley-Demand-Enterprises) 
-    [slides](https://drive.google.com/open?id=1aOQiZsVpe2V5yjKr-_aAqeqCny1E2izo)\n
-    
-     > Hybrid implementation of motif-detection, bridge-detection, and clustering algorithms to yield sequential coordinates of geographical locations depending on category of product/business, based on network de-anonymization framework\n
-  
-  > Developed REST API to run algorithm and pass JSON-formatted output to Ruby on Rails frontend\n
-  
-  > Contributions of this work in the use of network graphs in time-independent pattern interpolation, recursive backtesting method of running/validating the motifs through training/testing franchises\n
-    "
-    url: "https://dattasiddhartha-3.github.io/portfolio/10002locationfingerprinting/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"     
-   
-  - image_path: https://raw.githubusercontent.com/dattasiddhartha/neurocogpy/master/images/ts_image.PNG
-    alt: "100% fre3e"
-    title: "neurocogpy"
-    excerpt: "
-    Open-sourced electrophysiological signal visualization library built for Python\n
-    
-    > [library](https://github.com/dattasiddhartha/neurocogpy)\n
-
-    > Defined modules/functions for general-purpose data processing, analysis and modeling of ECoG signal data, including parsing of MATLAB files into Python, different feature engineering techniques for multi-electrode time series data, different visualization techniques, and pre-built class-based decision-making classification models
-    "
-    url: "https://github.com/dattasiddhartha/neurocogpy"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-    
-  - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/haiv5.PNG
-    alt: "100% fre3e"
-    title: "GAN-MC simulation for HIV sequence prediction"
-    excerpt: "
-    Predicting future HIV sequences given initial strains through use of Monte Carlo in mutation, and generative adversarial networks to prune predictions.\n
-    
-    > [paper](https://drive.google.com/open?id=1UwI3d3BeTJiHmEiT8r4QizsMBvl6ONaI) 
-[poster](https://drive.google.com/open?id=1kv3ASC_jhFq8qyhGdLw87ZcuxMC8Dpnu)\n
-
-> Applied mutations (addition, substitution, etc) through Monte Carlo upon listed initial strain sequences (source: Stanford HIV database); built adversarial network to generate adversarial sequences, and discriminator/classification network to identify valid subsequent sequences to prune MC-mutations\n
-
-> Further contribution of providing a mutation prediction algorithm is classifying HIV antiretroviral medication for specific strains of HIV, thus optimizing medication intake for patients in terms of viral drig resistance and elimination of virus
-    "
-    url: "https://dattasiddhartha-3.github.io/portfolio/10003haiv/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"     
-    
+ 
   - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/armusic.png
     alt: "100% fre4e"
     title: "Instrumental note generation through object-impact detection"
@@ -159,7 +76,79 @@ feature_row:
     url: "https://dattasiddhartha-3.github.io/portfolio/10004armusic/"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
-   
+    
+  - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/sachacks.PNG
+    alt: "100% fre4e"
+    title: "Automated 911 and positioning system triggered by weapon detection"
+    excerpt: "
+    Uses dashcams on cars to detect weapons being used in crimes and automatically making calls to the police. \n
+    
+    > [video](https://drive.google.com/file/d/1EOl4VYuxbt7_6Gz5KzhhcyGd_sdb3nG6/view?fbclid=IwAR1IgvE1oLZFLLLfAUU1ePDtXjmmFULMciBeDlq23GcWMTbaXXktjjsEGO0) [slides](https://drive.google.com/file/d/18XjwReayYjx8WDMM-l4k_HvLPWb57gW5/view?fbclid=IwAR16UxXIYthOsgbZGkYapLnIUXhxG3KFrVRW3TQDVHsx3eN_LOPMrSKTo2c) [demo](https://sachacks.herokuapp.com/)\n
+    
+    > Identifying crime: used Inception v2 R-CNN trained on a weapons dataset; idea was to place cameras in each car in the network, and use model to run real time inference to detect suspicious activity \n
+    
+    > Notifying the network: retrieve car's geolocation, odometer, locking all surrounding cars using SmartCar's API and sending out an SMS using Twillio and NoonLight when a threat was detected by the model. For this they used  which gave us access to the car's GPS, odometer and locking mechanisms; used Flask to build web app, Google Cloud Platform's Map API and JavaScript to visualize the crime data, Ethereum's API to access the ledger and Twitter's bootstrap for CSS, so when crime data was pushed to the database it would be visualized as each clickable dot displays the frame which set the model off as well as the location and time \n
+    
+    > Rewarding cars: set up smart contracts with Ethereum, letting users and companies alike put up rewards \n
+
+    > Won SacHacks 2018 as well as sponsor award from Smartcar
+    "
+    
+feature_row2:
+
+  - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/dp_arcchitecture.jpg
+    alt: "100% free2"
+    title: "Inductive inference of decision-making motifs from trade execution networks"
+    excerpt: "Prediction of client trade execution through application of reinforcement learning in rational agent decision-making \n
+    
+    > [architecture](https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/dp_arcchitecture.jpg) \n
+
+    > Client inferencing engine built for an investment bank; maps out traders to stocks with 70+ markets/cognitive features to interpolate trade execution motifs \n
+
+    > Network graph between clients and stocks: client-client edges were weighted functions of client-specific properties (e.g. fund type); stock-stock edges on stock-specific properties (e.g. sector, average daily volume); client-stock edges on behavioural/decision-making/trading features (e.g. likelihood of traded with volatility, risk aversity relative to news, momentum/contrarian, preferences for certain sectors, regret minimization, confidence bias) \n
+
+   > Edge weight matrices were calculated using reinforcement learning based on historical trades taken by each client on each stock \n
+
+   > Output was the identification of cognitive decision-making motifs adopted by each individual trader relative to other traders, and even able to identify successful situation-specific motifs based on the cumulative profit made by those cognitive motifs (i.e. clustered different decision-making motifs to specific scenarios/environments) \n
+
+   > Back-testing indicated ~7x% accuracy in predicting client execution on any given day (accuracy rising exponentially as time horizon increases to 2 weeks); successfully captured value-based decision-making cognition of rational agents
+    "
+    
+  - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/fingerprint.PNG
+    alt: "100% free2"
+    title: "Motif detection and clustering of franchise location network graphs"
+    excerpt: "Clustering network motifs of successful franchise locations, to consequently identify franchise expansion patterns.\n
+    
+    > [code](https://github.com/dattasiddhartha-1/Berkeley-Demand-Enterprises) 
+    [slides](https://drive.google.com/open?id=1aOQiZsVpe2V5yjKr-_aAqeqCny1E2izo)\n
+    
+     > Hybrid implementation of motif-detection, bridge-detection, and clustering algorithms to yield sequential coordinates of geographical locations depending on category of product/business, based on network de-anonymization framework\n
+  
+  > Developed REST API to run algorithm and pass JSON-formatted output to Ruby on Rails frontend\n
+  
+  > Contributions of this work in the use of network graphs in time-independent pattern interpolation, recursive backtesting method of running/validating the motifs through training/testing franchises\n
+    "
+    url: "https://dattasiddhartha-3.github.io/portfolio/10002locationfingerprinting/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"     
+       
+  - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/haiv5.PNG
+    alt: "100% fre3e"
+    title: "GAN-MC simulation for HIV sequence prediction"
+    excerpt: "
+    Predicting future HIV sequences given initial strains through use of Monte Carlo in mutation, and generative adversarial networks to prune predictions.\n
+    
+    > [paper](https://drive.google.com/open?id=1UwI3d3BeTJiHmEiT8r4QizsMBvl6ONaI) 
+[poster](https://drive.google.com/open?id=1kv3ASC_jhFq8qyhGdLw87ZcuxMC8Dpnu)\n
+
+> Applied mutations (addition, substitution, etc) through Monte Carlo upon listed initial strain sequences (source: Stanford HIV database); built adversarial network to generate adversarial sequences, and discriminator/classification network to identify valid subsequent sequences to prune MC-mutations\n
+
+> Further contribution of providing a mutation prediction algorithm is classifying HIV antiretroviral medication for specific strains of HIV, thus optimizing medication intake for patients in terms of viral drig resistance and elimination of virus
+    "
+    url: "https://dattasiddhartha-3.github.io/portfolio/10003haiv/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"     
+        
   - image_path: https://i1.wp.com/data-x.blog/wp-content/uploads/2018/12/Brain-Poster-Aditya-Goel-page-001.jpg?zoom=2&resize=2000%2C1200&ssl=1
     alt: "100% fre4e"
     title: "Value-based decision-making predictions through time-series ECoG signal models"
@@ -177,6 +166,43 @@ feature_row:
     url: "https://dattasiddhartha-3.github.io/portfolio/20010schoolproj/"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
+    
+    
+feature_row3:
+
+  - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/ciphertext_generation.PNG
+    alt: "100% free"
+    title: "Automated source code obfuscation and privacy-preserving execution through sequence-to-sequence networks"
+    excerpt: "
+    Contributed (1) quantitative framework for evaluating obfuscated code; (2) privacy-preserving system that uses seq2seq models to obfuscate plaintext and execute obfuscated ciphertext. Submitted to ICASSP 2020\n
+    
+    > [pdf](https://arxiv.org/pdf/1909.01837.pdf)\n
+    
+    > Implemented reversible character-embedded encoder-decoder model that takes plaintext input, recursively generates obfuscated code to ensure the execution program can run the obfiscated code without error, then returns obfuscated code, h5 model files, and  char/word-to-index dictionaries\n
+  
+  > Set up experimental pipeline to obfuscate benchmark source code, and compare/plot defined metrics between benchmark obfuscated and seq2seq obfuscated code"
+    url: "https://dattasiddhartha-3.github.io/portfolio/10002doc/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"     
+  
+  
+
+feature_row4:
+
+  - image_path: https://raw.githubusercontent.com/dattasiddhartha/neurocogpy/master/images/ts_image.PNG
+    alt: "100% fre3e"
+    title: "neurocogpy"
+    excerpt: "
+    Open-sourced electrophysiological signal visualization library built for Python\n
+    
+    > [library](https://github.com/dattasiddhartha/neurocogpy)\n
+
+    > Defined modules/functions for general-purpose data processing, analysis and modeling of ECoG signal data, including parsing of MATLAB files into Python, different feature engineering techniques for multi-electrode time series data, different visualization techniques, and pre-built class-based decision-making classification models
+    "
+    url: "https://github.com/dattasiddhartha/neurocogpy"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+    
 
   - image_path: https://raw.githubusercontent.com/dattasiddhartha-1/polysemous-word-tagging-tool/master/screenshot_preview.PNG
     alt: "100% fre4e"
@@ -206,24 +232,9 @@ feature_row:
     > Contribution in building models that targets passive voice errors (with sentence-to-sentence seq2seq to infer context in markov model active-passive conversion) and interlanguage errors made by Chinese students, pending publication
     "
     
-  - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/sachacks.PNG
-    alt: "100% fre4e"
-    title: "Automated 911 and positioning system triggered by weapon detection"
-    excerpt: "
-    Automated GEC system to grade grammatical integrity of student essays and aid non-native English writers learn from Chinese-specific inter-language errors. \n
-    
-    > [video](https://drive.google.com/file/d/1EOl4VYuxbt7_6Gz5KzhhcyGd_sdb3nG6/view?fbclid=IwAR1IgvE1oLZFLLLfAUU1ePDtXjmmFULMciBeDlq23GcWMTbaXXktjjsEGO0) [slides](https://drive.google.com/file/d/18XjwReayYjx8WDMM-l4k_HvLPWb57gW5/view?fbclid=IwAR16UxXIYthOsgbZGkYapLnIUXhxG3KFrVRW3TQDVHsx3eN_LOPMrSKTo2c) [demo](https://sachacks.herokuapp.com/)\n
-    
-    > Identifying crime: used Inception v2 R-CNN trained on a weapons dataset; idea was to place cameras in each car in the network, and use model to run real time inference to detect suspicious activity \n
-    
-    > Notifying the network: retrieve car's geolocation, odometer, locking all surrounding cars using SmartCar's API and sending out an SMS using Twillio and NoonLight when a threat was detected by the model. For this they used  which gave us access to the car's GPS, odometer and locking mechanisms; used Flask to build web app, Google Cloud Platform's Map API and JavaScript to visualize the crime data, Ethereum's API to access the ledger and Twitter's bootstrap for CSS, so when crime data was pushed to the database it would be visualized as each clickable dot displays the frame which set the model off as well as the location and time \n
-    
-    > Rewarding cars: set up smart contracts with Ethereum, letting users and companies alike put up rewards \n
 
-    > Won SacHacks 2018 as well as sponsor award from Smartcar
-    "
     
-feature_row2:    
+feature_row5:    
 
   - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/winnings.PNG
     alt: "100% fre4e"
@@ -258,10 +269,22 @@ feature_row2:
     btn_label: "Learn more" 
 
 ---
-### Test item
+## HCI / products (incl. CV, NLP, ML/DL)
 
 {% include feature_row %}
 
-### Test item
+## Causal inference / inductive programming (incl. Bioinformatics, networks)
 
 {% include feature_row2 %}
+
+### Privacy preserving systems (incl. Obfuscation, adversarial attacks)
+
+{% include feature_row3 %}
+
+### Lab contributions
+
+{% include feature_row4 %}
+
+### Other contributions
+
+{% include feature_row5 %}
