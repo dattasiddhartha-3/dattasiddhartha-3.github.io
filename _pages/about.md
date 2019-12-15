@@ -258,7 +258,10 @@ feature_row2:
     btn_label: "Learn more" 
 
 ---
+### Test item
 
 {% include feature_row %}
+
+### Test item
 
 {% include feature_row2 %}
