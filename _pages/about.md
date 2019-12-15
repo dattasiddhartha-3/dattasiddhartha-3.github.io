@@ -280,6 +280,9 @@ feature_row5:
     btn_label: "Learn more" 
 
 ---
+
+Siddhartha Datta (戴克勤)
+
 ## HCI / products (incl. CV, NLP, ML/DL)
 
 {% include feature_row %}
