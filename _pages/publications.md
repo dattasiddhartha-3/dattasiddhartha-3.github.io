@@ -7,7 +7,9 @@ author_profile: false
 
 ### Resume
 
-<iframe src="https://drive.google.com/file/d/1ft6yD26gz87DvQJsdwMPuRzV4gIIFclB/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1NawdTdlx9Fy5w-DkxcUFrj2Lkew73eTu/preview" width="640" height="480"></iframe>
+
+[Intended research trajectory](https://docs.google.com/document/d/1cjWkkmqrHVGN0bhLHhfNIrqMFBYR_nDreEunCm22sn4/edit?usp=sharing)  [Roadmap: EECS knowledge gained over time](https://docs.google.com/document/d/1p_LWdT8NwVTHOpAO-HkuWCc4KHelisOV385kGmonwP4/edit?usp=sharing)
 
 <!-- <iframe align="left" src="https://drive.google.com/file/d/1ft6yD26gz87DvQJsdwMPuRzV4gIIFclB/preview" width="640" height="480"></iframe> -->
 
