@@ -9,7 +9,7 @@ author_profile: false
 
 <iframe src="https://drive.google.com/file/d/1NawdTdlx9Fy5w-DkxcUFrj2Lkew73eTu/preview" width="640" height="480"></iframe>
 
-[Intended research trajectory](https://docs.google.com/document/d/1cjWkkmqrHVGN0bhLHhfNIrqMFBYR_nDreEunCm22sn4/edit?usp=sharing)  [Roadmap: EECS knowledge gained over time](https://docs.google.com/document/d/1p_LWdT8NwVTHOpAO-HkuWCc4KHelisOV385kGmonwP4/edit?usp=sharing)
+[Intended research trajectory](https://docs.google.com/document/d/1cjWkkmqrHVGN0bhLHhfNIrqMFBYR_nDreEunCm22sn4/edit?usp=sharing)     [Roadmap: EECS knowledge gained over time](https://docs.google.com/document/d/1p_LWdT8NwVTHOpAO-HkuWCc4KHelisOV385kGmonwP4/edit?usp=sharing)
 
 <!-- <iframe align="left" src="https://drive.google.com/file/d/1ft6yD26gz87DvQJsdwMPuRzV4gIIFclB/preview" width="640" height="480"></iframe> -->
 
@@ -21,6 +21,8 @@ author_profile: false
 <!-- * Prof Ikhlaq Sidhu, Industrial Engineering & Operations Research, UC Berkeley -->
 <!-- * Prof Ted Clark, Information Systems, HKUST -->
 
+
+Github profiles: [dattasiddhartha](https://github.com/dattasiddhartha)     [dattasiddhartha-1](https://github.com/dattasiddhartha-1)     [dattasiddhartha-3](https://github.com/dattasiddhartha-3)     [dattasiddhartha-4](https://github.com/dattasiddhartha-4)
 
 
 ### Formal paper submissions
