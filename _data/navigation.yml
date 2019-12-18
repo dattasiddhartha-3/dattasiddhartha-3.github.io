@@ -11,40 +11,46 @@ resume:
   - title: Education
     children:
       - title: "Hong Kong University of Science & Technology"
-        children:
-          - title: "3.70/4.30 GPA"
       - title: "University of California Berkeley"
       - title: "Stanford University"
 
-  - title: Customization
+  - title: Publication experience
     children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
+      - title: "S. Datta, Y. Yang. 2019. Submitted. “Adversarial attack optimization against crossdomain classification models” In ACL 2020"
+        url: https://drive.google.com/open?id=1O5hYeC3roV7LVDLaCoXXFBqwLPmykK9oP0kNpe-LXGQ
+      - title: S. Datta. 2019. Submitted. “DeepObfusCode: Source Code Obfuscation Through Sequence-to-Sequence Networks” In ICASSP 2020
+        url: https://arxiv.org/pdf/1909.01837.pdf
 
-  - title: Content
+  - title: Lab contributions
     children:
-      - title: "Working with Posts"
-        url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
+      - title: "Language and Children Development Lab, UCB"
+        url: 
+      - title: "CalUnmanned, UCB"
+      - title: "Knight Lab, UCB"
+        url: 
+      - title: "Department of Information Systems, HKUST"
+        url: 
+      - title: "Centre for Language Education, HKUST"
+        url: 
+      - title: "Department of Management, HKUST"
+        url: 
 
-  - title: Extras
+  - title: Work contributions
     children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
+      - title: "Credit Suisse, Algorithm Trading Strategy"
+        url: 
+      - title: "Societe Generale, Financial Engineering"
+      - title: "Aria Group, Venture Capital"
+      - title: "8Vesting, Proprietary trading"
+      - title: "InvestBots, Equity Research"
+      - title: "New World Development, Sales & Marketing"
+      - title: "Surepromise, Data science"
+
+  - title: Extracurricular activities
+    children:
+      - title: "2 StartUps"
+        url: http://media.licdn.com/embeds/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fcyberport.hk%2Fvideos%2F1893272297411941%2F&url=https%3A%2F%2Fwww.facebook.com%2Fcyberport.hk%2Fvideos%2F1893272297411941%2F&type=text%2Fhtml&schema=facebook
+      - title: "Volunteering for Ethnic Minority rights"
+        url: 
+      - title: "Aerial drone photography"
+        url: https://hkustconnect-my.sharepoint.com/:v:/g/personal/sdatta_connect_ust_hk/EXfTMUL6EXRMke64z0QZN8kBDyWV4hNB_ZUwjmqLzzxC7g?e=huxmIv
