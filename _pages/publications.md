@@ -2,9 +2,14 @@
 layout: archive
 title: ""
 permalink: /publications/
-author_profile: false
 sidebar:
-  nav: "resume"
+  - title: "Title"
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
+author_profile: false
 ---
 
 ### Resume
