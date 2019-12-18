@@ -3,14 +3,9 @@ layout: archive
 title: ""
 permalink: /publications/
 author_profile: false
+sidebar:
+  nav: "resume"
 ---
-
-<!--sidebar:
-  - title: "Education"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."-->
-<!-- This should be put under the permalink line-->
 
 | Scholarships/Honors | Awards | References |
 |-------|--------|---------|
