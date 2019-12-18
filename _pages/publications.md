@@ -2,15 +2,17 @@
 layout: archive
 title: ""
 permalink: /publications/
+author_profile: false
+sidebar:
+  nav: "resume"
+---
+
 <!--sidebar:
   - title: "Education"
     text: "Some text here."
   - title: "Another Title"
     text: "More text here."-->
-author_profile: false
-sidebar:
-  nav: "resume"
----
+    <!-- This should be put under the permalink line-->
 
 ### Resume
 
