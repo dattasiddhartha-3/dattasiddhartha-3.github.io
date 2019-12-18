@@ -2,16 +2,14 @@
 layout: archive
 title: ""
 permalink: /publications/
-sidebar:
-  - title: "Title"
-    children:
-    - title: "Subtitle"
+<!--sidebar:
+  - title: "Education"
     text: "Some text here."
   - title: "Another Title"
-    text: "More text here."
+    text: "More text here."-->
 author_profile: false
-<!--sidebar:
-  nav: "resume"-->
+sidebar:
+  nav: "resume"
 ---
 
 ### Resume
