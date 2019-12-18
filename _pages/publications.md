@@ -12,7 +12,7 @@ sidebar:
     text: "Some text here."
   - title: "Another Title"
     text: "More text here."-->
-    <!-- This should be put under the permalink line-->
+<!-- This should be put under the permalink line-->
 
 ### Resume
 
