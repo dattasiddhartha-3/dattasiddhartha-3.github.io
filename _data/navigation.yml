@@ -10,7 +10,7 @@ main:
 resume:
   - title: Education
     children:
-     - title: "Hong Kong University of Science and Technology"
+       - title: "Hong Kong University of Science and Technology"
          url: https://drive.google.com/file/d/1NawdTdlx9Fy5w-DkxcUFrj2Lkew73eTu/preview
       - title: "University of California Berkeley"
          url: https://drive.google.com/file/d/1NawdTdlx9Fy5w-DkxcUFrj2Lkew73eTu/preview
