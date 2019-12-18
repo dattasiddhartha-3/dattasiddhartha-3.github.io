@@ -4,7 +4,7 @@ title: ""
 permalink: /publications/
 author_profile: false
 sidebar:
-  nav: "docs"
+  nav: "resume"
 ---
 
 ### Resume
