@@ -4,12 +4,14 @@ title: ""
 permalink: /publications/
 sidebar:
   - title: "Title"
-    image: http://placehold.it/350x250
-    image_alt: "image"
+    children:
+    - title: "Subtitle"
     text: "Some text here."
   - title: "Another Title"
     text: "More text here."
 author_profile: false
+<!--sidebar:
+  nav: "resume"-->
 ---
 
 ### Resume
