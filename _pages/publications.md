@@ -15,7 +15,7 @@ sidebar:
 <!-- * Prof Ikhlaq Sidhu, Industrial Engineering & Operations Research, UC Berkeley -->
 <!-- * Prof Ted Clark, Information Systems, HKUST -->
 
-[[Intended research trajectory]](https://docs.google.com/document/d/1cjWkkmqrHVGN0bhLHhfNIrqMFBYR_nDreEunCm22sn4/edit?usp=sharing)     [[Roadmap: EECS knowledge gained over time]](https://docs.google.com/document/d/1p_LWdT8NwVTHOpAO-HkuWCc4KHelisOV385kGmonwP4/edit?usp=sharing)
+[[My intended career/research plan]](https://docs.google.com/document/d/1cjWkkmqrHVGN0bhLHhfNIrqMFBYR_nDreEunCm22sn4/edit?usp=sharing)     [[How did I learn CS over time without doing a CS degree?]](https://docs.google.com/document/d/1p_LWdT8NwVTHOpAO-HkuWCc4KHelisOV385kGmonwP4/edit?usp=sharing)
 
 *Github profiles*: [[dattasiddhartha]](https://github.com/dattasiddhartha)     [[dattasiddhartha-1]](https://github.com/dattasiddhartha-1)     [[dattasiddhartha-3]](https://github.com/dattasiddhartha-3)     [[dattasiddhartha-4]](https://github.com/dattasiddhartha-4)
 
