@@ -8,7 +8,8 @@ main:
     url: /background/
     
 docs:
-  - title: Getting Started
+  - title: Siddhartha Datta
+    <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
     children:
       - title: "Quick-Start Guide"
         url: /docs/quick-start-guide/
