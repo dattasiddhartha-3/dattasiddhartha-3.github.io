@@ -22,7 +22,7 @@ resume:
     children:
        - title: "S. Datta, Y. Yang. 2019. Submitted. “Adversarial attack optimization against crossdomain classification models” In ACL 2020"
          url: "https://drive.google.com/open?id=1O5hYeC3roV7LVDLaCoXXFBqwLPmykK9oP0kNpe-LXGQ"
-       - title: S. Datta. 2019. Submitted. “DeepObfusCode: Source Code Obfuscation Through Sequence-to-Sequence Networks” In ICASSP 2020"
+       - title: "S. Datta. 2019. Submitted. “DeepObfusCode: Source Code Obfuscation Through Sequence-to-Sequence Networks” In ICASSP 2020"
          url: "https://arxiv.org/pdf/1909.01837.pdf"
 
   - title: "Lab contributions"
