@@ -7,18 +7,14 @@ main:
   - title: "Personal Background"
     url: /background/
     
-docs:
-  - title: Siddhartha Datta
-    <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+resume:
+  - title: Education
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
+      - title: "Hong Kong University of Science & Technology"
+        children:
+          - title: "3.70/4.30 GPA"
+      - title: "University of California Berkeley"
+      - title: "Stanford University"
 
   - title: Customization
     children:
@@ -52,12 +48,3 @@ docs:
         url: /docs/stylesheets/
       - title: "JavaScript"
         url: /docs/javascript/
-        
-resume:
-  - title: "Title"
-    image: http://placehold.it/350x250
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
-    nav: sidebar-sample
