@@ -3,6 +3,8 @@ layout: archive
 title: ""
 permalink: /publications/
 author_profile: false
+sidebar:
+  nav: "resume"
 ---
 
 | Scholarships/Honors | Awards | References |
