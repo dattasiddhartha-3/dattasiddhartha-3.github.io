@@ -14,14 +14,6 @@ sidebar:
     text: "More text here."-->
 <!-- This should be put under the permalink line-->
 
-### Resume
-
-<iframe src="https://drive.google.com/file/d/1NawdTdlx9Fy5w-DkxcUFrj2Lkew73eTu/preview" width="640" height="480"></iframe>
-
-[Intended research trajectory](https://docs.google.com/document/d/1cjWkkmqrHVGN0bhLHhfNIrqMFBYR_nDreEunCm22sn4/edit?usp=sharing)     [Roadmap: EECS knowledge gained over time](https://docs.google.com/document/d/1p_LWdT8NwVTHOpAO-HkuWCc4KHelisOV385kGmonwP4/edit?usp=sharing)
-
-<!-- <iframe align="left" src="https://drive.google.com/file/d/1ft6yD26gz87DvQJsdwMPuRzV4gIIFclB/preview" width="640" height="480"></iframe> -->
-
 | Scholarships/Honors | Awards | References |
 |-------|--------|---------|
 | Dean's List (2017-18, 2018-19)<br> Joseph Lau Luen Hung Charitable Trust Scholarship Hong Kong Award (HKD 80,000 p.a.)**<br> Li Ka Shing Foundation Scholarship for Innovation and Creativity (HKD 50,000)<br> Hong Kong Unison Scholarship (HKD 15,000 p.a.)<br> Br Bernard Guellec Memorial Prize for French<br> Br Felix Sheehan Memorial Prize for English<br> University Entrance Scholarship<br> Harmony Scholarship (Home Affairs Bureau, HKSAR Government)<br> * Total scholarship HKD 110,000 per year; 2.5x annual tuition<br> ** Awarded to Top 0.0015% of undergraduate student population | CalHacks 5.0 - Winner (Augmented Reality section, Epson Sponsor Award)<br> SacHacks 2018 - Winner (Smartcar 1st Runnerup, Best First-Time Hack, Best Domain Name, 3rd Overall)<br> AngelHack 2018 - Champion (Blockchain Category)<br> Cyberport Creative Micro Fund - Winner<br> Classified Post Hackathon 2018 - Champion<br> Li&Fung Hack the Runway 2017 - Champion<br> HKUST Bizkathon 2019 - 1st Runnerup<br> CityU Hackathon 2018 - Most Innovative Idea award & 1st Runnerup<br> EasyShip 24 Hour E-Commerce Hackathon 2017 - 1st Runner up<br> HardUST 2017 - 1st Runner-up<br> HKUST-Radica Big Datathon 2017 - 1st Runner up<br> Access to Justice InnoTech Law Hackathon 2018 - Honorable Mentions | Prof Eric Friedman, EECS, UC Berkeley<br> Prof Christy Zhou Koval, Michigan State University<br> Prof Gary Chan, Computer Science, HKUST<br> Prof Yang Yi, Information Systems, HKUST<br> Dr Nora Hussein, Linguistics, HKUST<br> Dr Nam Sai Lok, Philosophy, HKUST<br> Peers testimony: [CalHacks](http://www.zacharychaoportfolio.com/blog/calhacks), [SacHacks](http://www.zacharychaoportfolio.com/blog/sacHacks) |
@@ -30,8 +22,9 @@ sidebar:
 <!-- * Prof Ikhlaq Sidhu, Industrial Engineering & Operations Research, UC Berkeley -->
 <!-- * Prof Ted Clark, Information Systems, HKUST -->
 
+[[Intended research trajectory]](https://docs.google.com/document/d/1cjWkkmqrHVGN0bhLHhfNIrqMFBYR_nDreEunCm22sn4/edit?usp=sharing)     [[Roadmap: EECS knowledge gained over time]](https://docs.google.com/document/d/1p_LWdT8NwVTHOpAO-HkuWCc4KHelisOV385kGmonwP4/edit?usp=sharing)
 
-Github profiles: [dattasiddhartha](https://github.com/dattasiddhartha)     [dattasiddhartha-1](https://github.com/dattasiddhartha-1)     [dattasiddhartha-3](https://github.com/dattasiddhartha-3)     [dattasiddhartha-4](https://github.com/dattasiddhartha-4)
+*Github profiles*: [[dattasiddhartha]](https://github.com/dattasiddhartha)     [[dattasiddhartha-1]](https://github.com/dattasiddhartha-1)     [[dattasiddhartha-3]](https://github.com/dattasiddhartha-3)     [[dattasiddhartha-4]](https://github.com/dattasiddhartha-4)
 
 
 ### Formal paper submissions
@@ -94,6 +87,15 @@ A project focused on predicting gambling decisions from brainwave electrocortico
 ##### ["Youtube Sentiment-based Portfolio Selection and Trading Strategy"](https://github.com/dattasiddhartha/QuantTrading_Decal)
 
 ##### ["AIDS Epidemic Simulation with Adjustment for Decision-making from neural ECoG data"](https://drive.google.com/open?id=17WZ1hRXWdA-ppuXmkyBdVcu26os3wALx)
+
+
+### Resume
+
+<iframe src="https://drive.google.com/file/d/1NawdTdlx9Fy5w-DkxcUFrj2Lkew73eTu/preview" width="640" height="480"></iframe>
+
+
+<!-- <iframe align="left" src="https://drive.google.com/file/d/1ft6yD26gz87DvQJsdwMPuRzV4gIIFclB/preview" width="640" height="480"></iframe> -->
+
 
 <!-- ### Scholarships/Honors:
 <!-- + Dean's List (2017-18, 2018-19)
