@@ -22,9 +22,9 @@ sidebar:
 
 ## Formal paper submissions
 
-#### S. Datta, Y. Yang. 2019. Submitted. ["Adversarial attack optimization against crossdomain classification models"](https://drive.google.com/open?id=1O5hYeC3roV7LVDLaCoXXFBqwLPmykK9oP0kNpe-LXGQ) In ACL 2020
+##### > S. Datta, Y. Yang. 2019. Submitted. ["Adversarial attack optimization against crossdomain classification models"](https://drive.google.com/open?id=1O5hYeC3roV7LVDLaCoXXFBqwLPmykK9oP0kNpe-LXGQ) In ACL 2020
 
-##### S. Datta. 2019. Submitted. ["DeepObfusCode: Source Code Obfuscation Through Sequence-to-Sequence Networks"](https://arxiv.org/abs/1909.01837) In ICASSP 2020
+> S. Datta. 2019. Submitted. ["DeepObfusCode: Source Code Obfuscation Through Sequence-to-Sequence Networks"](https://arxiv.org/abs/1909.01837) In ICASSP 2020
 The paper explores a novel methodology in source code obfuscation through the application of text-based recurrent neural network (RNN) encoder-decoder models in ciphertext generation and key generation. Sequence-to-sequence models are incorporated into the model architecture to generate obfuscated code, generate the deobfuscation key, and live execution. Quantitative benchmark comparison to existing obfuscation methods indicate significant improvement in stealth and execution cost for the proposed solution, and experiments regarding the model's properties yield positive results regarding its character variation, dissimilarity to the original codebase, and consistent length of obfuscated code.
 
 ##### S. Datta, C.Z Koval. 2018. ["Big Data Analysis of Labour Market Dynamics in Freelance Work Platforms"](https://drive.google.com/open?id=1nOAZuAtAsVhJHUXCp3Re_1LSnE9LOerZ) In [Undergraduates Research Opportunities Program 2017-2018 Proceedings](https://urop.ust.hk/files/UROP%20Proceedings%202017-18.pdf)
@@ -42,7 +42,7 @@ available to most smartphones via camera-detection. Such a mechanism will aid th
 [[code]](https://github.com/dattasiddhartha/DataX-NeuralDecisionMaking) [poster](https://data-x.blog/projects/predicting-gambling-decisions/) [[data]](https://crcns.org/data-sets/ofc/ofc-3/about-ofc-2) [[library]](https://github.com/dattasiddhartha/neurocogpy)
 A project focused on predicting gambling decisions from brainwave electrocorticography (ECoG) data. The motivation behind this project was based on societal implications such as applications to law and regulation of the gambling industry, clinical practice in understanding how neurodegenerative disease or trauma affect decision making, and to some extent even our understanding of free will. The project utilized data recorded by the Knight Lab, a neuroscience lab at UC Berkeley. The ECoG data was collected from the orbitofrontal cortex (OFC) of epileptic patients, who volunteered to participate in research while undergoing intracranial monitoring for surgical planning purposes. Patients were given a task of playing a game in which they could choose either ‘Gamble’ or ‘Safebet’ for 200 trials. Over the course of the semester, we pre-processed, explored, and modeled the data, with the ultimate goal of predicting whether a patient would gamble or not given only the ECoG data, recorded before the patient indicated their decision by a button press. Much exploration was on feature engineering, as there are not many established feature engineering methods in the analysis of ECoG data: examples of features include using the 2.5 and 97.5 percentile values and number of peaks for electrode data in a patient’s trial. Modeling was done through logistic regression, random forest, adaboost, naive bayes, neural nets, and perceptron. Logistic regression fared the best, with one model giving a 10% boost over the baseline accuracy found with Naive Bayes. This result demonstrates that there is information in the OFC neural signal, which can be used to predict decisions before they are made overtly.
 
-### Research contributions
+## Research contributions
 
 ###### [o] open-source; [c] closed-source
 
@@ -66,7 +66,7 @@ A project focused on predicting gambling decisions from brainwave electrocortico
 * Built an open-source electrophysiological signal visualization library in affiliation with Data-X and Knight Lab (UC Berkeley).
 * Defined modules/functions for general-purpose data processing, analysis and modeling of ECoG signal data, including parsing of MATLAB files into Python, different feature engineering techniques for multi-electrode time series data, different visualization techniques, and pre-built class-based decision-making classification models
 
-### Additional research work
+## Additional research work
 
 ##### ["Using Structural Imbalance to Evaluate Models of International Relations"](https://drive.google.com/open?id=1lUfM2D4XycYqbIgJThU1Xjk0sdku4z3n)
 * Studied whether international conflicts could be predicted or captured in network imbalances between nodes; we used discrete sign methods to measure structural imbalances for each feature, and also used a continuous reinforcement learning method to calculate weights for each feature in each edge to measure structural imbalance in one graph
