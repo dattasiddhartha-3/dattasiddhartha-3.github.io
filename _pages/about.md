@@ -14,10 +14,10 @@ feature_row:
     excerpt: "
     Winning submisson at Cal Hacks 5.0; display goggles that helps Alzheimer’s patients locate personal affects using object detection and speech recognition.\n
     
-    > [video](http://www.youtube.com/watch?v=s6UWctGQRwA) 
-[code](https://hkustconnect-my.sharepoint.com/personal/sdatta_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsdatta%5Fconnect%5Fust%5Fhk%2FDocuments%2FBerkeley%2FMoverio%2DMemoryPalace%2DInstructions%2Ezip&parent=%2Fpersonal%2Fsdatta%5Fconnect%5Fust%5Fhk%2FDocuments%2FBerkeley) 
-[install instructions](https://drive.google.com/open?id=183nrhzzW63Xrgerxxk8LOU9aBcUO_XZH) 
-[slides](https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/b524535calhacks_slides.pptx)\n
+    > [[video]](http://www.youtube.com/watch?v=s6UWctGQRwA) 
+[[code]](https://hkustconnect-my.sharepoint.com/personal/sdatta_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsdatta%5Fconnect%5Fust%5Fhk%2FDocuments%2FBerkeley%2FMoverio%2DMemoryPalace%2DInstructions%2Ezip&parent=%2Fpersonal%2Fsdatta%5Fconnect%5Fust%5Fhk%2FDocuments%2FBerkeley) 
+[[install instructions]](https://drive.google.com/open?id=183nrhzzW63Xrgerxxk8LOU9aBcUO_XZH) 
+[[slides]](https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/b524535calhacks_slides.pptx)\n
     
    > Trained Mask R-CNN object detection classifier on grayed-out ImageNet dataset to sustain realtime inference / classification rate at least 30fps; optimized setup of models (e.g. Yolo v1-3), datasets (e.g. MS Coco) on high-latency Android embedded system\n
   
@@ -35,10 +35,11 @@ feature_row:
     excerpt: "
     BreakupBot, a therapeutic chatbot to recuperate from romantic breakups, organically acquired 200+ users of varying demographics within first week.\n
     
-    > [video](https://www.youtube.com/embed/1NxWMQA7tlM) 
-[paper](https://drive.google.com/file/d/142kTVrKNGH42splekvbfXGVtT9HhNQPq/view) 
-[poster](https://drive.google.com/open?id=0Bya0t6OLDU2FNTV2S2NKTmpMSHc)\n
-    
+    > [[code]](https://github.com/dattasiddhartha-4/breakup-bot/) 
+      [[video]](https://www.youtube.com/embed/1NxWMQA7tlM) 
+      [[paper]](https://drive.google.com/file/d/142kTVrKNGH42splekvbfXGVtT9HhNQPq/view) 
+      [[poster]](https://drive.google.com/open?id=0Bya0t6OLDU2FNTV2S2NKTmpMSHc)\n
+
    > Built Android application and JSON-based API that receives user text input and returns counselling-based responses\n
   
   
@@ -63,9 +64,9 @@ feature_row:
     excerpt: "
     Synthesis of musical notes based on tapping food with utensils, with each dish assigned to a different instrument.\n
     
-    > [code](https://bit.ly/2P7YYRQ) 
-[video](https://bit.ly/2GcKUCl) 
-[video](https://bit.ly/2UY9FM0)\n
+    > [[code]](https://bit.ly/2P7YYRQ) 
+[[video]](https://bit.ly/2GcKUCl) 
+[[video]](https://bit.ly/2UY9FM0)\n
 
 > Trained Resnet and Yolo object detection models on labelled food images; paired food categories with instruments, and sub-categories with different notes, and encoded x-axis location across the sub-category image with distinct notes\n
   
@@ -83,7 +84,7 @@ feature_row:
     excerpt: "
     Uses dashcams on cars to detect weapons being used in crimes and automatically making calls to the police. \n
     
-    > [video](https://drive.google.com/file/d/1EOl4VYuxbt7_6Gz5KzhhcyGd_sdb3nG6/view?fbclid=IwAR1IgvE1oLZFLLLfAUU1ePDtXjmmFULMciBeDlq23GcWMTbaXXktjjsEGO0) [slides](https://drive.google.com/file/d/18XjwReayYjx8WDMM-l4k_HvLPWb57gW5/view?fbclid=IwAR16UxXIYthOsgbZGkYapLnIUXhxG3KFrVRW3TQDVHsx3eN_LOPMrSKTo2c) [demo](https://sachacks.herokuapp.com/)\n
+    > [[video]](https://drive.google.com/file/d/1EOl4VYuxbt7_6Gz5KzhhcyGd_sdb3nG6/view?fbclid=IwAR1IgvE1oLZFLLLfAUU1ePDtXjmmFULMciBeDlq23GcWMTbaXXktjjsEGO0) [[slides]](https://drive.google.com/file/d/18XjwReayYjx8WDMM-l4k_HvLPWb57gW5/view?fbclid=IwAR16UxXIYthOsgbZGkYapLnIUXhxG3KFrVRW3TQDVHsx3eN_LOPMrSKTo2c) [[demo]](https://sachacks.herokuapp.com/)\n
     
     > Identifying crime: used Inception v2 R-CNN trained on a weapons dataset; idea was to place cameras in each car in the network, and use model to run real time inference to detect suspicious activity \n
     
@@ -101,7 +102,7 @@ feature_row2:
     title: "Inductive inference of decision-making motifs from trade execution networks"
     excerpt: "Prediction of client trade execution through application of reinforcement learning in rational agent decision-making \n
     
-    > [architecture](https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/dp_arcchitecture.jpg) \n
+    > [[architecture]](https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/dp_arcchitecture.jpg) \n
 
     > Client inferencing engine built for an investment bank; maps out traders to stocks with 70+ markets/cognitive features to interpolate trade execution motifs \n
 
@@ -119,8 +120,8 @@ feature_row2:
     title: "Motif detection and clustering of franchise location network graphs"
     excerpt: "Clustering network motifs of successful franchise locations, to consequently identify franchise expansion patterns.\n
     
-    > [code](https://github.com/dattasiddhartha-1/Berkeley-Demand-Enterprises) 
-    [slides](https://drive.google.com/open?id=1aOQiZsVpe2V5yjKr-_aAqeqCny1E2izo)\n
+    > [[code]](https://github.com/dattasiddhartha-1/Berkeley-Demand-Enterprises) 
+    [[slides]](https://drive.google.com/open?id=1aOQiZsVpe2V5yjKr-_aAqeqCny1E2izo)\n
     
      > Hybrid implementation of motif-detection, bridge-detection, and clustering algorithms to yield sequential coordinates of geographical locations depending on category of product/business, based on network de-anonymization framework\n
   
@@ -138,8 +139,8 @@ feature_row2:
     excerpt: "
     Predicting future HIV sequences given initial strains through use of Monte Carlo in mutation, and generative adversarial networks to prune predictions.\n
     
-    > [paper](https://drive.google.com/open?id=1UwI3d3BeTJiHmEiT8r4QizsMBvl6ONaI) 
-[poster](https://drive.google.com/open?id=1kv3ASC_jhFq8qyhGdLw87ZcuxMC8Dpnu)\n
+    > [[paper]](https://drive.google.com/open?id=1UwI3d3BeTJiHmEiT8r4QizsMBvl6ONaI) 
+[[poster]](https://drive.google.com/open?id=1kv3ASC_jhFq8qyhGdLw87ZcuxMC8Dpnu)\n
 
 > Applied mutations (addition, substitution, etc) through Monte Carlo upon listed initial strain sequences (source: Stanford HIV database); built adversarial network to generate adversarial sequences, and discriminator/classification network to identify valid subsequent sequences to prune MC-mutations\n
 
@@ -155,9 +156,9 @@ feature_row2:
     excerpt: "
     Predicting likelihood to act or not to act through computational models based on (i) expected value to gain and (ii) neural ECoG signals.\n
     
-    > [code](https://github.com/dattasiddhartha/DataX-NeuralDecisionMaking) 
-      [poster](https://data-x.blog/projects/predicting-gambling-decisions/) 
-      [data](https://crcns.org/data-sets/ofc/ofc-3/about-ofc-2)\n
+    > [[code]](https://github.com/dattasiddhartha/DataX-NeuralDecisionMaking) 
+      [[poster]](https://data-x.blog/projects/predicting-gambling-decisions/) 
+      [[data]](https://crcns.org/data-sets/ofc/ofc-3/about-ofc-2)\n
 
 > Built deep learning models (multilayer perceptron, LSTM, R-CNN) with Pytorch to generate ECoG decision-making distributions and prediction of decision classification based on initial ECoG and potential gainable values\n
   
@@ -176,7 +177,7 @@ feature_row3:
     excerpt: "
     Contributed (1) quantitative framework for evaluating obfuscated code; (2) privacy-preserving system that uses seq2seq models to obfuscate plaintext and execute obfuscated ciphertext. Submitted to ICASSP 2020\n
     
-    > [pdf](https://arxiv.org/pdf/1909.01837.pdf)\n
+    > [[arXiv]](https://arxiv.org/pdf/1909.01837.pdf)\n
     
     > Implemented reversible character-embedded encoder-decoder model that takes plaintext input, recursively generates obfuscated code to ensure the execution program can run the obfiscated code without error, then returns obfuscated code, h5 model files, and  char/word-to-index dictionaries\n
   
@@ -191,7 +192,7 @@ feature_row3:
     excerpt: "
     Contributed a new adversarial attack architecture against text classification models; notable differences in this model is that it is a complete black-box attack, and uses features of domain adaptation. Submitted to ACL 2020\n
     
-    > [brief](https://drive.google.com/open?id=1O5hYeC3roV7LVDLaCoXXFBqwLPmykK9oP0kNpe-LXGQ)\n
+    > [[brief]](https://drive.google.com/open?id=1O5hYeC3roV7LVDLaCoXXFBqwLPmykK9oP0kNpe-LXGQ)\n
     
     > Transferred over implementations of FGSM, Random-FGSM and Basic Iterative Method (BIM) from continuous image space over to the text space to apply perturbations to sentences.\n
   
@@ -206,7 +207,7 @@ feature_row4:
     excerpt: "
     Open-sourced electrophysiological signal visualization library built for Python\n
     
-    > [library](https://github.com/dattasiddhartha/neurocogpy)\n
+    > [[library]](https://github.com/dattasiddhartha/neurocogpy)\n
 
     > Defined modules/functions for general-purpose data processing, analysis and modeling of ECoG signal data, including parsing of MATLAB files into Python, different feature engineering techniques for multi-electrode time series data, different visualization techniques, and pre-built class-based decision-making classification models
     "
@@ -221,7 +222,7 @@ feature_row4:
     excerpt: "
     Tag words of multiple definitions to study concept/word learning among children.\n
     
-    > [code](https://github.com/dattasiddhartha-1/polysemous-word-tagging-tool/tree/master)\n
+    > [[code]](https://github.com/dattasiddhartha-1/polysemous-word-tagging-tool/tree/master)\n
 
     > Loaded corpora from childes-db, loaded tagging functions and text data from SemCor, built interactive tool using JavaScript and jquery for users on Mechanical Turk to tag polysemous words, in order to develop computational models around chidren concept learning
     "
@@ -284,6 +285,7 @@ feature_row5:
 ### Siddhartha Datta
 
 Thank you for venturing into my repository of project highlights, research experience, and looking glass into my personal life. While each page or section might go in-depth into a particular domain or problem or solution, the one thing that connects them all together is that each project I work on in some way *tests* the future of that domain, to test whether the solution is in this problem's path in the coming years/decades. 
+
 
 ## HCI / products (incl. CV, NLP, ML/DL)
 
