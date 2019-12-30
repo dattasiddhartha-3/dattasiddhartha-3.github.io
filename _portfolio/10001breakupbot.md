@@ -10,9 +10,7 @@ BreakupBot is a therapeutic chatbot developed to help get over romantic breakups
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1NxWMQA7tlM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[NLP demo](https://www.facebook.com/BreakupBot-20-1328526643902687/) : Click "Send Message" to start interacting with the isolated NLP system (or watch the [app demo](https://www.youtube.com/watch?v=1NxWMQA7tlM))
-
-[[paper]](https://drive.google.com/file/d/142kTVrKNGH42splekvbfXGVtT9HhNQPq/view) [[code]](https://github.com/dattasiddhartha-4/breakup-bot/)
+[[paper]](https://drive.google.com/file/d/142kTVrKNGH42splekvbfXGVtT9HhNQPq/view) [[code]](https://github.com/dattasiddhartha-4/breakup-bot/) [[app]](https://drive.google.com/open?id=1AVUpfepD_4yhdqv5L16C0XYDfLBk88om)
 
 ### Technical summary
 
@@ -43,3 +41,5 @@ After building and testing the system within a group of test users, I additional
 <img src="/images/bb1.png" width="180"> <img src="/images/Inkedbb2_LI.jpg" width="360">
 
 [prototype](https://www.facebook.com/BreakupBot-20-1328526643902687/) | [video](https://www.youtube.com/watch?v=1NxWMQA7tlM) | [poster](https://drive.google.com/open?id=0Bya0t6OLDU2FNTV2S2NKTmpMSHc) | [Further reference and media](https://drive.google.com/open?id=0Bya0t6OLDU2FZFk1UzdiMU5qb1U)
+
+You may install the [apk file](https://drive.google.com/open?id=1AVUpfepD_4yhdqv5L16C0XYDfLBk88om) for Android. You may also preview a simplified demo of the NLP system through [Facebook](https://www.facebook.com/BreakupBot-20-1328526643902687/): Click "Send Message" to start interacting with the isolated NLP system.
