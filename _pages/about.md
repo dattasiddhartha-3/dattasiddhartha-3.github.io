@@ -10,7 +10,7 @@ feature_row:
 
   - image_path: https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/e253ebdepson_goggles_lq.PNG
     alt: "customizable"
-    title: ["Mask R-CNN object detection to augment human peripheral search"](https://dattasiddhartha-3.github.io/portfolio/10000memorypalace/)
+    title: "Mask R-CNN object detection to augment human peripheral search"
     excerpt: "
     Winning submisson at Cal Hacks 5.0; display goggles that helps Alzheimer’s patients locate personal affects using object detection and speech recognition.\n
     
