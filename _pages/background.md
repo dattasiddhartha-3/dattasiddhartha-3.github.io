@@ -5,6 +5,8 @@ permalink: /background/
 author_profile: true
 ---
 
+###### Expand/Collapse for more details~
+
 <details>
   <summary>Origins</summary>
   
