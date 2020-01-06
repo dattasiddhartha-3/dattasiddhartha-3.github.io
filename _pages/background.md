@@ -48,8 +48,8 @@ author_profile: true
   
 </details>
 
-<a href="https://hkustconnect-my.sharepoint.com/:v:/g/personal/sdatta_connect_ust_hk/EXfTMUL6EXRMke64z0QZN8kBDyWV4hNB_ZUwjmqLzzxC7g?e=huxmIv"><img src="/images/drone1.PNG" width="360" /></a>
-<a href="https://hkustconnect-my.sharepoint.com/:v:/g/personal/sdatta_connect_ust_hk/Ee5KfeEquptPmCI0luZuDBEBi_zFwp-ohn1aIB19NCcJxQ?e=6gYwCr"><img src="/images/drone2.PNG" width="360" /></a>
+<a href="https://hkustconnect-my.sharepoint.com/:v:/g/personal/sdatta_connect_ust_hk/EXfTMUL6EXRMke64z0QZN8kBDyWV4hNB_ZUwjmqLzzxC7g?e=huxmIv"><img src="/images/drone1.PNG" width="480" /></a>
+<a href="https://hkustconnect-my.sharepoint.com/:v:/g/personal/sdatta_connect_ust_hk/Ee5KfeEquptPmCI0luZuDBEBi_zFwp-ohn1aIB19NCcJxQ?e=6gYwCr"><img src="/images/drone2.PNG" width="480" /></a>
 
 <iframe width="128" height="64" src="https://www.youtube.com/embed/PA74bXwo20w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
