@@ -306,13 +306,6 @@ Thank you for venturing into my repository of project highlights, research exper
 
 </details>
 
-<div data-role="main" class="ui-content">
-    <div data-role="collapsible">
-      <h1>Click me - I'm collapsible!</h1>
-      <p>I'm the expanded content.</p>
-    </div>
-</div>
-
 ## HCI / products (incl. CV, NLP, ML/DL)
 
 {% include feature_row %}
