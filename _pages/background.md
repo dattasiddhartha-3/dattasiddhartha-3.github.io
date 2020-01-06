@@ -7,6 +7,8 @@ author_profile: true
 
 ###### Expand/Collapse for more details~
 
+<br/><br/>
+
 <details>
   <summary>Origins</summary>
   
@@ -25,7 +27,7 @@ author_profile: true
   
 </details>
 
-<iframe width="240" height="320" src="https://www.youtube.com/embed/BZFs_zrIcm4?start=288" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <a href="http://media.licdn.com/embeds/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fcyberport.hk%2Fvideos%2F1893272297411941%2F&amp;url=https%3A%2F%2Fwww.facebook.com%2Fcyberport.hk%2Fvideos%2F1893272297411941%2F&amp;type=text%2Fhtml&amp;schema=facebook"><img src="/images/ccmf.PNG" width="360" /></a>
+<iframe width="240" height="128" src="https://www.youtube.com/embed/BZFs_zrIcm4?start=288" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <a href="http://media.licdn.com/embeds/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fcyberport.hk%2Fvideos%2F1893272297411941%2F&amp;url=https%3A%2F%2Fwww.facebook.com%2Fcyberport.hk%2Fvideos%2F1893272297411941%2F&amp;type=text%2Fhtml&amp;schema=facebook"><img src="/images/ccmf.PNG" width="360" /></a>
 
 <!-- <iframe src="https://www.scmp.com/news/hong-kong/education/article/2154479/hong-kong-teens-dreams-being-doctor-dashed-education" height="360" width="480"></iframe> -->
 
@@ -35,6 +37,7 @@ author_profile: true
 
 <a href="https://www.scmp.com/news/hong-kong/education/article/2154479/hong-kong-teens-dreams-being-doctor-dashed-education"><img src="/images/scmp.PNG" width="360" /></a> <a href="http://media.licdn.com/embeds/media.html?src=https%3A%2F%2Ftwitter.com%2Fleonlaroue%2Fstatus%2F1059263707417534464&amp;url=https%3A%2F%2Ftwitter.com%2Fleonlaroue%2Fstatus%2F1059263707417534464&amp;type=text%2Fhtml&amp;schema=twitter"><img src="/images/tweet.PNG" width="360" /></a> 
 
+<br/><br/>
 
 <details>
   <summary>Filmography</summary>
