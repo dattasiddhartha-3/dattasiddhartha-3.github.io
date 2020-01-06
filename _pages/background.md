@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <details>
-  <summary>### Origins</summary>
+  <summary>Origins</summary>
   
   I was born in mid-Autumn 1998 in Bangladesh. Our family has lived in the village of Kaduti for many generations, and my father is the first generation to leave the village (and ended up in Hong Kong).  
   
@@ -14,11 +14,16 @@ author_profile: true
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7579.645071418137!2d90.96662635335532!3d23.404621996496573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x37546194d892d1f7%3A0x62b986bceed141db!2sKaduti%2C%20Bangladesh!5e1!3m2!1sen!2shk!4v1571923656921!5m2!1sen!2shk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
-### Media Exposure
+<details>
+  <summary>Media Exposure</summary>
+
+  
+  
+</details>
 
 * Advocacy work on promoting educational opportunities for Hong Kong ethnic minorities
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BZFs_zrIcm4?start=288" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="360" src="https://www.youtube.com/embed/BZFs_zrIcm4?start=288" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- <iframe src="https://www.scmp.com/news/hong-kong/education/article/2154479/hong-kong-teens-dreams-being-doctor-dashed-education" height="360" width="480"></iframe> -->
 
