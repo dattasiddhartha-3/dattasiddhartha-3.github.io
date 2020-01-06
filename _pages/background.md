@@ -10,9 +10,9 @@ author_profile: true
 <br/><br/>
 
 <details>
-  <summary><h3>Origins</h3></summary>
+  <summary><b>Origins</b></summary>
   
-  I was born in mid-Autumn 1998 in Bangladesh. Our family has lived in the village of Kaduti for many generations, and my father is the first generation to leave the village (and ended up in Hong Kong).  
+  <h6>I was born in mid-Autumn 1998 in Bangladesh. Our family has lived in the village of Kaduti for many generations, and my father is the first generation to leave the village (and ended up in Hong Kong).</h6>
   
 </details>
 
@@ -21,9 +21,9 @@ author_profile: true
 <br/><br/>
 
 <details>
-  <summary>Media Exposure</summary>
+  <summary><b>Media Exposure</b></summary>
 
-  Advocacy work on promoting educational opportunities for Hong Kong ethnic minorities; media exposure from hackathons and startup; scholarship award exposure.
+  <h6>Advocacy work on promoting educational opportunities for Hong Kong ethnic minorities; media exposure from hackathons and startup; scholarship award exposure.</h6>
   
 </details>
 
@@ -42,9 +42,9 @@ author_profile: true
 <br/><br/>
 
 <details>
-  <summary>Filmography</summary>
+  <summary><b>Filmography</b></summary>
   
-   In my spare time I take a drone out for a spin in the country side and capture a different perspective of the world I inhabit... and sometimes take part in a few skits...
+   <h6>In my spare time I take a drone out for a spin in the country side and capture a different perspective of the world I inhabit... and sometimes take part in a few skits...</h6>
   
 </details>
 
