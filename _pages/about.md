@@ -287,6 +287,31 @@ feature_row5:
 
 Thank you for venturing into my repository of project highlights, research experience, and looking glass into my personal life. While each page or section might go in-depth into a particular domain or problem or solution, the one thing that connects them all together is that each project I work on in some way *tests* the future of that domain, to test whether the solution is in this problem's path in the coming years/decades. 
 
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## HCI / products (incl. CV, NLP, ML/DL)
+
+  {% include feature_row %}
+
+</details>
+
+<div data-role="main" class="ui-content">
+    <div data-role="collapsible">
+      <h1>Click me - I'm collapsible!</h1>
+      <p>I'm the expanded content.</p>
+    </div>
+</div>
 
 ## HCI / products (incl. CV, NLP, ML/DL)
 
@@ -307,10 +332,3 @@ Thank you for venturing into my repository of project highlights, research exper
 ## Other contributions
 
 {% include feature_row5 %}
-
-<div data-role="main" class="ui-content">
-    <div data-role="collapsible">
-      <h1>Click me - I'm collapsible!</h1>
-      <p>I'm the expanded content.</p>
-    </div>
-</div>
