@@ -14,7 +14,7 @@ author_profile: false
 
   <h2>Portfolio</h2>
     <div class="publication media">
-      <img src="https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/ciphertext_generation.PNG" class="publogo img-fluid float-left rounded g" width="200" <="" a="">
+      <img src="https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/ciphertext_generation.PNG" class="img-fluid float-left rounded g" width="200" <="" a="">
       <div class="media-body">
         <p>
         <strong><a href="https://dattasiddhartha-3.github.io/portfolio/10000memorypalace/">
