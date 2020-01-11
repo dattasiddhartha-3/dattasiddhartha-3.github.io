@@ -7,9 +7,7 @@ author_profile: true
 
 ### [Mask R-CNN object detection to augment human peripheral search](https://dattasiddhartha-3.github.io/portfolio/10000memorypalace/)
 
-<!--<img width="150" src="https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/e253ebdepson_goggles_lq.PNG"> <img width="350" src="/images/ba06d3445330501_2205033879773905_1146807820524453888_n.jpg" > <img width="150" src="/images/moverioimage.PNG">
-
-<img src="https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/e253ebdepson_goggles_lq.PNG" class="publogo img-fluid float-left rounded g" width="200">
+<img width="150" src="https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/e253ebdepson_goggles_lq.PNG"> <img width="350" src="/images/ba06d3445330501_2205033879773905_1146807820524453888_n.jpg" > <img width="150" src="/images/moverioimage.PNG">
 
 [video](http://www.youtube.com/watch?v=s6UWctGQRwA)
 [code](https://hkustconnect-my.sharepoint.com/personal/sdatta_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsdatta%5Fconnect%5Fust%5Fhk%2FDocuments%2FBerkeley%2FMoverio%2DMemoryPalace%2DInstructions%2Ezip&parent=%2Fpersonal%2Fsdatta%5Fconnect%5Fust%5Fhk%2FDocuments%2FBerkeley) 
