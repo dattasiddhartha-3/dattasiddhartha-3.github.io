@@ -31,7 +31,7 @@ author_profile: false
     
     
    <div class="publication media">
-      <img src="{{ base_path }}/images/e253ebdepson_goggles_lq.PNG" class="publogo img-fluid float-left rounded g" width="200" <="" a="">
+      <img src="https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/e253ebdepson_goggles_lq.PNG" class="publogo img-fluid float-left rounded g" width="200" <="" a="">
       <div class="media-body">
         <p>
         <strong><a href="https://dattasiddhartha-3.github.io/portfolio/10000memorypalace/">
