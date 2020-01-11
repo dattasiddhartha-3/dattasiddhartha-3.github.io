@@ -13,7 +13,7 @@ author_profile: false
   <div class="col-12 pt-3  px-4 pb-4   bubble offset-xl-1 col-xl-10" >
 
    <div class="publication media">
-      <img src="https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/ciphertext_generation.PNG" class="publogo img-fluid float-left rounded g" width="200">
+      <img src="https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/ciphertext_generation.PNG" align="left" class="publogo img-fluid float-left rounded g" width="200">
       <div class="media-body">
         <p>
         <strong><a href="https://dattasiddhartha-3.github.io/portfolio/10000memorypalace/">
