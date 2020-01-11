@@ -12,8 +12,7 @@ author_profile: false
 
   <div class="col-12 pt-3  px-4 pb-4   bubble offset-xl-1 col-xl-10" >
 
-  <h2>Portfolio</h2>
-    <div class="publication media">
+   <div class="publication media">
       <img src="https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/ciphertext_generation.PNG" class="publogo img-fluid float-left rounded g" width="200">
       <div class="media-body">
         <p>
@@ -27,7 +26,7 @@ author_profile: false
         <a href="https://arxiv.org/pdf/1909.01837.pdf">paper</a>
         </span> <br> </p>
       </div>
-    </div>
+   </div>
     
     
    <div class="publication media">
