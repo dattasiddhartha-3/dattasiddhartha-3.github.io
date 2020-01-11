@@ -14,7 +14,7 @@ author_profile: false
 
   <h2>Portfolio</h2>
     <div class="publication media">
-      <img src="{{ base_path }}/assets/images/lcd_teaser.jpg" class="publogo img-fluid float-left rounded g" width="200" <="" a="">
+      <img src="{{ base_path }}/assets/images/ciphertext_generation.PNG" class="publogo img-fluid float-left rounded g" width="200" <="" a="">
       <div class="media-body">
         <p>
         <strong><a href="https://dattasiddhartha-3.github.io/portfolio/10000memorypalace/">
@@ -31,7 +31,7 @@ author_profile: false
     
     
    <div class="publication media">
-      <img src="{{ base_path }}/assets/images/lcd_teaser.jpg" class="publogo img-fluid float-left rounded g" width="200" <="" a="">
+      <img src="{{ base_path }}/assets/images/e253ebdepson_goggles_lq.PNG" class="publogo img-fluid float-left rounded g" width="200" <="" a="">
       <div class="media-body">
         <p>
         <strong><a href="https://dattasiddhartha-3.github.io/portfolio/10000memorypalace/">
