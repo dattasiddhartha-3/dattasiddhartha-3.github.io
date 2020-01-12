@@ -29,12 +29,22 @@ sidebar:
   
 </details>
 
-##### S. Datta, Y. Yang. 2019. Submitted. ["Adversarial attack optimization against crossdomain classification models"](https://drive.google.com/open?id=1O5hYeC3roV7LVDLaCoXXFBqwLPmykK9oP0kNpe-LXGQ) In ACL 2020
-Blackbox attack models used to put focus on querying labels of their victim’s model by passing in inputs, and training attack algorithms based on fooled labels. Our initial (and proven) hypothesis is that there is no real need for an attacker to be able to interact with the victim model and should be able to perform a successful “blind” blackbox attack model. Thus we varied different configurations of attack, including domain similarity, different attack algorithms, different model architectures, etc. What we found was that we can leverage domain adaptation to execute a successful blind blackbox attack on text classification models.
+<details>
+  <summary><b>S. Datta. 2019. Submitted. <a href="https://arxiv.org/abs/1909.01837">DeepObfusCode: Source Code Obfuscation Through Sequence-to-Sequence Networks</a> In ICASSP 2020</b></summary>
+
+  The paper explores a novel methodology in source code obfuscation through the application of text-based recurrent neural network (RNN) encoder-decoder models in ciphertext generation and key generation. Sequence-to-sequence models are incorporated into the model architecture to generate obfuscated code, generate the deobfuscation key, and live execution. Quantitative benchmark comparison to existing obfuscation methods indicate significant improvement in stealth and execution cost for the proposed solution, and experiments regarding the model's properties yield positive results regarding its character variation, dissimilarity to the original codebase, and consistent length of obfuscated code.
+  
+</details>
 
 
-##### S. Datta. 2019. Submitted. ["DeepObfusCode: Source Code Obfuscation Through Sequence-to-Sequence Networks"](https://arxiv.org/abs/1909.01837) In ICASSP 2020
-The paper explores a novel methodology in source code obfuscation through the application of text-based recurrent neural network (RNN) encoder-decoder models in ciphertext generation and key generation. Sequence-to-sequence models are incorporated into the model architecture to generate obfuscated code, generate the deobfuscation key, and live execution. Quantitative benchmark comparison to existing obfuscation methods indicate significant improvement in stealth and execution cost for the proposed solution, and experiments regarding the model's properties yield positive results regarding its character variation, dissimilarity to the original codebase, and consistent length of obfuscated code.
+
+
+<!--##### S. Datta, Y. Yang. 2019. Submitted. ["Adversarial attack optimization against crossdomain classification models"](https://drive.google.com/open?id=1O5hYeC3roV7LVDLaCoXXFBqwLPmykK9oP0kNpe-LXGQ) In ACL 2020
+Blackbox attack models used to put focus on querying labels of their victim’s model by passing in inputs, and training attack algorithms based on fooled labels. Our initial (and proven) hypothesis is that there is no real need for an attacker to be able to interact with the victim model and should be able to perform a successful “blind” blackbox attack model. Thus we varied different configurations of attack, including domain similarity, different attack algorithms, different model architectures, etc. What we found was that we can leverage domain adaptation to execute a successful blind blackbox attack on text classification models.-->
+
+
+<!--##### S. Datta. 2019. Submitted. ["DeepObfusCode: Source Code Obfuscation Through Sequence-to-Sequence Networks"](https://arxiv.org/abs/1909.01837) In ICASSP 2020
+The paper explores a novel methodology in source code obfuscation through the application of text-based recurrent neural network (RNN) encoder-decoder models in ciphertext generation and key generation. Sequence-to-sequence models are incorporated into the model architecture to generate obfuscated code, generate the deobfuscation key, and live execution. Quantitative benchmark comparison to existing obfuscation methods indicate significant improvement in stealth and execution cost for the proposed solution, and experiments regarding the model's properties yield positive results regarding its character variation, dissimilarity to the original codebase, and consistent length of obfuscated code.-->
 
 ##### S. Datta, C.Z Koval. 2018. ["Big Data Analysis of Labour Market Dynamics in Freelance Work Platforms"](https://drive.google.com/open?id=1nOAZuAtAsVhJHUXCp3Re_1LSnE9LOerZ) In [Undergraduates Research Opportunities Program 2017-2018 Proceedings](https://urop.ust.hk/files/UROP%20Proceedings%202017-18.pdf)
 This research aims to explore the underlying relational dynamics between people on freelance work platforms, between employers and employees, and within employees themselves. Particular interest will be placed on gender correlations and the objective to locate the most important variables involved in reasonable pay, as the aim of the study is to identify biases on the platform. Data was scraped from the work platform for all the possible variables available, from tests taken, to work histories, to skills listed, to even general personal descriptions.
@@ -60,9 +70,14 @@ A project focused on predicting gambling decisions from brainwave electrocortico
 * Worked under supervision of **Prof. Mahesh Srinivasan** of **Language & Children Development Lab (UC Berkeley)**
 * Built polysemy word tagging tool for the LCD lab to help in tagging words for multiple meanings and facilitate pattern detection
 
+##### [_neurocogpy_](https://github.com/dattasiddhartha/neurocogpy) [o]
+* Built an open-source electrophysiological signal visualization library in affiliation with Data-X and Knight Lab (UC Berkeley).
+* Defined modules/functions for general-purpose data processing, analysis and modeling of ECoG signal data, including parsing of MATLAB files into Python, different feature engineering techniques for multi-electrode time series data, different visualization techniques, and pre-built class-based decision-making classification models
+
 ##### CalUnmanned
 * Worked with team of engineers under supervision of **Prof. Raja Sengupta** to develop autonomous drone system for crack detection
 * Developed Unity-based system for training drone flight through reinforcement learning
+* references: [[AirSim]](https://github.com/microsoft/airsim) [[Unity]](https://github.com/UAVs-at-Berkeley/UnityDroneSim)
 
 ##### Credit Suisse (Advanced Execution Services) [c]
 * Developed new market impact models based on foundations of the Algrem-Chriss model, including limit order book based price prediction models, ensembling models based on TCA data
@@ -72,9 +87,6 @@ A project focused on predicting gambling decisions from brainwave electrocortico
 * Worked under **Prof Yang Yi** on: (i) adversarial attacks on sentiment classification models; (ii) grammar error correction models focused on cross-language errors
 * Worked under **Prof Christy Zhou Koval** on analysis of gender and race bias on online work platforms: Built a web-scraper, and built an workaround to bypass CAPTCHA security mechanisms; managed room of 11 computing resources simutaneously; Analyzed data, plotted and studied social network interaction charts and relations within employees and employers
 
-##### [_neurocogpy_](https://github.com/dattasiddhartha/neurocogpy) [o]
-* Built an open-source electrophysiological signal visualization library in affiliation with Data-X and Knight Lab (UC Berkeley).
-* Defined modules/functions for general-purpose data processing, analysis and modeling of ECoG signal data, including parsing of MATLAB files into Python, different feature engineering techniques for multi-electrode time series data, different visualization techniques, and pre-built class-based decision-making classification models
 
 ## Additional research work
 
