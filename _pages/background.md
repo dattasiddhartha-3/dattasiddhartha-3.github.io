@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Personal Background"
+title: ""
 permalink: /background/
 author_profile: true
 ---
