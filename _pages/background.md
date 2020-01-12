@@ -5,25 +5,27 @@ permalink: /background/
 author_profile: true
 ---
 
-###### _Expand/Collapse for more details~_
+<!--###### _Expand/Collapse for more details~_-->
 
-<details>
+<!--<details>
   <summary><b>Origins</b></summary>
-  
   <h6>I was born in mid-Autumn 1998 in Bangladesh. Our family has lived in the village of Kaduti for many generations, and my father is the first generation to leave the village (and ended up in Hong Kong).</h6>
-  
-</details>
+  </details>-->
+
+### Origins
+
+I was born in mid-Autumn 1998 in Bangladesh. Our family has lived in the village of Kaduti for many generations, and my father is the first generation to leave the village (and ended up in Hong Kong).
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7579.645071418137!2d90.96662635335532!3d23.404621996496573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x37546194d892d1f7%3A0x62b986bceed141db!2sKaduti%2C%20Bangladesh!5e1!3m2!1sen!2shk!4v1571923656921!5m2!1sen!2shk" width="450" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
-<br/><br/>
-
-<details>
+<!--<details>
   <summary><b>Media Exposure</b></summary>
+<h6>Advocacy work on promoting educational opportunities for Hong Kong ethnic minorities; media exposure from hackathons and startup; scholarship award exposure.</h6>
+  </details>-->
 
-  <h6>Advocacy work on promoting educational opportunities for Hong Kong ethnic minorities; media exposure from hackathons and startup; scholarship award exposure.</h6>
-  
-</details>
+### Media Exposure
+
+Advocacy work on promoting educational opportunities for Hong Kong ethnic minorities; media exposure from hackathons and startup; scholarship award exposure.
 
 <iframe width="128" height="64" src="https://www.youtube.com/embed/BZFs_zrIcm4?start=288" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -37,14 +39,14 @@ author_profile: true
 
 <a href="http://media.licdn.com/embeds/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fcyberport.hk%2Fvideos%2F1893272297411941%2F&amp;url=https%3A%2F%2Fwww.facebook.com%2Fcyberport.hk%2Fvideos%2F1893272297411941%2F&amp;type=text%2Fhtml&amp;schema=facebook"><img src="/images/ccmf.PNG" width="480" /></a>
 
-<br/><br/>
-
-<details>
+<!--<details>
   <summary><b>Filmography</b></summary>
-  
-   <h6>In my spare time I take a drone out for a spin in the country side and capture a different perspective of the world I inhabit... and sometimes take part in a few skits...</h6>
-  
-</details>
+  <h6>In my spare time I take a drone out for a spin in the country side and capture a different perspective of the world I inhabit... and sometimes take part in a few skits...</h6>
+  </details>-->
+
+### Filmography
+
+In my spare time I take a drone out for a spin in the country side and capture a different perspective of the world I inhabit... and sometimes take part in a few skits...
 
 <a href="https://hkustconnect-my.sharepoint.com/:v:/g/personal/sdatta_connect_ust_hk/EXfTMUL6EXRMke64z0QZN8kBDyWV4hNB_ZUwjmqLzzxC7g?e=huxmIv"><img src="/images/drone1.PNG" width="480" /></a>
 <a href="https://hkustconnect-my.sharepoint.com/:v:/g/personal/sdatta_connect_ust_hk/Ee5KfeEquptPmCI0luZuDBEBi_zFwp-ohn1aIB19NCcJxQ?e=6gYwCr"><img src="/images/drone2.PNG" width="480" /></a>
