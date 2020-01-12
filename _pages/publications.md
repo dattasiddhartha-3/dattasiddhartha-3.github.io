@@ -92,8 +92,8 @@ A project focused on predicting gambling decisions from brainwave electrocortico
   <summary><b><small> <a href="https://github.com/dattasiddhartha/polysemous-word-tagging-tool">Polysemy Word Tagging Tool</a> [o] </small></b></summary>
   
   <ul>
-  <li><small>Worked under supervision of <b>Prof. Mahesh Srinivasan</b> of <b>Language & Children Development Lab (UC Berkeley)</b></small></li>
-  <li>Built polysemy word tagging tool for the LCD lab to help in tagging words for multiple meanings and facilitate pattern detection<small></small></li>
+  <li>Worked under supervision of <b>Prof. Mahesh Srinivasan</b> of <b>Language & Children Development Lab (UC Berkeley)</b></li>
+  <li>Built polysemy word tagging tool for the LCD lab to help in tagging words for multiple meanings and facilitate pattern detection</li>
 </ul>
   
 </details>
@@ -106,8 +106,8 @@ A project focused on predicting gambling decisions from brainwave electrocortico
   <summary><b><small> <i><a href="https://github.com/dattasiddhartha/neurocogpy">neurocogpy</a></i> [o] </small></b></summary>
   
   <ul>
-  <li><small>Built an open-source electrophysiological signal visualization library in affiliation with <b>Data-X</b> and <b>Knight Lab (UC Berkeley)</b>.</small></li>
-  <li><small>Defined modules/functions for general-purpose data processing, analysis and modeling of ECoG signal data, including parsing of MATLAB files into Python, different feature engineering techniques for multi-electrode time series data, different visualization techniques, and pre-built class-based decision-making classification models</small></li>
+  <li>Built an open-source electrophysiological signal visualization library in affiliation with <b>Data-X</b> and <b>Knight Lab (UC Berkeley)</b>.</li>
+  <li>Defined modules/functions for general-purpose data processing, analysis and modeling of ECoG signal data, including parsing of MATLAB files into Python, different feature engineering techniques for multi-electrode time series data, different visualization techniques, and pre-built class-based decision-making classification models</li>
 </ul>
   
 </details>
@@ -120,9 +120,9 @@ A project focused on predicting gambling decisions from brainwave electrocortico
   <summary><b><small>  CalUnmanned </small></b></summary>
   
   <ul>
-  <li><small>Worked with team of engineers under supervision of <b>Prof. Raja Sengupta</b> to develop autonomous drone system for crack detection</small></li>
-  <li><small>Developed Unity-based system for training drone flight through reinforcement learning</small></li>
-  <li><small>references: <a href="https://github.com/microsoft/airsim">[AirSim]</a> <a href="https://github.com/UAVs-at-Berkeley/UnityDroneSim">[Unity]</a> </small></li>
+  <li>Worked with team of engineers under supervision of <b>Prof. Raja Sengupta</b> to develop autonomous drone system for crack detection</li>
+  <li>Developed Unity-based system for training drone flight through reinforcement learning</li>
+  <li>References: <a href="https://github.com/microsoft/airsim">[AirSim]</a> <a href="https://github.com/UAVs-at-Berkeley/UnityDroneSim">[Unity]</a></li>
 </ul>
   
 </details>
@@ -136,8 +136,8 @@ A project focused on predicting gambling decisions from brainwave electrocortico
   <summary><b><small> Credit Suisse (Advanced Execution Services) [c] </small></b></summary>
   
   <ul>
-  <li><small>Developed new market impact models based on foundations of the Algrem-Chriss model, including limit order book based price prediction models, ensembling models based on TCA data</small></li>
-  <li><small>Constructed hidden cross-trade opportunity detection system. Problem: Salestrader need to identify potential cross-trade opportunities between clients. Solution: my model took client’s historical flows, trade execution patterns, holdings, and patterns of similarity between clients and stocks, and generated a daily list of clients who would likely be trading a certain stock. Built trade flow prediction model, predicting client flow at hourly intervals in specific stocks; built network model between clients and stocks that used reinforcement learning to calculate weights on the different variables that create affinity of clients to certain stocks; Cleaned and integrated resources from all over the bank, ranging from equity research’s readership data, to securities lending’s locates data, to trade execution data from high and low touch, to even indication of interest (IOI) data. Backtested to work >60% prediction accuracy in overlap between clients predicted to trade on a certain day on specific stock.</small></li>
+  <li>Developed new market impact models based on foundations of the Algrem-Chriss model, including limit order book based price prediction models, ensembling models based on TCA data</li>
+  <li>Constructed hidden cross-trade opportunity detection system. Problem: Salestrader need to identify potential cross-trade opportunities between clients. Solution: my model took client’s historical flows, trade execution patterns, holdings, and patterns of similarity between clients and stocks, and generated a daily list of clients who would likely be trading a certain stock. Built trade flow prediction model, predicting client flow at hourly intervals in specific stocks; built network model between clients and stocks that used reinforcement learning to calculate weights on the different variables that create affinity of clients to certain stocks; Cleaned and integrated resources from all over the bank, ranging from equity research’s readership data, to securities lending’s locates data, to trade execution data from high and low touch, to even indication of interest (IOI) data. Backtested to work >60% prediction accuracy in overlap between clients predicted to trade on a certain day on specific stock.</li>
 </ul>
   
 </details>
@@ -150,10 +150,9 @@ A project focused on predicting gambling decisions from brainwave electrocortico
   <summary><b><small> Hong Kong University of Science and Technology </small></b></summary>
   
   <ul>
-  <li><small>Worked with <b>Prof Yang Yi</b> on: (i) adversarial attacks on sentiment classification models; (ii) grammar error correction models focused on cross-language errors; working on 3rd paper</small></li>
-  <li><small>Worked with <b>Dr Nora Hussin</b> and <b>Centre for Language Education</b> to on automated GEC system that grades student essays for instructors and points out errors to students during assignment work; GEC focused on interlanguage errors of non-native English users</small></li>
-  <li><small>Worked under <b>Prof Christy Zhou Koval</b> on analysis of gender and race bias on online work platforms: Built a web-scraper, and built an workaround to bypass CAPTCHA security mechanisms; managed room of 11 computing resources simutaneously; Analyzed data, plotted and studied social network interaction charts and relations within employees and employers
-</small></li>
+  <li>Worked with <b>Prof Yang Yi</b> on: (i) adversarial attacks on sentiment classification models; (ii) grammar error correction models focused on cross-language errors; working on 3rd paper</li>
+  <li>Worked with <b>Dr Nora Hussin</b> and <b>Centre for Language Education</b> to on automated GEC system that grades student essays for instructors and points out errors to students during assignment work; GEC focused on interlanguage errors of non-native English users</li>
+  <li>Worked under <b>Prof Christy Zhou Koval</b> on analysis of gender and race bias on online work platforms: Built a web-scraper, and built an workaround to bypass CAPTCHA security mechanisms; managed room of 11 computing resources simutaneously; Analyzed data, plotted and studied social network interaction charts and relations within employees and employers</li>
 </ul>
   
 </details>
