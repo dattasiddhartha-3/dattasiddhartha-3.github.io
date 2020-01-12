@@ -20,6 +20,8 @@ sidebar:
 *Github profiles*: [[dattasiddhartha]](https://github.com/dattasiddhartha)     [[dattasiddhartha-1]](https://github.com/dattasiddhartha-1)     [[dattasiddhartha-3]](https://github.com/dattasiddhartha-3)     [[dattasiddhartha-4]](https://github.com/dattasiddhartha-4)
 
 
+###### _Expand/Collapse items on this page_
+
 ## Formal paper submissions
 
 <details>
@@ -92,44 +94,121 @@ A project focused on predicting gambling decisions from brainwave electrocortico
 
 ###### _[o] open-source; [c] closed-source_
 
-##### [Polysemy Word Tagging Tool](https://github.com/dattasiddhartha/polysemous-word-tagging-tool) [o]
+<details>
+  <summary><b><small> <a href="https://github.com/dattasiddhartha/polysemous-word-tagging-tool">Polysemy Word Tagging Tool</a> [o] </small></b></summary>
+  
+  <ul>
+  <li><small>Worked under supervision of <b>Prof. Mahesh Srinivasan</b> of <b>Language & Children Development Lab (UC Berkeley)</b></small></li>
+  <li>Built polysemy word tagging tool for the LCD lab to help in tagging words for multiple meanings and facilitate pattern detection<small></small></li>
+</ul>
+  
+</details>
+
+<!--##### [Polysemy Word Tagging Tool](https://github.com/dattasiddhartha/polysemous-word-tagging-tool) [o]
 * Worked under supervision of **Prof. Mahesh Srinivasan** of **Language & Children Development Lab (UC Berkeley)**
-* Built polysemy word tagging tool for the LCD lab to help in tagging words for multiple meanings and facilitate pattern detection
+* Built polysemy word tagging tool for the LCD lab to help in tagging words for multiple meanings and facilitate pattern detection-->
 
-##### [_neurocogpy_](https://github.com/dattasiddhartha/neurocogpy) [o]
+<details>
+  <summary><b><small> <i><a href="https://github.com/dattasiddhartha/neurocogpy">neurocogpy</a></i> [o] </small></b></summary>
+  
+  <ul>
+  <li><small>Built an open-source electrophysiological signal visualization library in affiliation with <b>Data-X</b> and <b>Knight Lab (UC Berkeley)</b>.</small></li>
+  <li><small>Defined modules/functions for general-purpose data processing, analysis and modeling of ECoG signal data, including parsing of MATLAB files into Python, different feature engineering techniques for multi-electrode time series data, different visualization techniques, and pre-built class-based decision-making classification models</small></li>
+</ul>
+  
+</details>
+
+<!--##### [_neurocogpy_](https://github.com/dattasiddhartha/neurocogpy) [o]
 * Built an open-source electrophysiological signal visualization library in affiliation with **Data-X** and **Knight Lab (UC Berkeley)**.
-* Defined modules/functions for general-purpose data processing, analysis and modeling of ECoG signal data, including parsing of MATLAB files into Python, different feature engineering techniques for multi-electrode time series data, different visualization techniques, and pre-built class-based decision-making classification models
+* Defined modules/functions for general-purpose data processing, analysis and modeling of ECoG signal data, including parsing of MATLAB files into Python, different feature engineering techniques for multi-electrode time series data, different visualization techniques, and pre-built class-based decision-making classification models-->
 
-##### CalUnmanned
+<details>
+  <summary><b><small>  CalUnmanned </small></b></summary>
+  
+  <ul>
+  <li><small>Worked with team of engineers under supervision of <b>Prof. Raja Sengupta</b> to develop autonomous drone system for crack detection</small></li>
+  <li><small>Developed Unity-based system for training drone flight through reinforcement learning</small></li>
+  <li><small>references: <a href="https://github.com/microsoft/airsim">[AirSim]</a> <a href="https://github.com/UAVs-at-Berkeley/UnityDroneSim">[Unity]</a> </small></li>
+</ul>
+  
+</details>
+
+<!--##### CalUnmanned
 * Worked with team of engineers under supervision of **Prof. Raja Sengupta** to develop autonomous drone system for crack detection
 * Developed Unity-based system for training drone flight through reinforcement learning
-* references: [[AirSim]](https://github.com/microsoft/airsim) [[Unity]](https://github.com/UAVs-at-Berkeley/UnityDroneSim)
+* references: [[AirSim]](https://github.com/microsoft/airsim) [[Unity]](https://github.com/UAVs-at-Berkeley/UnityDroneSim)-->
 
-##### Credit Suisse (Advanced Execution Services) [c]
+<details>
+  <summary><b><small> Credit Suisse (Advanced Execution Services) [c] </small></b></summary>
+  
+  <ul>
+  <li><small>Developed new market impact models based on foundations of the Algrem-Chriss model, including limit order book based price prediction models, ensembling models based on TCA data</small></li>
+  <li><small>Constructed hidden cross-trade opportunity detection system. Problem: Salestrader need to identify potential cross-trade opportunities between clients. Solution: my model took client’s historical flows, trade execution patterns, holdings, and patterns of similarity between clients and stocks, and generated a daily list of clients who would likely be trading a certain stock. Built trade flow prediction model, predicting client flow at hourly intervals in specific stocks; built network model between clients and stocks that used reinforcement learning to calculate weights on the different variables that create affinity of clients to certain stocks; Cleaned and integrated resources from all over the bank, ranging from equity research’s readership data, to securities lending’s locates data, to trade execution data from high and low touch, to even indication of interest (IOI) data. Backtested to work >60% prediction accuracy in overlap between clients predicted to trade on a certain day on specific stock.</small></li>
+</ul>
+  
+</details>
+
+<!--##### Credit Suisse (Advanced Execution Services) [c]
 * Developed new market impact models based on foundations of the Algrem-Chriss model, including limit order book based price prediction models, ensembling models based on TCA data
-* Constructed hidden cross-trade opportunity detection system. Problem: Salestrader need to identify potential cross-trade opportunities between clients. Solution: my model took client’s historical flows, trade execution patterns, holdings, and patterns of similarity between clients and stocks, and generated a daily list of clients who would likely be trading a certain stock. Built trade flow prediction model, predicting client flow at hourly intervals in specific stocks; built network model between clients and stocks that used reinforcement learning to calculate weights on the different variables that create affinity of clients to certain stocks; Cleaned and integrated resources from all over the bank, ranging from equity research’s readership data, to securities lending’s locates data, to trade execution data from high and low touch, to even indication of interest (IOI) data. Backtested to work >60% prediction accuracy in overlap between clients predicted to trade on a certain day on specific stock.
+* Constructed hidden cross-trade opportunity detection system. Problem: Salestrader need to identify potential cross-trade opportunities between clients. Solution: my model took client’s historical flows, trade execution patterns, holdings, and patterns of similarity between clients and stocks, and generated a daily list of clients who would likely be trading a certain stock. Built trade flow prediction model, predicting client flow at hourly intervals in specific stocks; built network model between clients and stocks that used reinforcement learning to calculate weights on the different variables that create affinity of clients to certain stocks; Cleaned and integrated resources from all over the bank, ranging from equity research’s readership data, to securities lending’s locates data, to trade execution data from high and low touch, to even indication of interest (IOI) data. Backtested to work >60% prediction accuracy in overlap between clients predicted to trade on a certain day on specific stock.-->
 
-##### Hong Kong University of Science and Technology
+<details>
+  <summary><b><small> Hong Kong University of Science and Technology </small></b></summary>
+  
+  <ul>
+  <li><small>Worked with <b>Prof Yang Yi</b> on: (i) adversarial attacks on sentiment classification models; (ii) grammar error correction models focused on cross-language errors; working on 3rd paper</small></li>
+  <li><small>Worked with <b>Dr Nora Hussin</b> and <b>Centre for Language Education</b> to on automated GEC system that grades student essays for instructors and points out errors to students during assignment work; GEC focused on interlanguage errors of non-native English users</small></li>
+  <li><small>Worked under <b>Prof Christy Zhou Koval</b> on analysis of gender and race bias on online work platforms: Built a web-scraper, and built an workaround to bypass CAPTCHA security mechanisms; managed room of 11 computing resources simutaneously; Analyzed data, plotted and studied social network interaction charts and relations within employees and employers
+</small></li>
+</ul>
+  
+</details>
+
+<!--##### Hong Kong University of Science and Technology
 * Worked under **Prof Yang Yi** on: (i) adversarial attacks on sentiment classification models; (ii) grammar error correction models focused on cross-language errors; working on 3rd paper
 * Worked under **Dr Nora Hussin** and **Centre for Language Education** to on automated GEC system that grades student essays for instructors and points out errors to students during assignment work; GEC focused on interlanguage errors of non-native English users
-* Worked under **Prof Christy Zhou Koval** on analysis of gender and race bias on online work platforms: Built a web-scraper, and built an workaround to bypass CAPTCHA security mechanisms; managed room of 11 computing resources simutaneously; Analyzed data, plotted and studied social network interaction charts and relations within employees and employers
+* Worked under **Prof Christy Zhou Koval** on analysis of gender and race bias on online work platforms: Built a web-scraper, and built an workaround to bypass CAPTCHA security mechanisms; managed room of 11 computing resources simutaneously; Analyzed data, plotted and studied social network interaction charts and relations within employees and employers-->
 
 
 ## Additional research work
 
-##### ["Using Structural Imbalance to Evaluate Models of International Relations"](https://drive.google.com/open?id=1lUfM2D4XycYqbIgJThU1Xjk0sdku4z3n)
-* Studied whether international conflicts could be predicted or captured in network imbalances between nodes; we used discrete sign methods to measure structural imbalances for each feature, and also used a continuous reinforcement learning method to calculate weights for each feature in each edge to measure structural imbalance in one graph
+<details>
+  <summary><b><small> <a href="https://drive.google.com/open?id=1lUfM2D4XycYqbIgJThU1Xjk0sdku4z3n">Using Structural Imbalance to Evaluate Models of International Relations</a> </small></b></summary>
+  <small>Studied whether international conflicts could be predicted or captured in network imbalances between nodes; we used discrete sign methods to measure structural imbalances for each feature, and also used a continuous reinforcement learning method to calculate weights for each feature in each edge to measure structural imbalance in one graph</small>
+</details>
 
+<!--##### ["Using Structural Imbalance to Evaluate Models of International Relations"](https://drive.google.com/open?id=1lUfM2D4XycYqbIgJThU1Xjk0sdku4z3n)
+* Studied whether international conflicts could be predicted or captured in network imbalances between nodes; we used discrete sign methods to measure structural imbalances for each feature, and also used a continuous reinforcement learning method to calculate weights for each feature in each edge to measure structural imbalance in one graph-->
 
-##### ["Network Analysis of Power and Politics in Academia"](https://drive.google.com/open?id=1QeZQ_kntH01j5cPpZE9vsg7nKkvfWzk5)
-* Iterated through academic network graphs to calculate relative power differences between grad students and their PIs; obtained weights of each power feature in weighted-function of edge weight through gradient descent
+<details>
+  <summary><b><small> <a href="https://drive.google.com/open?id=1QeZQ_kntH01j5cPpZE9vsg7nKkvfWzk5">Network Analysis of Power and Politics in Academia</a> </small></b></summary>
+  <small>Iterated through academic network graphs to calculate relative power differences between grad students and their PIs; obtained weights of each power feature in weighted-function of edge weight through gradient descent</small>
+</details>
 
-##### ["Motif detection and clustering of franchise location network graphs"](https://drive.google.com/open?id=1aOQiZsVpe2V5yjKr-_aAqeqCny1E2izo)
-* Hybrid implementation of motif-detection, bridge-detection, and clustering algorithms to yield sequential coordinates of geographical locations depending on category of product/business, based on network de-anonymization framework
+<!--##### ["Network Analysis of Power and Politics in Academia"](https://drive.google.com/open?id=1QeZQ_kntH01j5cPpZE9vsg7nKkvfWzk5)
+* Iterated through academic network graphs to calculate relative power differences between grad students and their PIs; obtained weights of each power feature in weighted-function of edge weight through gradient descent-->
 
-##### ["Youtube Sentiment-based Portfolio Selection and Trading Strategy"](https://github.com/dattasiddhartha/QuantTrading_Decal)
+<details>
+  <summary><b><small> <a href="https://drive.google.com/open?id=1aOQiZsVpe2V5yjKr-_aAqeqCny1E2izo">Motif detection and clustering of franchise location network graphs</a> </small></b></summary>
+  <small>Hybrid implementation of motif-detection, bridge-detection, and clustering algorithms to yield sequential coordinates of geographical locations depending on category of product/business, based on network de-anonymization framework</small>
+</details>
 
-##### ["AIDS Epidemic Simulation with Adjustment for Decision-making from neural ECoG data"](https://drive.google.com/open?id=17WZ1hRXWdA-ppuXmkyBdVcu26os3wALx)
+<!--##### ["Motif detection and clustering of franchise location network graphs"](https://drive.google.com/open?id=1aOQiZsVpe2V5yjKr-_aAqeqCny1E2izo)
+* Hybrid implementation of motif-detection, bridge-detection, and clustering algorithms to yield sequential coordinates of geographical locations depending on category of product/business, based on network de-anonymization framework-->
+
+<details>
+  <summary><b><small> <a href="https://github.com/dattasiddhartha/QuantTrading_Decal">Youtube Sentiment-based Portfolio Selection and Trading Strategy</a> </small></b></summary>
+  <!--<small></small>-->
+</details>
+
+<!--##### ["Youtube Sentiment-based Portfolio Selection and Trading Strategy"](https://github.com/dattasiddhartha/QuantTrading_Decal)-->
+
+<details>
+  <summary><b><small> <a href="https://drive.google.com/open?id=17WZ1hRXWdA-ppuXmkyBdVcu26os3wALx">AIDS Epidemic Simulation with Adjustment for Decision-making from neural ECoG data</a> </small></b></summary>
+  <!--<small></small>-->
+</details>
+
+<!--##### ["AIDS Epidemic Simulation with Adjustment for Decision-making from neural ECoG data"](https://drive.google.com/open?id=17WZ1hRXWdA-ppuXmkyBdVcu26os3wALx)-->
 
 
 ### Resume
