@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: ""
 permalink: /publications/
 author_profile: false
 sidebar:
@@ -205,16 +204,16 @@ A project focused on predicting gambling decisions from brainwave electrocortico
 
 <!--##### ["AIDS Epidemic Simulation with Adjustment for Decision-making from neural ECoG data"](https://drive.google.com/open?id=17WZ1hRXWdA-ppuXmkyBdVcu26os3wALx)-->
 
-<br></br>
 
-[[Intended career/research plan]](https://docs.google.com/document/d/1cjWkkmqrHVGN0bhLHhfNIrqMFBYR_nDreEunCm22sn4/edit?usp=sharing)     [[How did I learn CS over time without doing a CS degree?]](https://docs.google.com/document/d/1p_LWdT8NwVTHOpAO-HkuWCc4KHelisOV385kGmonwP4/edit?usp=sharing)
 
-*Github profiles*: [[dattasiddhartha]](https://github.com/dattasiddhartha)     [[dattasiddhartha-1]](https://github.com/dattasiddhartha-1)     [[dattasiddhartha-3]](https://github.com/dattasiddhartha-3)     [[dattasiddhartha-4]](https://github.com/dattasiddhartha-4)
+<!--*Github profiles*: [[dattasiddhartha]](https://github.com/dattasiddhartha)     [[dattasiddhartha-1]](https://github.com/dattasiddhartha-1)     [[dattasiddhartha-3]](https://github.com/dattasiddhartha-3)     [[dattasiddhartha-4]](https://github.com/dattasiddhartha-4)-->
 
 ### Resume
 
 <iframe src="https://drive.google.com/file/d/1NawdTdlx9Fy5w-DkxcUFrj2Lkew73eTu/preview" width="640" height="480"></iframe>
 
+
+[[Intended career/research plan]](https://docs.google.com/document/d/1cjWkkmqrHVGN0bhLHhfNIrqMFBYR_nDreEunCm22sn4/edit?usp=sharing)     [[How did I learn CS over time without doing a CS degree?]](https://docs.google.com/document/d/1p_LWdT8NwVTHOpAO-HkuWCc4KHelisOV385kGmonwP4/edit?usp=sharing)
 
 <!-- <iframe align="left" src="https://drive.google.com/file/d/1ft6yD26gz87DvQJsdwMPuRzV4gIIFclB/preview" width="640" height="480"></iframe> -->
 
