@@ -9,6 +9,14 @@ sidebar:
 
 ###### _Expand/Collapse items on this page_
 
+| Scholarships/Honors | Awards | References |
+|-------|--------|---------|
+| Dean's List (2017-18, 2018-19)<br> Joseph Lau Luen Hung Charitable Trust Scholarship Hong Kong Award (HKD 80,000 p.a.)**<br> Li Ka Shing Foundation Scholarship for Innovation and Creativity (HKD 50,000)<br> Hong Kong Unison Scholarship (HKD 15,000 p.a.)<br> Br Bernard Guellec Memorial Prize for French<br> Br Felix Sheehan Memorial Prize for English<br> University Entrance Scholarship<br> Harmony Scholarship (Home Affairs Bureau, HKSAR Government)<br> * Total scholarship HKD 110,000 per year; 2.5x annual tuition<br> ** Awarded to Top 0.0015% of undergraduate student population | [CalHacks 5.0 - Winner (Augmented Reality section, Epson Sponsor Award)](https://github.com/dattasiddhartha/Calhacks-5.0)<br> SacHacks 2018 - Winner (Smartcar 1st Runnerup, Best First-Time Hack, Best Domain Name, 3rd Overall)<br> [AngelHack 2018 - Champion (Blockchain Category)](https://github.com/dattasiddhartha-4/AngelHack18-TeamBetz)<br> [Cyberport Creative Micro Fund - Winner](http://media.licdn.com/embeds/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fcyberport.hk%2Fvideos%2F1893272297411941%2F&url=https%3A%2F%2Fwww.facebook.com%2Fcyberport.hk%2Fvideos%2F1893272297411941%2F&type=text%2Fhtml&schema=facebook)<br> Classified Post Hackathon 2018 - Champion<br> Li&Fung Hack the Runway 2017 - Champion<br> [HKUST Bizkathon 2019 - 1st Runnerup](https://github.com/dattasiddhartha/Encrypted-machine-learning-with-simple-homomorphic-encryption)<br> [CityU Hackathon 2018 - Most Innovative Idea award & 1st Runnerup](https://github.com/dattasiddhartha-4/CityHack2018)<br> EasyShip 24 Hour E-Commerce Hackathon 2017 - 1st Runner up<br> HardUST 2017 - 1st Runner-up<br> [HKUST-Radica Big Datathon 2017 - 1st Runner up](https://github.com/dattasiddhartha-4/HKUST-Radica-Datathon)<br> Access to Justice InnoTech Law Hackathon 2018 - Honorable Mentions | Prof Eric Friedman, EECS, UC Berkeley<br> Prof Christy Zhou Koval, Michigan State University<br> Prof Gary Chan, Computer Science, HKUST<br> Prof Yang Yi, Information Systems, HKUST<br> Dr Nora Hussein, Linguistics, HKUST<br> Dr Nam Sai Lok, Philosophy, HKUST<br> Peers testimony: [CalHacks](http://www.zacharychaoportfolio.com/blog/calhacks), [SacHacks](http://www.zacharychaoportfolio.com/blog/sacHacks) |
+
+<!-- * Prof Thomas Bourveau, Accounting, Columbia University -->
+<!-- * Prof Ikhlaq Sidhu, Industrial Engineering & Operations Research, UC Berkeley -->
+<!-- * Prof Ted Clark, Information Systems, HKUST -->
+
 ## Formal paper submissions
 
 <details>
@@ -197,17 +205,11 @@ A project focused on predicting gambling decisions from brainwave electrocortico
 
 <!--##### ["AIDS Epidemic Simulation with Adjustment for Decision-making from neural ECoG data"](https://drive.google.com/open?id=17WZ1hRXWdA-ppuXmkyBdVcu26os3wALx)-->
 
+<br></br>
+
 [[Intended career/research plan]](https://docs.google.com/document/d/1cjWkkmqrHVGN0bhLHhfNIrqMFBYR_nDreEunCm22sn4/edit?usp=sharing)     [[How did I learn CS over time without doing a CS degree?]](https://docs.google.com/document/d/1p_LWdT8NwVTHOpAO-HkuWCc4KHelisOV385kGmonwP4/edit?usp=sharing)
 
 *Github profiles*: [[dattasiddhartha]](https://github.com/dattasiddhartha)     [[dattasiddhartha-1]](https://github.com/dattasiddhartha-1)     [[dattasiddhartha-3]](https://github.com/dattasiddhartha-3)     [[dattasiddhartha-4]](https://github.com/dattasiddhartha-4)
-
-| Scholarships/Honors | Awards | References |
-|-------|--------|---------|
-| Dean's List (2017-18, 2018-19)<br> Joseph Lau Luen Hung Charitable Trust Scholarship Hong Kong Award (HKD 80,000 p.a.)**<br> Li Ka Shing Foundation Scholarship for Innovation and Creativity (HKD 50,000)<br> Hong Kong Unison Scholarship (HKD 15,000 p.a.)<br> Br Bernard Guellec Memorial Prize for French<br> Br Felix Sheehan Memorial Prize for English<br> University Entrance Scholarship<br> Harmony Scholarship (Home Affairs Bureau, HKSAR Government)<br> * Total scholarship HKD 110,000 per year; 2.5x annual tuition<br> ** Awarded to Top 0.0015% of undergraduate student population | [CalHacks 5.0 - Winner (Augmented Reality section, Epson Sponsor Award)](https://github.com/dattasiddhartha/Calhacks-5.0)<br> SacHacks 2018 - Winner (Smartcar 1st Runnerup, Best First-Time Hack, Best Domain Name, 3rd Overall)<br> [AngelHack 2018 - Champion (Blockchain Category)](https://github.com/dattasiddhartha-4/AngelHack18-TeamBetz)<br> [Cyberport Creative Micro Fund - Winner](http://media.licdn.com/embeds/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fcyberport.hk%2Fvideos%2F1893272297411941%2F&url=https%3A%2F%2Fwww.facebook.com%2Fcyberport.hk%2Fvideos%2F1893272297411941%2F&type=text%2Fhtml&schema=facebook)<br> Classified Post Hackathon 2018 - Champion<br> Li&Fung Hack the Runway 2017 - Champion<br> [HKUST Bizkathon 2019 - 1st Runnerup](https://github.com/dattasiddhartha/Encrypted-machine-learning-with-simple-homomorphic-encryption)<br> [CityU Hackathon 2018 - Most Innovative Idea award & 1st Runnerup](https://github.com/dattasiddhartha-4/CityHack2018)<br> EasyShip 24 Hour E-Commerce Hackathon 2017 - 1st Runner up<br> HardUST 2017 - 1st Runner-up<br> [HKUST-Radica Big Datathon 2017 - 1st Runner up](https://github.com/dattasiddhartha-4/HKUST-Radica-Datathon)<br> Access to Justice InnoTech Law Hackathon 2018 - Honorable Mentions | Prof Eric Friedman, EECS, UC Berkeley<br> Prof Christy Zhou Koval, Michigan State University<br> Prof Gary Chan, Computer Science, HKUST<br> Prof Yang Yi, Information Systems, HKUST<br> Dr Nora Hussein, Linguistics, HKUST<br> Dr Nam Sai Lok, Philosophy, HKUST<br> Peers testimony: [CalHacks](http://www.zacharychaoportfolio.com/blog/calhacks), [SacHacks](http://www.zacharychaoportfolio.com/blog/sacHacks) |
-
-<!-- * Prof Thomas Bourveau, Accounting, Columbia University -->
-<!-- * Prof Ikhlaq Sidhu, Industrial Engineering & Operations Research, UC Berkeley -->
-<!-- * Prof Ted Clark, Information Systems, HKUST -->
 
 ### Resume
 
