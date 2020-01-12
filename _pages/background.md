@@ -5,9 +5,7 @@ permalink: /background/
 author_profile: true
 ---
 
-###### Expand/Collapse for more details~
-
-<br/><br/>
+###### _Expand/Collapse for more details~_
 
 <details>
   <summary><b>Origins</b></summary>
@@ -16,7 +14,7 @@ author_profile: true
   
 </details>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7579.645071418137!2d90.96662635335532!3d23.404621996496573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x37546194d892d1f7%3A0x62b986bceed141db!2sKaduti%2C%20Bangladesh!5e1!3m2!1sen!2shk!4v1571923656921!5m2!1sen!2shk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7579.645071418137!2d90.96662635335532!3d23.404621996496573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x37546194d892d1f7%3A0x62b986bceed141db!2sKaduti%2C%20Bangladesh!5e1!3m2!1sen!2shk!4v1571923656921!5m2!1sen!2shk" width="450" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
 <br/><br/>
 
