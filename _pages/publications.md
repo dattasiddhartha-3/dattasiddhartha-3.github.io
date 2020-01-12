@@ -88,16 +88,16 @@ available to most smartphones via camera-detection. Such a mechanism will aid th
 [[code]](https://github.com/dattasiddhartha/DataX-NeuralDecisionMaking) [poster](https://data-x.blog/projects/predicting-gambling-decisions/) [[data]](https://crcns.org/data-sets/ofc/ofc-3/about-ofc-2) [[library]](https://github.com/dattasiddhartha/neurocogpy)
 A project focused on predicting gambling decisions from brainwave electrocorticography (ECoG) data. The motivation behind this project was based on societal implications such as applications to law and regulation of the gambling industry, clinical practice in understanding how neurodegenerative disease or trauma affect decision making, and to some extent even our understanding of free will. The project utilized data recorded by the Knight Lab, a neuroscience lab at UC Berkeley. The ECoG data was collected from the orbitofrontal cortex (OFC) of epileptic patients, who volunteered to participate in research while undergoing intracranial monitoring for surgical planning purposes. Patients were given a task of playing a game in which they could choose either ‘Gamble’ or ‘Safebet’ for 200 trials. Over the course of the semester, we pre-processed, explored, and modeled the data, with the ultimate goal of predicting whether a patient would gamble or not given only the ECoG data, recorded before the patient indicated their decision by a button press. Much exploration was on feature engineering, as there are not many established feature engineering methods in the analysis of ECoG data: examples of features include using the 2.5 and 97.5 percentile values and number of peaks for electrode data in a patient’s trial. Modeling was done through logistic regression, random forest, adaboost, naive bayes, neural nets, and perceptron. Logistic regression fared the best, with one model giving a 10% boost over the baseline accuracy found with Naive Bayes. This result demonstrates that there is information in the OFC neural signal, which can be used to predict decisions before they are made overtly.-->
 
-## Research contributions
+## Research contributions 
 
-###### [o] open-source; [c] closed-source
+###### _[o] open-source; [c] closed-source_
 
 ##### [Polysemy Word Tagging Tool](https://github.com/dattasiddhartha/polysemous-word-tagging-tool) [o]
 * Worked under supervision of **Prof. Mahesh Srinivasan** of **Language & Children Development Lab (UC Berkeley)**
 * Built polysemy word tagging tool for the LCD lab to help in tagging words for multiple meanings and facilitate pattern detection
 
 ##### [_neurocogpy_](https://github.com/dattasiddhartha/neurocogpy) [o]
-* Built an open-source electrophysiological signal visualization library in affiliation with Data-X and Knight Lab (UC Berkeley).
+* Built an open-source electrophysiological signal visualization library in affiliation with **Data-X** and **Knight Lab (UC Berkeley)**.
 * Defined modules/functions for general-purpose data processing, analysis and modeling of ECoG signal data, including parsing of MATLAB files into Python, different feature engineering techniques for multi-electrode time series data, different visualization techniques, and pre-built class-based decision-making classification models
 
 ##### CalUnmanned
@@ -110,7 +110,8 @@ A project focused on predicting gambling decisions from brainwave electrocortico
 * Constructed hidden cross-trade opportunity detection system. Problem: Salestrader need to identify potential cross-trade opportunities between clients. Solution: my model took client’s historical flows, trade execution patterns, holdings, and patterns of similarity between clients and stocks, and generated a daily list of clients who would likely be trading a certain stock. Built trade flow prediction model, predicting client flow at hourly intervals in specific stocks; built network model between clients and stocks that used reinforcement learning to calculate weights on the different variables that create affinity of clients to certain stocks; Cleaned and integrated resources from all over the bank, ranging from equity research’s readership data, to securities lending’s locates data, to trade execution data from high and low touch, to even indication of interest (IOI) data. Backtested to work >60% prediction accuracy in overlap between clients predicted to trade on a certain day on specific stock.
 
 ##### Hong Kong University of Science and Technology
-* Worked under **Prof Yang Yi** on: (i) adversarial attacks on sentiment classification models; (ii) grammar error correction models focused on cross-language errors
+* Worked under **Prof Yang Yi** on: (i) adversarial attacks on sentiment classification models; (ii) grammar error correction models focused on cross-language errors; working on 3rd paper
+* Worked under **Dr Nora Hussin** and **Centre for Language Education** to on automated GEC system that grades student essays for instructors and points out errors to students during assignment work; GEC focused on interlanguage errors of non-native English users
 * Worked under **Prof Christy Zhou Koval** on analysis of gender and race bias on online work platforms: Built a web-scraper, and built an workaround to bypass CAPTCHA security mechanisms; managed room of 11 computing resources simutaneously; Analyzed data, plotted and studied social network interaction charts and relations within employees and employers
 
 
