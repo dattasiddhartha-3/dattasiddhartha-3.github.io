@@ -22,7 +22,16 @@ sidebar:
 
 ## Formal paper submissions
 
+<details>
+  <summary><b>S. Datta, Y. Yang. 2019. Submitted. <a href="https://drive.google.com/open?id=1O5hYeC3roV7LVDLaCoXXFBqwLPmykK9oP0kNpe-LXGQ">Adversarial attack optimization against crossdomain classification models</a> In ACL 2020</b></summary>
+
+  <h6>Blackbox attack models used to put focus on querying labels of their victim’s model by passing in inputs, and training attack algorithms based on fooled labels. Our initial (and proven) hypothesis is that there is no real need for an attacker to be able to interact with the victim model and should be able to perform a successful “blind” blackbox attack model. Thus we varied different configurations of attack, including domain similarity, different attack algorithms, different model architectures, etc. What we found was that we can leverage domain adaptation to execute a successful blind blackbox attack on text classification models.</h6>
+  
+</details>
+
 ##### S. Datta, Y. Yang. 2019. Submitted. ["Adversarial attack optimization against crossdomain classification models"](https://drive.google.com/open?id=1O5hYeC3roV7LVDLaCoXXFBqwLPmykK9oP0kNpe-LXGQ) In ACL 2020
+Blackbox attack models used to put focus on querying labels of their victim’s model by passing in inputs, and training attack algorithms based on fooled labels. Our initial (and proven) hypothesis is that there is no real need for an attacker to be able to interact with the victim model and should be able to perform a successful “blind” blackbox attack model. Thus we varied different configurations of attack, including domain similarity, different attack algorithms, different model architectures, etc. What we found was that we can leverage domain adaptation to execute a successful blind blackbox attack on text classification models.
+
 
 ##### S. Datta. 2019. Submitted. ["DeepObfusCode: Source Code Obfuscation Through Sequence-to-Sequence Networks"](https://arxiv.org/abs/1909.01837) In ICASSP 2020
 The paper explores a novel methodology in source code obfuscation through the application of text-based recurrent neural network (RNN) encoder-decoder models in ciphertext generation and key generation. Sequence-to-sequence models are incorporated into the model architecture to generate obfuscated code, generate the deobfuscation key, and live execution. Quantitative benchmark comparison to existing obfuscation methods indicate significant improvement in stealth and execution cost for the proposed solution, and experiments regarding the model's properties yield positive results regarding its character variation, dissimilarity to the original codebase, and consistent length of obfuscated code.
