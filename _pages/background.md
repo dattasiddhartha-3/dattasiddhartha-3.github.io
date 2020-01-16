@@ -27,8 +27,6 @@ I was born in mid-Autumn 1998 in Bangladesh. Our family has lived in the village
 
 Advocacy work on promoting educational opportunities for Hong Kong ethnic minorities; media exposure from hackathons and startup; scholarship award exposure.
 
-<!--{% include video id="" provider="youtube" %}-->
-
 <!-- <iframe src="https://www.scmp.com/news/hong-kong/education/article/2154479/hong-kong-teens-dreams-being-doctor-dashed-education" height="360" width="480"></iframe> -->
 
 <!-- [![IMAGE ALT TEXT](/images/scmp.PNG)](https://www.scmp.com/news/hong-kong/education/article/2154479/hong-kong-teens-dreams-being-doctor-dashed-education) -->
@@ -39,8 +37,9 @@ Advocacy work on promoting educational opportunities for Hong Kong ethnic minori
 
 <a href="http://media.licdn.com/embeds/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fcyberport.hk%2Fvideos%2F1893272297411941%2F&amp;url=https%3A%2F%2Fwww.facebook.com%2Fcyberport.hk%2Fvideos%2F1893272297411941%2F&amp;type=text%2Fhtml&amp;schema=facebook"><img src="/images/ccmf.PNG" width="480" /></a>
 
-<iframe width="128" height="64" src="https://www.youtube.com/embed/BZFs_zrIcm4?start=288" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--<iframe width="128" height="64" src="https://www.youtube.com/embed/BZFs_zrIcm4?start=288" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
+{% include video id="BZFs_zrIcm4?start=288" provider="youtube" %}
 
 <!--<details>
   <summary><b>Filmography</b></summary>
