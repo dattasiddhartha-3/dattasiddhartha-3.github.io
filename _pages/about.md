@@ -292,7 +292,6 @@ Thank you for venturing into my repository of project highlights, research exper
 
 </p>
 
-###### Sections: [[HCI]](http://dattasiddhartha-3.github.io/#hci--products-incl-cv-nlp-mldl) [[inductive programming]](http://dattasiddhartha-3.github.io/#causal-inference--inductive-programming-incl-bioinformatics-networks) [[privacy preserving systems]](http://dattasiddhartha-3.github.io/#privacy-preserving-systems-incl-obfuscation-adversarial-attacks) [[lab work]](http://dattasiddhartha-3.github.io/#lab-contributions) [[other work]](http://dattasiddhartha-3.github.io/#other-contributions)
 
 ## HCI / products (incl. CV, NLP, ML/DL)
 
