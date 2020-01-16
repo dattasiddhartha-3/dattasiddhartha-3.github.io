@@ -71,6 +71,7 @@
   overflow: hidden;
   img {
     width: 100%;
+    max-width: 50px;
   }
 }
 
@@ -171,7 +172,7 @@
     @include gallery(4 of 12);
 
     .feature__item-teaser {
-      max-height: 100px;
+      max-height: 200px;
       overflow: hidden;
     }
   }
