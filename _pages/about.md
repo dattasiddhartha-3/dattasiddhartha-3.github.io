@@ -318,20 +318,4 @@ Thank you for venturing into my repository of project highlights, research exper
 
 {% include feature_row id="feature_row_test" type="left" %}
 
-{% include feature_row type="left" %}
 
-## Causal inference / inductive programming (incl. Bioinformatics, networks)
-
-{% include feature_row2 type="left" %}
-
-## Privacy preserving systems (incl. Obfuscation, adversarial attacks)
-
-{% include feature_row3 type="left" %}
-
-## Lab contributions
-
-{% include feature_row4 type="left" %}
-
-## Other contributions
-
-{% include feature_row5 %}
