@@ -7,29 +7,6 @@ header:
 excerpt: >
   A young computational scientist testing the waters of the future one project at a time.<br />
 
-feature_row_test:
-
-  - image_path: https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/e253ebdepson_goggles_lq.PNG
-    alt: "customizable"
-    title: "Mask R-CNN object detection to augment human peripheral search"
-    excerpt: "
-    Winning submisson at Cal Hacks 5.0; display goggles that helps Alzheimer’s patients locate personal affects using object detection and speech recognition.\n
-    
-    > [[video]](http://www.youtube.com/watch?v=s6UWctGQRwA) 
-[[code]](https://hkustconnect-my.sharepoint.com/personal/sdatta_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsdatta%5Fconnect%5Fust%5Fhk%2FDocuments%2FBerkeley%2FMoverio%2DMemoryPalace%2DInstructions%2Ezip&parent=%2Fpersonal%2Fsdatta%5Fconnect%5Fust%5Fhk%2FDocuments%2FBerkeley) 
-[[install instructions]](https://drive.google.com/open?id=183nrhzzW63Xrgerxxk8LOU9aBcUO_XZH) 
-[[slides]](https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/b524535calhacks_slides.pptx)\n
-    
-   > Trained Mask R-CNN object detection classifier on grayed-out ImageNet dataset to sustain realtime inference / classification rate at least 30fps; optimized setup of models (e.g. Yolo v1-3), datasets (e.g. MS Coco) on high-latency Android embedded system\n
-  
-  > Built Android application and custom scripts (for parsing and relaying camera input) and root-installed into Moverio augmented reality display googles to stream camera input, apply bounding boxes around objects to be detected, and output to display feed of device \n
-  
-  > Contributed an optimized low-latency embedded-system implementation that performs speech recognition, video streaming/display, image processing with minimal visible stutter
-"
-    url: "https://dattasiddhartha-3.github.io/portfolio/10000memorypalace/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-
 feature_row:
 
   - image_path: https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/e253ebdepson_goggles_lq.PNG
@@ -309,6 +286,10 @@ feature_row5:
 
 ### Siddhartha Datta
 
+Thank you for venturing into my repository of project highlights, research experience, and looking glass into my personal life. While each page or section might go in-depth into a particular domain or problem or solution, the one thing that connects them all together is that each project I work on in some way *tests* the future of that domain, to test whether the solution is in this problem's path in the coming years/decades. 
+
+###### Sections: [[HCI]](http://dattasiddhartha-3.github.io/#hci--products-incl-cv-nlp-mldl) [[inductive programming]](http://dattasiddhartha-3.github.io/#causal-inference--inductive-programming-incl-bioinformatics-networks) [[privacy preserving systems]](http://dattasiddhartha-3.github.io/#privacy-preserving-systems-incl-obfuscation-adversarial-attacks) [[lab work]](http://dattasiddhartha-3.github.io/#lab-contributions) [[other work]](http://dattasiddhartha-3.github.io/#other-contributions)
+
 <a href="http://dattasiddhartha-3.github.io/#hci--products-incl-cv-nlp-mldl" class="btn btn--info">HCI</a>
 
 ## HCI / products (incl. CV, NLP, ML/DL)
@@ -331,5 +312,3 @@ feature_row5:
 
 {% include feature_row5 %}
 
-
-<!-- {% include feature_row id="feature_row_test" type="left" %} -->
