@@ -6,6 +6,7 @@ header:
   overlay_image: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/github%20dashboard.jpg
 excerpt: >
   A young computational scientist testing the waters of the future one project at a time.<br />
+
 feature_row:
 
   - image_path: https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/e253ebdepson_goggles_lq.PNG
@@ -257,14 +258,6 @@ feature_row5:
     btn_class: "btn--primary"
     btn_label: "Learn more" 
 
-  - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/school2.PNG
-    alt: "100% fre4e"
-    title: "Past School Projects"
-    excerpt: ""
-    url: "https://dattasiddhartha-3.github.io/portfolio/20010schoolproj/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more" 
-
   - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/emptyclass.PNG
     alt: "100% fre4e"
     title: "Other Side Projects"
@@ -280,6 +273,14 @@ feature_row5:
     url: "https://dattasiddhartha-3.github.io/portfolio/20020opensource/"
     btn_class: "btn--primary"
     btn_label: "Learn more" 
+    
+  - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/school2.PNG
+    alt: "100% fre4e"
+    title: "Past School Projects"
+    excerpt: ""
+    url: "https://dattasiddhartha-3.github.io/portfolio/20010schoolproj/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 
 ---
 
@@ -287,6 +288,9 @@ feature_row5:
 
 Thank you for venturing into my repository of project highlights, research experience, and looking glass into my personal life. While each page or section might go in-depth into a particular domain or problem or solution, the one thing that connects them all together is that each project I work on in some way *tests* the future of that domain, to test whether the solution is in this problem's path in the coming years/decades. 
 
+<a href="http://dattasiddhartha-3.github.io/#hci--products-incl-cv-nlp-mldl" class="btn btn--info">HCI</a>
+
+Sections: [[HCI]](http://dattasiddhartha-3.github.io/#hci--products-incl-cv-nlp-mldl) [[inductive programming]](http://dattasiddhartha-3.github.io/#causal-inference--inductive-programming-incl-bioinformatics-networks) [[privacy preserving systems]](http://dattasiddhartha-3.github.io/#privacy-preserving-systems-incl-obfuscation-adversarial-attacks) [[lab work]](http://dattasiddhartha-3.github.io/#lab-contributions) [[other work]](http://dattasiddhartha-3.github.io/#other-contributions)
 
 ## HCI / products (incl. CV, NLP, ML/DL)
 
@@ -307,3 +311,4 @@ Thank you for venturing into my repository of project highlights, research exper
 ## Other contributions
 
 {% include feature_row5 %}
+
