@@ -13,3 +13,7 @@ Good references:
 [buttons](https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/)
 
 [general homepage modification](https://mmistakes.github.io/minimal-mistakes/docs/helpers/)
+
+Workarounds:
+
+* Occasionally there is an odd bug with github pages with about.md not updating; to resolve this, there are two files (about_test and about), and you send the updates to the non-about.md file, and rename that file as about.md, and rename the old file as about_old.md; this will force github pages to update
