@@ -157,6 +157,19 @@ A project focused on predicting gambling decisions from brainwave electrocortico
   
 </details>
 
+<details>
+  <summary><b><small> Coxana: DJI drone programming [c] </small></b></summary>
+  
+  <ul>
+  <li>Adapted vision algorithms to be executed by DJI Tello EDU onboard CPU, including pose detection, dark setting image enhancement (AI in the Dark), real-time censoring, crowd counting, etc</li>
+  <li>No existing video decoding library provided by DJI; developed a decoding library for DJI-Tello-compatible camera</li>
+  <li>Code repository currently still proprietary to Coxana, but details on algorithms developed: <a href="https://drive.google.com/open?id=1gxhnWfXrGpbQwGKHE8Q0-dLZFgxgmO7Xv4vslESkBI8">[curriculum]</a> </li>
+  <li>Details on installation / drone setup: <a href="https://drive.google.com/open?id=1MXjlBPcNou_HSfTgb0zL-65awqKBfEjA">[installation]</a> </li>
+</ul>
+  
+</details>
+
+
 <!--##### Hong Kong University of Science and Technology
 * Worked under **Prof Yang Yi** on: (i) adversarial attacks on sentiment classification models; (ii) grammar error correction models focused on cross-language errors; working on 3rd paper
 * Worked under **Dr Nora Hussin** and **Centre for Language Education** to on automated GEC system that grades student essays for instructors and points out errors to students during assignment work; GEC focused on interlanguage errors of non-native English users
