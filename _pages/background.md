@@ -25,7 +25,7 @@ I was born in mid-Autumn 1998 in Bangladesh. Our family has lived in the village
 
 ### Media Exposure
 
-Advocacy work on promoting educational opportunities for Hong Kong ethnic minorities; media exposure from hackathons and startup; scholarship award exposure.
+Advocacy work on promoting educational opportunities for Hong Kong ethnic minorities; media exposure from hackathons and startup; scholarship award exposure. [[Article translation]](https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/translation.txt)
 
 <!-- <iframe src="https://www.scmp.com/news/hong-kong/education/article/2154479/hong-kong-teens-dreams-being-doctor-dashed-education" height="360" width="480"></iframe> -->
 
