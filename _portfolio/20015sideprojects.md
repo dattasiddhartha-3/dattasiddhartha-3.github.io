@@ -15,6 +15,10 @@ An implementation of [Learning Algorithms via Neural Logic Networks](https://arx
 
 [code](https://github.com/dattasiddhartha/NeuralLogicNetwork)
 
+### "Mental Approximation Processing"
+
+[[pdf]](https://drive.google.com/open?id=1KLXjOL7cahOOLDlSiaKi_CToTp2Q53G8)
+
 ### Structural Balance within International Relation Networks
 
 * Calculated structural balance within network graphs of alliances and rivalries between nations from 1800 to 1945
