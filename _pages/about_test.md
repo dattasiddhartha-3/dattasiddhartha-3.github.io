@@ -16,7 +16,7 @@ feature_row:
     Winning submisson at Cal Hacks 5.0; display goggles that helps Alzheimer’s patients locate personal affects using object detection and speech recognition.\n
     
     > [[video]](http://www.youtube.com/watch?v=s6UWctGQRwA) 
-[[code]](https://hkustconnect-my.sharepoint.com/personal/sdatta_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsdatta%5Fconnect%5Fust%5Fhk%2FDocuments%2FBerkeley%2FMoverio%2DMemoryPalace%2DInstructions%2Ezip&parent=%2Fpersonal%2Fsdatta%5Fconnect%5Fust%5Fhk%2FDocuments%2FBerkeley) 
+[[code]](https://hkustconnect-my.sharepoint.com/:u:/g/personal/sdatta_connect_ust_hk/EaXFuzpiDpVAuHYkYNxf-G0BoaVhGvKZyD_tqhV3OqkeEw?e=UhZdVt) 
 [[install instructions]](https://drive.google.com/open?id=183nrhzzW63Xrgerxxk8LOU9aBcUO_XZH) 
 [[slides]](https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/b524535calhacks_slides.pptx)\n
     
