@@ -8,7 +8,7 @@ Winning submisson at Cal Hacks 5.0 (Epson sponsor award). Our team developed a p
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s6UWctGQRwA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[code](https://hkustconnect-my.sharepoint.com/personal/sdatta_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsdatta%5Fconnect%5Fust%5Fhk%2FDocuments%2FBerkeley%2FMoverio%2DMemoryPalace%2DInstructions%2Ezip&parent=%2Fpersonal%2Fsdatta%5Fconnect%5Fust%5Fhk%2FDocuments%2FBerkeley) [installation](https://drive.google.com/open?id=183nrhzzW63Xrgerxxk8LOU9aBcUO_XZH)
+[code](https://hkustconnect-my.sharepoint.com/:u:/g/personal/sdatta_connect_ust_hk/EaXFuzpiDpVAuHYkYNxf-G0BoaVhGvKZyD_tqhV3OqkeEw?e=UhZdVt) [installation](https://drive.google.com/open?id=183nrhzzW63Xrgerxxk8LOU9aBcUO_XZH)
 
 ### Technical summary
 
@@ -36,7 +36,9 @@ Preview of my teammate testing the goggles out in real-time, while my PC display
 
 ### Software
 
-To install the object detection and streaming system for other AR-capable devices, you may (1) download the [source code](https://hkustconnect-my.sharepoint.com/personal/sdatta_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsdatta%5Fconnect%5Fust%5Fhk%2FDocuments%2FBerkeley%2FMoverio%2DMemoryPalace%2DInstructions%2Ezip&parent=%2Fpersonal%2Fsdatta%5Fconnect%5Fust%5Fhk%2FDocuments%2FBerkeley) and (2) follow the below installation instructions.
+To install the object detection and streaming system for other AR-capable devices, you may (1) download the [source code](https://hkustconnect-my.sharepoint.com/:u:/g/personal/sdatta_connect_ust_hk/EaXFuzpiDpVAuHYkYNxf-G0BoaVhGvKZyD_tqhV3OqkeEw?e=UhZdVt)  and (2) follow the below installation instructions.
+
+<!--https://hkustconnect-my.sharepoint.com/personal/sdatta_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsdatta%5Fconnect%5Fust%5Fhk%2FDocuments%2FBerkeley%2FMoverio%2DMemoryPalace%2DInstructions%2Ezip&parent=%2Fpersonal%2Fsdatta%5Fconnect%5Fust%5Fhk%2FDocuments%2FBerkeley)-->
 
 <iframe src="https://drive.google.com/file/d/183nrhzzW63Xrgerxxk8LOU9aBcUO_XZH/preview" width="640" height="480"></iframe>
 
