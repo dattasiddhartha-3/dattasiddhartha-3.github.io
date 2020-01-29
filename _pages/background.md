@@ -41,6 +41,8 @@ Advocacy work on promoting educational opportunities for Hong Kong ethnic minori
 
 {% include video id="BZFs_zrIcm4?start=288" provider="youtube" %}
 
+<iframe width="128" height="64" src="https://www.youtube.com/embed/BZFs_zrIcm4?start=288" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+
 <!--<details>
   <summary><b>Filmography</b></summary>
   <h6>In my spare time I take a drone out for a spin in the country side and capture a different perspective of the world I inhabit... and sometimes take part in a few skits...</h6>
