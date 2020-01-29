@@ -35,13 +35,14 @@ Advocacy work on promoting educational opportunities for Hong Kong ethnic minori
 
 <a href="https://www.scmp.com/news/hong-kong/education/article/2154479/hong-kong-teens-dreams-being-doctor-dashed-education"><img src="/images/scmp.PNG" width="360" /></a> <a href="http://media.licdn.com/embeds/media.html?src=https%3A%2F%2Ftwitter.com%2Fleonlaroue%2Fstatus%2F1059263707417534464&amp;url=https%3A%2F%2Ftwitter.com%2Fleonlaroue%2Fstatus%2F1059263707417534464&amp;type=text%2Fhtml&amp;schema=twitter"><img src="/images/tweet.PNG" width="360" /></a> 
 
-<a href="http://media.licdn.com/embeds/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fcyberport.hk%2Fvideos%2F1893272297411941%2F&amp;url=https%3A%2F%2Fwww.facebook.com%2Fcyberport.hk%2Fvideos%2F1893272297411941%2F&amp;type=text%2Fhtml&amp;schema=facebook"><img src="/images/ccmf.PNG" width="480" /></a>
+<a href="http://media.licdn.com/embeds/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fcyberport.hk%2Fvideos%2F1893272297411941%2F&amp;url=https%3A%2F%2Fwww.facebook.com%2Fcyberport.hk%2Fvideos%2F1893272297411941%2F&amp;type=text%2Fhtml&amp;schema=facebook"><img src="/images/ccmf.PNG" width="480" /></a> <a href="https://www.youtube.com/watch?v=BZFs_zrIcm4?start=288"><img src="https://img.youtube.com/vi/BZFs_zrIcm4/0.jpg" width="480" /></a>
 
 <!--<iframe width="128" height="64" src="https://www.youtube.com/embed/BZFs_zrIcm4?start=288" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
-{% include video id="BZFs_zrIcm4?start=288" provider="youtube" %}
+<!--{% include video id="BZFs_zrIcm4?start=288" provider="youtube" %}->
 
-<iframe width="128" height="64" src="https://www.youtube.com/embed/BZFs_zrIcm4?start=288" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+<!-- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BZFs_zrIcm4?start=288/0.jpg)](https://www.youtube.com/watch?v=BZFs_zrIcm4?start=288)-->
+
 
 <!--<details>
   <summary><b>Filmography</b></summary>
@@ -55,5 +56,7 @@ In my spare time I take a drone out for a spin in the country side and capture a
 <a href="https://hkustconnect-my.sharepoint.com/:v:/g/personal/sdatta_connect_ust_hk/EXfTMUL6EXRMke64z0QZN8kBDyWV4hNB_ZUwjmqLzzxC7g?e=huxmIv"><img src="/images/drone1.PNG" width="480" /></a>
 <a href="https://hkustconnect-my.sharepoint.com/:v:/g/personal/sdatta_connect_ust_hk/Ee5KfeEquptPmCI0luZuDBEBi_zFwp-ohn1aIB19NCcJxQ?e=6gYwCr"><img src="/images/drone2.PNG" width="480" /></a>
 
-<iframe width="128" height="64" src="https://www.youtube.com/embed/PA74bXwo20w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=PA74bXwo20w"><img src="https://img.youtube.com/vi/PA74bXwo20w/0.jpg" width="480" /></a>
+
+<!--<iframe width="128" height="64" src="https://www.youtube.com/embed/PA74bXwo20w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
