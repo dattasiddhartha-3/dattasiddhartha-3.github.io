@@ -39,8 +39,6 @@ Advocacy work on promoting educational opportunities for Hong Kong ethnic minori
 
 <!--<iframe width="128" height="64" src="https://www.youtube.com/embed/BZFs_zrIcm4?start=288" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
-<!--{% include video id="" provider="youtube" %}->
-
 <!-- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BZFs_zrIcm4?start=288/0.jpg)](https://www.youtube.com/watch?v=BZFs_zrIcm4?start=288)-->
 
 
