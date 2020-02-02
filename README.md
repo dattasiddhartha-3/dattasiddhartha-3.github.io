@@ -16,6 +16,8 @@ Good references:
 
 Video code: {% include video id="" provider="youtube" %}
 
+Filter by tags: [official mmistakes](https://mmistakes.github.io/minimal-mistakes/tags/) [MIT LSM homepage](https://socialmachines.org/publications)
+
 Workarounds:
 
 * Occasionally there is an odd bug with github pages with about.md not updating; to resolve this, there are two files (about_test and about), and you send the updates to the non-about.md file, and rename that file as about.md, and rename the old file as about_old.md; this will force github pages to update
