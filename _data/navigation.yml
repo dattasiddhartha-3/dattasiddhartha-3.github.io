@@ -20,6 +20,8 @@ resume:
 
   - title: "Publication experience"
     children:
+       - title: "S. Datta, Y. Yang. 2020. Submitted. "Defense against domain-adapted adversarial attacks" In ICML 2020"
+         url: "https://drive.google.com/open?id=1O5hYeC3roV7LVDLaCoXXFBqwLPmykK9oP0kNpe-LXGQ"
        - title: "S. Datta, Y. Yang. 2019. Submitted. “Adversarial attack optimization against crossdomain classification models” In ACL 2020"
          url: "https://drive.google.com/open?id=1O5hYeC3roV7LVDLaCoXXFBqwLPmykK9oP0kNpe-LXGQ"
        - title: "S. Datta. 2019. Submitted. “DeepObfusCode: Source Code Obfuscation Through Sequence-to-Sequence Networks” In ICASSP 2020"
@@ -27,7 +29,7 @@ resume:
 
   - title: "Lab contributions"
     children:
-       - title: "Department of Information Systems, HKUST (2019)"
+       - title: "Department of Information Systems, HKUST (2019-20)"
          url: "https://drive.google.com/open?id=1O5hYeC3roV7LVDLaCoXXFBqwLPmykK9oP0kNpe-LXGQ"
        - title: "Language and Children Development Lab, UCB (2018)"
          url: "https://github.com/dattasiddhartha-1/polysemous-word-tagging-tool/tree/master"
