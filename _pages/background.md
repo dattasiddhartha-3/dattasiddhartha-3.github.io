@@ -58,3 +58,4 @@ In my spare time I take a drone out for a spin in the country side and capture a
 
 <!--<iframe width="128" height="64" src="https://www.youtube.com/embed/PA74bXwo20w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
+Some of my early contributions to student housing can be found in pictures [here](https://www.facebook.com/pg/hkust.halls89/photos/?tab=albums&ref=page_internal).
