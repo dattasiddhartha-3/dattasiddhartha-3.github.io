@@ -232,7 +232,8 @@ A project focused on predicting gambling decisions from brainwave electrocortico
 
 <!--*Github profiles*: [[dattasiddhartha]](https://github.com/dattasiddhartha)     [[dattasiddhartha-1]](https://github.com/dattasiddhartha-1)     [[dattasiddhartha-3]](https://github.com/dattasiddhartha-3)     [[dattasiddhartha-4]](https://github.com/dattasiddhartha-4)-->
 
-### Resume
+
+<!--### Resume-->
 
 <!--<iframe src="https://drive.google.com/file/d/1NawdTdlx9Fy5w-DkxcUFrj2Lkew73eTu/preview" width="640" height="480"></iframe>-->
 
