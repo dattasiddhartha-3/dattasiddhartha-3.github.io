@@ -186,6 +186,11 @@ A project focused on predicting gambling decisions from brainwave electrocortico
 ## Additional research work
 
 <details>
+  <summary><b><small> <a href="https://drive.google.com/open?id=1kkByQv5hQywet0o6PZH2xvvMSvYbXtno">Trade Network Analysis of Exports Loss due to Internal Political Events</a> </small></b></summary>
+  <small>Tested the causal impact of 2019 protests on Hong Kong's export of financial services to partner nations compared to Singapore (the change in flow to multilateral ties relative between the two cities, as a proxy for change in flow between common relationships). Relevant slides: [8-11, 39-40, 42-43] </small>
+</details>
+
+<details>
   <summary><b><small> <a href="https://drive.google.com/open?id=1lUfM2D4XycYqbIgJThU1Xjk0sdku4z3n">Using Structural Imbalance to Evaluate Models of International Relations</a> </small></b></summary>
   <small>Studied whether international conflicts could be predicted or captured in network imbalances between nodes; we used discrete sign methods to measure structural imbalances for each feature, and also used a continuous reinforcement learning method to calculate weights for each feature in each edge to measure structural imbalance in one graph</small>
 </details>
@@ -229,7 +234,7 @@ A project focused on predicting gambling decisions from brainwave electrocortico
 
 ### Resume
 
-<iframe src="https://drive.google.com/file/d/1NawdTdlx9Fy5w-DkxcUFrj2Lkew73eTu/preview" width="640" height="480"></iframe>
+<!--<iframe src="https://drive.google.com/file/d/1NawdTdlx9Fy5w-DkxcUFrj2Lkew73eTu/preview" width="640" height="480"></iframe>-->
 
 
 [[Intended career/research plan]](https://docs.google.com/document/d/1cjWkkmqrHVGN0bhLHhfNIrqMFBYR_nDreEunCm22sn4/edit?usp=sharing)     [[How did I learn CS over time without doing a CS degree?]](https://docs.google.com/document/d/1p_LWdT8NwVTHOpAO-HkuWCc4KHelisOV385kGmonwP4/edit?usp=sharing)
