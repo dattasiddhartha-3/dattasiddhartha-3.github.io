@@ -42,5 +42,5 @@ To install the object detection and streaming system for other AR-capable device
 
 <iframe src="https://drive.google.com/file/d/183nrhzzW63Xrgerxxk8LOU9aBcUO_XZH/preview" width="640" height="480"></iframe>
 
-[Hackathon submission](https://calhacks5.hackerearth.com/sprints/cal-hacks-50/dashboard/b436967/submission/) | [slides](https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/b524535calhacks_slides.pptx) | [Recount of Cal Hacks](http://www.zacharychaoportfolio.com/blog/calhacks)
+[CalHacks submission](https://calhacks5.hackerearth.com/sprints/cal-hacks-50/dashboard/b436967/submission/) | [CalHacks slides](https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/b524535calhacks_slides.pptx) | [Recount of Cal Hacks](http://www.zacharychaoportfolio.com/blog/calhacks) | [spinoff slides](https://drive.google.com/open?id=1TLdFKX9rg5OplHzI3gjV_Jmq_57z_IAV)
 
