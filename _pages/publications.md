@@ -186,7 +186,7 @@ A project focused on predicting gambling decisions from brainwave electrocortico
 ## Additional research work
 
 <details>
-  <summary><b><small> <a href="https://drive.google.com/open?id=1kkByQv5hQywet0o6PZH2xvvMSvYbXtno">Trade Network Analysis of Exports Loss due to Internal Political Events</a> </small></b></summary>
+  <summary><b><small> <a href="https://drive.google.com/open?id=1aO8_OP38dIkf1GFMKMQfabVm2Y31pLnA">Trade Network Analysis of Exports Loss due to Internal Political Events</a> </small></b></summary>
   <small>Tested the causal impact of 2019 protests on Hong Kong's export of financial services to partner nations compared to Singapore (the change in flow to multilateral ties relative between the two cities, as a proxy for change in flow between common relationships). Relevant slides: [8-11, 39-40, 42-43] </small>
 </details>
 
