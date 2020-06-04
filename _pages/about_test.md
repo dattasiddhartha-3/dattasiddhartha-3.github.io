@@ -308,7 +308,7 @@ Thank you for venturing into my repository of project highlights, research exper
 
 {% include feature_row4 %}
 
-## Other contributions
+<!--## Other contributions-->
 
 <!--{% include feature_row5 %}-->
 
