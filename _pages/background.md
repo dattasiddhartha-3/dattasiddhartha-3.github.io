@@ -34,9 +34,7 @@ Advocacy work on promoting educational opportunities for Hong Kong ethnic minori
 
 <img src="https://media-exp1.licdn.com/media-proxy/ext?w=1024&h=768&f=n&hash=ClqFvKCKz3ViID6JjLa49QXb9Ks%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWi8eMfcebX1o0AeKXoDjQBjeuq1STfhRI6_LIjmeNxwjJXlLZD5agYUbhl4j3lK6w" width="360" /> <a href="https://topick.hket.com/article/2533177/%E3%80%90%E7%89%9B%E6%B4%A5%E5%B0%96%E5%AD%90%E3%80%91%E7%A7%91%E5%A4%A7%E7%92%B0%E7%90%83%E5%95%86%E6%A5%AD%E7%95%A2%E6%A5%AD%E6%A3%84%E5%85%A5%E6%8A%95%E8%A1%8C%E3%80%80%E5%AD%9F%E5%8A%A0%E6%8B%89%E8%A3%94%E6%B8%AF%E7%94%9F%E8%B5%B4%E7%89%9B%E6%B4%A5%E8%AE%80%E5%8D%9A%E5%A3%AB%EF%BC%9A%E8%88%92%E9%81%A9%E7%94%9F%E6%B4%BB%E4%B8%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E6%88%90%E5%8A%9F?mtc=10012"><img src="/images/rdes.PNG" width="360" /></a>
 
-<a href="https://www.scmp.com/news/hong-kong/education/article/2154479/hong-kong-teens-dreams-being-doctor-dashed-education"><img src="/images/scmp.PNG" width="360" /></a> <a href="http://media.licdn.com/embeds/media.html?src=https%3A%2F%2Ftwitter.com%2Fleonlaroue%2Fstatus%2F1059263707417534464&amp;url=https%3A%2F%2Ftwitter.com%2Fleonlaroue%2Fstatus%2F1059263707417534464&amp;type=text%2Fhtml&amp;schema=twitter"><img src="/images/tweet.PNG" width="360" /></a> 
-
-<a href="http://media.licdn.com/embeds/media.html?src=https%3A%2F%2Fwww.facebook.com%2Fcyberport.hk%2Fvideos%2F1893272297411941%2F&amp;url=https%3A%2F%2Fwww.facebook.com%2Fcyberport.hk%2Fvideos%2F1893272297411941%2F&amp;type=text%2Fhtml&amp;schema=facebook"><img src="/images/ccmf.PNG" width="480" /></a> <a href="https://www.youtube.com/watch?v=BZFs_zrIcm4?start=288"><img src="https://img.youtube.com/vi/BZFs_zrIcm4/0.jpg" width="360" /></a>
+<a href="http://media.licdn.com/embeds/media.html?src=https%3A%2F%2Ftwitter.com%2Fleonlaroue%2Fstatus%2F1059263707417534464&amp;url=https%3A%2F%2Ftwitter.com%2Fleonlaroue%2Fstatus%2F1059263707417534464&amp;type=text%2Fhtml&amp;schema=twitter"><img src="/images/tweet.PNG" width="360" /></a> <img src="/images/ccmf.PNG" width="480" /></a> <a href="https://www.youtube.com/watch?v=BZFs_zrIcm4?start=288"><img src="https://img.youtube.com/vi/BZFs_zrIcm4/0.jpg" width="360" /></a>
 
 <!--<iframe width="128" height="64" src="https://www.youtube.com/embed/BZFs_zrIcm4?start=288" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
@@ -59,4 +57,4 @@ In my spare time I take a drone out for a spin in the country side and capture a
 
 <!--<iframe width="128" height="64" src="https://www.youtube.com/embed/PA74bXwo20w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
-Some of my early contributions to student housing can be found in pictures [here](https://www.facebook.com/pg/hkust.halls89/photos/?tab=albums&ref=page_internal).
+<!--Some of my early contributions to student housing can be found in pictures [here](https://www.facebook.com/pg/hkust.halls89/photos/?tab=albums&ref=page_internal).-->
