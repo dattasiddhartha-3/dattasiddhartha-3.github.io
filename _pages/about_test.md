@@ -9,6 +9,20 @@ excerpt: >
 
 feature_row:
 
+  - image_path: https://github.com/dattasiddhartha/GIFShop-Wizard/raw/master/vision/fast_neural_style_transfer/videos/FST.gif?raw=true
+    alt: "customizable"
+    title: "Dialogue-based automated image editing"
+    excerpt: "
+    GIF-editing chatbot with computer vision functionality.\n
+    
+    > [[code]](https://github.com/dattasiddhartha/GIFShop-Wizard)\n
+    
+   > Messenger bot, dialogue facilitated by quick reply buttons to execute modularized vision functionality (fast style transfer, segmented style transfer, CycleGAN, first order motion transfer, foreground object removal).
+"
+    url: "https://github.com/dattasiddhartha/GIFShop-Wizard"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+    
   - image_path: https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/e253ebdepson_goggles_lq.PNG
     alt: "customizable"
     title: "Mask R-CNN object detection to augment human peripheral search"
@@ -16,7 +30,7 @@ feature_row:
     Winning submisson at Cal Hacks 5.0; display goggles that helps Alzheimer’s patients locate personal affects using object detection and speech recognition.\n
     
     > [[video]](http://www.youtube.com/watch?v=s6UWctGQRwA) 
-[[code]](https://hkustconnect-my.sharepoint.com/:u:/g/personal/sdatta_connect_ust_hk/EaXFuzpiDpVAuHYkYNxf-G0BoaVhGvKZyD_tqhV3OqkeEw?e=UhZdVt) 
+[[code]](https://github.com/dattasiddhartha/Calhacks-5.0) 
 [[install instructions]](https://drive.google.com/open?id=183nrhzzW63Xrgerxxk8LOU9aBcUO_XZH) 
 [[slides]](https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/b524535calhacks_slides.pptx)\n
     
@@ -66,7 +80,7 @@ feature_row:
     excerpt: "
     Synthesis of musical notes based on tapping food with utensils, with each dish assigned to a different instrument.\n
     
-    > [[code]](https://bit.ly/2P7YYRQ) 
+    > [[code]](https://github.com/dattasiddhartha/Music-Synthesis-with-Object-Detection) 
 [[video]](https://bit.ly/2GcKUCl) 
 [[video]](https://bit.ly/2UY9FM0)\n
 
