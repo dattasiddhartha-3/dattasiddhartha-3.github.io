@@ -16,14 +16,14 @@ sidebar:
 ## Formal paper submissions
 
 <details>
-  <summary><b><small>S. Datta, Y. Yang. 2020. Submitted. Defense against domain-adapted adversarial attacks In ICML 2020</small></b></summary>
+  <summary><b><small>S. Datta, Y. Yang. 2020. Submitted. Defense against domain-adapted adversarial attacks</small></b></summary>
 
-  <small>A novel defense algorithm to counter the attack we proposed in ACL2020; details to be released soon.</small>
+  <small>A novel defense algorithm to counter the attack we proposed; details to be released soon.</small>
   
 </details>
 
 <details>
-  <summary><b><small>S. Datta, Y. Yang. 2019. Submitted. <a href="https://drive.google.com/open?id=1O5hYeC3roV7LVDLaCoXXFBqwLPmykK9oP0kNpe-LXGQ">Adversarial attack optimization against crossdomain classification models</a> In ACL 2020</small></b></summary>
+  <summary><b><small>S. Datta, Y. Yang. 2019. Submitted. <a href="https://drive.google.com/open?id=1O5hYeC3roV7LVDLaCoXXFBqwLPmykK9oP0kNpe-LXGQ">Adversarial attack optimization against crossdomain classification models</a></small></b></summary>
 
   <small>Blackbox attack models used to put focus on querying labels of their victim’s model by passing in inputs, and training attack algorithms based on fooled labels. Our initial (and proven) hypothesis is that there is no real need for an attacker to be able to interact with the victim model and should be able to perform a successful “blind” blackbox attack model. Thus we varied different configurations of attack, including domain similarity, different attack algorithms, different model architectures, etc. What we found was that we can leverage domain adaptation to execute a successful blind blackbox attack on text classification models.</small>
   
