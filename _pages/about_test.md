@@ -75,7 +75,7 @@ feature_row:
  
   - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/armusic.png
     alt: "100% fre4e"
-    title: "Instrumental note generation through object-impact detection"
+    title: "Music composition through object-impact detection"
     excerpt: "
     Synthesis of musical notes based on tapping food with utensils, with each dish assigned to a different instrument.\n
     
