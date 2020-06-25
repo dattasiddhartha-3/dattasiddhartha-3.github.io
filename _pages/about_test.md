@@ -31,8 +31,7 @@ feature_row:
     
     > [[video]](http://www.youtube.com/watch?v=s6UWctGQRwA) 
 [[code]](https://github.com/dattasiddhartha/Calhacks-5.0) 
-[[install instructions]](https://drive.google.com/open?id=183nrhzzW63Xrgerxxk8LOU9aBcUO_XZH) 
-[[slides]](https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/b524535calhacks_slides.pptx)\n
+[[slides]](https://drive.google.com/file/d/1vlUhoCNtxSjPp9LZzpYdLH9ymSTzbid2/view?usp=sharing)\n
     
    > Trained Mask R-CNN object detection classifier on grayed-out ImageNet dataset to sustain realtime inference / classification rate at least 30fps; optimized setup of models (e.g. Yolo v1-3), datasets (e.g. MS Coco) on high-latency Android embedded system\n
   
