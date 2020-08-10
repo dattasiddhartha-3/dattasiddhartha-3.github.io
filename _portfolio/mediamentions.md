@@ -41,3 +41,7 @@ https://static.wixstatic.com/media/7fce8d_fffaa22f099642248561cb0bcf1e0944~mv2_d
 https://www.bizkathon.ust.hk/
 
 https://www.rs-online.com/designspark/successful-start-for-the-2017-hkust-robotics-team-with-the-8th-robot-design-contest
+
+http://marshallinternationalcasecomp.com/2020-day-2/
+
+https://youtu.be/MeAtwdo3zFw
