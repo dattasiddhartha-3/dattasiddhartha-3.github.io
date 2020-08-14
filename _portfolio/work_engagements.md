@@ -222,6 +222,148 @@ A research paper describing the market need for a novel therapy method, the desi
 
 
 
+# Linkedin
+
+ETHGlobal: HackMoney - Winner
+Winner in pToken category
+
+Code:
+https://github.com/dattasiddhartha/adopt
+
+Annoucement:
+https://twitter.com/ETHGlobal/status/1268278356019228672
+https://twitter.com/pTokens_io/status/1268058917562716160?s=20
+
+--
+
+Marshall International Case Competition (Top 8)
+Top 8 out of 30 teams; proceeded to Challenger round
+
+--
+
+HKUST Bizkathon - 1st runner-up
+Built privacy-preserving system based on homomorphic encryption for virtual banks to obtain data from customers and perform machine learning or analytics on the data while still maintaining privacy of customers.
+
+source code: https://github.com/dattasiddhartha/Encrypted-machine-learning-with-simple-homomorphic-encryption
+
+--
+
+CalHacks 5.0 - Winner (Epson Sponsor Award)
+Built AR goggles that helps Alzheimer's patients find lost objects using object detection. 
+
+https://www.youtube.com/watch?v=s6UWctGQRwA&feature=youtu.be
+
+https://calhacks5.hackerearth.com/sprints/cal-hacks-50/dashboard/b436967/submission/
+
+--
+
+SacHacks 2018 - Winner (Smartcar 1st Runnerup, Best First-Time Hack, Best Domain Name, 3rd Overall)
+We built a centralized system for cars to use cameras to detect crime and notify authorities. It uses object detection to detect weapons, takes snapshots, sends messages to 911 via Twilio, and updates a dashboard of crime using the cars' built-in geolocation tagging mechanisms. 
+
+Video link: https://drive.google.com/file/d/1EOl4VYuxbt7_6Gz5KzhhcyGd_sdb3nG6/view?fbclid=IwAR1IgvE1oLZFLLLfAUU1ePDtXjmmFULMciBeDlq23GcWMTbaXXktjjsEGO0
+
+Slide deck link: https://drive.google.com/file/d/18XjwReayYjx8WDMM-l4k_HvLPWb57gW5/view?fbclid=IwAR16UxXIYthOsgbZGkYapLnIUXhxG3KFrVRW3TQDVHsx3eN_LOPMrSKTo2c
+
+--
+
+AngelHack 2018 - Blockchain Category - Champion
+Built complete dAPP on WAVE platform with data transactions and smart contracts for placing sports bets with escrow to manage counterparty risk of betters and bookkeepers.
+
+White paper: https://drive.google.com/file/d/1lNZARdv3UEm0INMGR9ZE7nWuXHoadkhV/view?usp=sharing
+Repo: https://github.com/s-datta/Betz
+
+--
+
+Access to Justice InnoTech Law Hackathon 2018 - Honorable Mentions
+Pitched and justified the development of a dynamic UX integrated application platform for government legal aid
+
+--
+
+Classified Post Hackathon 2018 - Champion
+Hard-sold and pitched a headline recommendation engine for editors of South China Morning Post
+
+--
+
+CityU Hackathon 2018 - Most Innovative Idea & 1st Runnerup
+Built an automatic lecture transcription tool that also summarizes and quizzes students based on what was taught. 
+
+--
+
+HKUST-Radica Big Datathon - 2nd
+- Built a Youtube-scraper that analyzes people and objects in video footage to extrapolate fashion trends
+
+--
+
+Cyberport Creative Micro Fund
+Won HKD 100,000 in under 5 minutes by pitching a startup to a panel of investors at Cyberport
+
+--
+
+EasyShip 24 Hour E-Commerce Hackathon 2017 - 1st Runner up
+Built a revolutionary UX-centric platform to tailor easyship's UI to the needs of crowdfundees through prediction analytics
+
+--
+
+Hack the Runway 2017 - CHAMPION
+Inspiree - we built a platform that autotags fashion images uploaded by users with image classification and NLP, with a dashboard to present interpretable insight
+
+--
+
+HardUST 2017 - 1st Runner-up
+Worked in a team of four to develop a novel system that caters to autonomous vehicles by standardizing a unique design among all vehicles to permit free-flow throughout the system with absolutely no delay. Our team built prototypes to demonstrate how the custom vehicles integrate and flow through the system.
+
+Particular contributions include:
+- Giving the winning pitch to rope in investors/judges
+- Designed and created all the animations for demonstration purposes using Adobe Flash
+- Brainstormed and scrutinized the to-be-built system and mechanisms
+- Sustained the team by bringing hardware materials and food regularly
+- Modelled the two prototypes that we built using 3D modelling software, including Google Sketchup and Blender
+- Specialized in designing and printing the parts needed using 3D printer
+
+--
+
+Joseph Lau Luen Hung Charitable Trust Scholarship Hong Kong Award
+An HKD80,000 p.a. renewable scholarship for students who care for people, so much so that awardees are typically multilingual and are dedicated to community service.
+
+--
+
+Br Bernard Guellec Memorial Prize for French
+An annual award for the top performing students in French in the Hong Kong Diploma of Secondary Education Examination (HKDSE).
+
+--
+
+University Entrance Scholarship
+In recognition of outstanding performance in the Hong Kong Diploma of Secondary Education Examination (HKDSE)
+
+--
+
+Harmony Scholarship (2016)
+Awarded for demonstrating efforts to progress racial harmony, notably for participation in ethnic-minority-related activities, through aiding foreign festivities (Durga Puja for Hindus on behalf of HKBA, Bangladesh Independence Day for Bengalis on behalf of HKBCC).
+
+--
+
+Fortune Pharmacal Scholarship
+The scholarship was given to me as the awarding orgainzation believed I showed passion and interest in the betterment of lives of those in need. Not only does the scholarship provide me short-term financial support, but it also acted as a platform for me to make a greater impact. For example, after becoming a scholar of Hong Kong Unison, this NGO allowed me to start my own projects with them, and thus giving me more freedom in how I wish to change lives, instead of simply following their preset activities. Thanks to the award, I can be the frontier in community service innovation.
+
+--
+
+Good Lasallian Award Scholarship
+For the Good Lasallian Award, it is granted by the Principal to those who demonstrate the values
+of a Lasallian in their lives. The values that my school believed I encompass include compassion, prudency, perseverance, humility, among others.
+
+--
+
+Br Felix Sheehan Memorial Prize for English
+An annual award for the top performing students in English in the Hong Kong Diploma of Secondary Education Examination (HKDSE).
+
+--
+
+French Subject Prize (2011-2015)
+To receive the subject scholarships, it is necessary to show outstanding performance in that subject. Coming First in Form in the respective subject is rewarded with the prize, as it probably shows commitment and dedication to perfecting one's ability in the subject.
+
+
+
+
 
 
 
