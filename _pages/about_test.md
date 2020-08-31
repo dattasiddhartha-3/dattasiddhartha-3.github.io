@@ -5,7 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/github%20dashboard.jpg
 excerpt: >
-  Welcome to a snapshot of my mind-<br />
+  Welcome to my mind's snapshot 👀<br />
 
 feature_row:
 
@@ -127,6 +127,9 @@ feature_row:
     btn_label: "Learn more"     
 
 ---
+
+
+##### Siddhartha Datta
 
 ## Highlighted projects
 
