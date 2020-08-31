@@ -16,7 +16,7 @@ locale                   : "en-US"
 title                    : "Siddhartha Datta | 戴克勤 | সিদ্ধার্থ দত্ত"
 title_separator          : "-"
 name                     : &name "Siddhartha Datta"
-description              : &description "Undergraduate student at Hong Kong University of Science & Technology"
+description              : &description "Computer Science PhD candidate at University of Oxford"
 url                      : https://dattasiddhartha-3.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dattasiddhartha-3/dattasiddhartha-3.github.io"
@@ -88,7 +88,7 @@ analytics:
 author:
   name             : "Siddhartha Datta"
   avatar           : "profile.jpg"
-  bio              : "Aspiring computational scientist."
+  bio              : "Computer Science PhD candidate at University of Oxford"
   location         : "Hong Kong"
   employer         :
   pubmed           : 
