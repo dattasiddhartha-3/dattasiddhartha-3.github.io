@@ -129,9 +129,9 @@ feature_row:
 ---
 
 
-##### Siddhartha Datta
+### Siddhartha Datta
 
-Currently a DPhil in Computer Science candidate at the University of Oxford funded by the Rhodes Scholarship. 
+Currently a DPhil in Computer Science candidate at the University of Oxford funded by the Rhodes Scholarship. I completed my BBA in Global Business in Hong Kong, worked with a few investment banks, developed an interest in machine learning, and look forward to testing today's waters for the future.
 
 ## Highlighted projects
 
