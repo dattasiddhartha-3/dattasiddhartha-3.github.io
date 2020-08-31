@@ -131,6 +131,8 @@ feature_row:
 
 ##### Siddhartha Datta
 
+Currently a DPhil in Computer Science candidate at the University of Oxford funded by the Rhodes Scholarship. 
+
 ## Highlighted projects
 
 {% include feature_row %}
