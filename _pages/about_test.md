@@ -5,7 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/github%20dashboard.jpg
 excerpt: >
-  A young computational scientist testing the waters of the future one project at a time.<br />
+  Welcome to a snapshot of my mind-<br />
 
 feature_row:
 
@@ -128,13 +128,9 @@ feature_row:
 
 ---
 
-### Siddhartha Datta
-
-This is mostly a snapshot of my thoughts and work, just a personal repository.
-
 ## Highlighted projects
 
 {% include feature_row %}
 
 
-###### Last updated: 24/06/2020 | [Archived projects](https://dattasiddhartha-3.github.io/portfolio/achived_projects/)
+###### Last updated: 31/08/2020 | [Archived projects](https://dattasiddhartha-3.github.io/portfolio/achived_projects/)
