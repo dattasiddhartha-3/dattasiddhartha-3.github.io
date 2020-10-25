@@ -2,6 +2,8 @@
 
 [Freenom domain service](https://my.freenom.com/clientarea.php?managedns=siddharthadatta.ml&domainid=1071305030); renewable every year
 
+[HTTPS / SSL secured by cloudfare](https://www.freecodecamp.org/news/free-https-c051ca570324/); free, but with custom nameservers (changed in freenom)
+
 [Code modification reference](http://archive.is/3TPas)
 
 Color schemes:
