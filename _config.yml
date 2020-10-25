@@ -89,11 +89,11 @@ author:
   name             : "Siddhartha Datta"
   avatar           : "profile.jpg"
   bio              : "Computer Science PhD candidate at University of Oxford"
-  location         : "Hong Kong"
+  location         : "Oxford, UK"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "sdatta@connect.ust.hk"
+  email            : ""
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,9 +103,9 @@ author:
   facebook         :
   foursquare       :
   github1           : "dattasiddhartha"
-  github2           : "dattasiddhartha-1"
-  github3           : "dattasiddhartha-3"
-  github4           : "dattasiddhartha-4"
+  github2           : 
+  github3           : 
+  github4           : 
   google_plus      :
   keybase          :
   instagram        :
