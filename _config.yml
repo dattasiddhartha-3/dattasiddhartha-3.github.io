@@ -17,7 +17,7 @@ title                    : "Siddhartha Datta | 戴克勤 | সিদ্ধার
 title_separator          : "-"
 name                     : &name "Siddhartha Datta"
 description              : &description "Computer Science PhD candidate at University of Oxford"
-url                      : https://dattasiddhartha-3.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://siddharthadatta.ml # https://dattasiddhartha-3.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dattasiddhartha-3/dattasiddhartha-3.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
