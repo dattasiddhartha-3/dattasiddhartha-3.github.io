@@ -13,7 +13,7 @@ sidebar:
 
 ###### _Expand/Collapse items on this page_
 
-## Formal paper submissions
+## Papers
 
 <details>
   <summary><b><small>S. Datta, Y. Yang. 2020. Submitted. Defense against domain-adapted adversarial attacks</small></b></summary>
@@ -65,7 +65,7 @@ than needed, further suppressing the possibility for drug resistance. The work i
   
 </details>
 
-## More Papers
+## ... And More Papers
 
 <details>
   <summary><b><small> <a href="https://drive.google.com/open?id=1aO8_OP38dIkf1GFMKMQfabVm2Y31pLnA">Trade Network Analysis of Exports Loss due to Internal Political Events</a> </small></b></summary>
@@ -95,4 +95,15 @@ than needed, further suppressing the possibility for drug resistance. The work i
 <details>
   <summary><b><small> <a href="https://drive.google.com/open?id=17WZ1hRXWdA-ppuXmkyBdVcu26os3wALx">AIDS Epidemic Simulation with Adjustment for Decision-making from neural ECoG data</a> </small></b></summary>
   <!--<small></small>-->
+</details>
+
+## Teaching
+
+<details>
+  <summary><b><small> Computer Security, Michaelmas Term 2020, Oxford </small></b></summary>
+
+<small>
+<a href="https://drive.google.com/file/d/10w3lGe2nV9QJ1Xn7U74sf9DYS4SAadL8/view?usp=sharing">[Week 4]</a>
+</small>
+  
 </details>
