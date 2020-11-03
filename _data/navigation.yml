@@ -1,10 +1,10 @@
 # main links links
 main:
 
-  - title: "Research Experience"
+  - title: "Work"
     url: /publications/
     
-  - title: "Personal Background"
+  - title: "Play"
     url: /background/
     
 resume:
@@ -22,6 +22,8 @@ resume:
 
   - title: "Lab contributions"
     children:
+       - title: "Human-Centered Computing Group, University of Oxford (2020-)"
+         url: "https://www.cs.ox.ac.uk/people/siddhartha.datta/"
        - title: "Department of Information Systems, HKUST (2019-20)"
          url: "https://drive.google.com/open?id=1O5hYeC3roV7LVDLaCoXXFBqwLPmykK9oP0kNpe-LXGQ"
        - title: "Language and Children Development Lab, UCB (2018)"
