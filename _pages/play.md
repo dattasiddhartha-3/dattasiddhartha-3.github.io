@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /background/
+permalink: /play/
 author_profile: true
 ---
 
