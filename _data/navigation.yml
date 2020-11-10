@@ -2,10 +2,10 @@
 main:
 
   - title: "Work"
-    url: /publications/
+    url: /work/
     
   - title: "Play"
-    url: /background/
+    url: /play/
     
 resume:
 
