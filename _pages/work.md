@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /publications/
+permalink: /work/
 author_profile: false
 sidebar:
   nav: "resume"
