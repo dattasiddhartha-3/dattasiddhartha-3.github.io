@@ -118,5 +118,9 @@ than needed, further suppressing the possibility for drug resistance. The work i
 <small>
 <a href="https://drive.google.com/file/d/1SOdnEiUMXMbqe0r25Yo1Ylb6t7xua7Bl/view?usp=sharing">[Special Topics: Adversarial Attacks]</a>
 </small>
+
+<small>
+<a href="https://drive.google.com/file/d/1BQhkROe7f0IUM8x5vcYFkRlkJk5kejFU/view?usp=sharing">[Week 8]</a>
+</small>
   
 </details>
