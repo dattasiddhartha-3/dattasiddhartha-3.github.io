@@ -8,20 +8,6 @@ excerpt: >
   Welcome to my mind's snapshot 👀<br />
 
 feature_row:
-
-  - image_path: https://github.com/dattasiddhartha/GIFShop-Wizard/raw/master/vision/fast_neural_style_transfer/videos/FST.gif?raw=true
-    alt: "customizable"
-    title: "Dialogue-based automated image editing"
-    excerpt: "
-    GIF-editing chatbot with computer vision functionality.\n
-    
-    > [[code]](https://github.com/dattasiddhartha/GIFShop-Wizard)\n
-    
-   > Messenger bot, dialogue facilitated by quick reply buttons to execute modularized vision functionality (fast style transfer, segmented style transfer, CycleGAN, first order motion transfer, foreground object removal).
-"
-    url: "https://github.com/dattasiddhartha/GIFShop-Wizard"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
     
   - image_path: https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/e253ebdepson_goggles_lq.PNG
     alt: "customizable"
@@ -72,7 +58,21 @@ feature_row:
     url: "https://dattasiddhartha-3.github.io/portfolio/10001breakupbot/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
- 
+
+  - image_path: https://github.com/dattasiddhartha/GIFShop-Wizard/raw/master/vision/fast_neural_style_transfer/videos/FST.gif?raw=true
+    alt: "customizable"
+    title: "Dialogue-based automated image editing"
+    excerpt: "
+    GIF-editing chatbot with computer vision functionality.\n
+    
+    > [[code]](https://github.com/dattasiddhartha/GIFShop-Wizard)\n
+    
+   > Messenger bot, dialogue facilitated by quick reply buttons to execute modularized vision functionality (fast style transfer, segmented style transfer, CycleGAN, first order motion transfer, foreground object removal).
+"
+    url: "https://github.com/dattasiddhartha/GIFShop-Wizard"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+
   - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/armusic.png
     alt: "100% fre4e"
     title: "Music composition through object-impact detection"
@@ -117,7 +117,8 @@ feature_row:
     excerpt: "
     Contributed (1) quantitative framework for evaluating obfuscated code; (2) privacy-preserving system that uses seq2seq models to obfuscate plaintext and execute obfuscated ciphertext.\n
     
-    > [[arXiv]](https://arxiv.org/pdf/1909.01837.pdf)\n
+    > [[arXiv]](https://arxiv.org/pdf/1909.01837.pdf) 
+      [[code]](https://github.com/dattasiddhartha/DeepObfusCode)\n
     
     > Implemented reversible character-embedded encoder-decoder model that takes plaintext input, recursively generates obfuscated code to ensure the execution program can run the obfiscated code without error, then returns obfuscated code, h5 model files, and  char/word-to-index dictionaries\n
   
@@ -125,6 +126,57 @@ feature_row:
     url: "https://dattasiddhartha-3.github.io/portfolio/10002doc/"
     btn_class: "btn--primary"
     btn_label: "Learn more"     
+
+  - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/haiv5.PNG
+    alt: "100% fre3e"
+    title: "GAN-MC simulation for HIV sequence prediction"
+    excerpt: "
+    Predicting future HIV sequences given initial strains through use of Monte Carlo in mutation, and generative adversarial networks to prune predictions.\n
+    
+    > [[paper]](https://drive.google.com/open?id=1UwI3d3BeTJiHmEiT8r4QizsMBvl6ONaI) 
+[[poster]](https://drive.google.com/open?id=1kv3ASC_jhFq8qyhGdLw87ZcuxMC8Dpnu)\n
+
+> Applied mutations (addition, substitution, etc) through Monte Carlo upon listed initial strain sequences (source: Stanford HIV database); built adversarial network to generate adversarial sequences, and discriminator/classification network to identify valid subsequent sequences to prune MC-mutations\n
+
+> Further contribution of providing a mutation prediction algorithm is classifying HIV antiretroviral medication for specific strains of HIV, thus optimizing medication intake for patients in terms of viral drig resistance and elimination of virus
+    "
+    url: "https://dattasiddhartha-3.github.io/portfolio/10003haiv/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"     
+
+  - image_path: https://raw.githubusercontent.com/dattasiddhartha-3/dattasiddhartha-3.github.io/master/images/fingerprint.PNG
+    alt: "100% free2"
+    title: "Motif detection and clustering of franchise location network graphs"
+    excerpt: "Clustering network motifs of successful franchise locations, to consequently identify franchise expansion patterns.\n
+    
+    > [[code]](https://github.com/dattasiddhartha-1/Berkeley-Demand-Enterprises) 
+    [[slides]](https://drive.google.com/open?id=1aOQiZsVpe2V5yjKr-_aAqeqCny1E2izo)\n
+    
+     > Hybrid implementation of motif-detection, bridge-detection, and clustering algorithms to yield sequential coordinates of geographical locations depending on category of product/business, based on network de-anonymization framework\n
+  
+  > Developed REST API to run algorithm and pass JSON-formatted output to Ruby on Rails frontend\n
+  
+  > Contributions of this work in the use of network graphs in time-independent pattern interpolation, recursive backtesting method of running/validating the motifs through training/testing franchises\n
+    "
+    url: "https://dattasiddhartha-3.github.io/portfolio/10002locationfingerprinting/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"     
+
+  - image_path: https://raw.githubusercontent.com/dattasiddhartha/neurocogpy/master/images/ts_image.PNG
+    alt: "100% fre3e"
+    title: "neurocogpy"
+    excerpt: "
+    Open-sourced electrophysiological signal visualization library built for Python\n
+    
+    > [[library]](https://github.com/dattasiddhartha/neurocogpy)\n
+
+    > Defined modules/functions for general-purpose data processing, analysis and modeling of ECoG signal data, including parsing of MATLAB files into Python, different feature engineering techniques for multi-electrode time series data, different visualization techniques, and pre-built class-based decision-making classification models
+    "
+    url: "https://github.com/dattasiddhartha/neurocogpy"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+
+
 
 ---
 
