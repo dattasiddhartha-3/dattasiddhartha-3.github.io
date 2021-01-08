@@ -13,24 +13,39 @@ sidebar:
 
 ###### _Expand/Collapse items on this page_
 
+
 ## Papers
 
 <details>
-  <summary><b><small>S. Datta, Y. Yang. 2020. Submitted. Defense against domain-adapted adversarial attacks</small></b></summary>
+  <summary><b><small>S. Datta. 2021. Learn2Weight: Weights Transfer Defense against Similar-domain Adversarial Attacks. Under Review In International Conference on Learning Representations</small></b></summary>
 
-  <small>A novel defense algorithm to counter the attack we proposed; details to be released soon.</small>
+  <small></small>
   
 </details>
 
 <details>
-  <summary><b><small>S. Datta, Y. Yang. 2019. Submitted. <a href="https://drive.google.com/open?id=1O5hYeC3roV7LVDLaCoXXFBqwLPmykK9oP0kNpe-LXGQ">Adversarial attack optimization against crossdomain classification models</a></small></b></summary>
+  <summary><b><small>S. Datta, D. Alonso, P. Ferreira. 2021. Fast power spectrum interpolation with ensembling networks. Under Review In Monthly Notices of the Royal Astronomical Society</small></b></summary>
 
-  <small>Blackbox attack models used to put focus on querying labels of their victim’s model by passing in inputs, and training attack algorithms based on fooled labels. Our initial (and proven) hypothesis is that there is no real need for an attacker to be able to interact with the victim model and should be able to perform a successful “blind” blackbox attack model. Thus we varied different configurations of attack, including domain similarity, different attack algorithms, different model architectures, etc. What we found was that we can leverage domain adaptation to execute a successful blind blackbox attack on text classification models.</small>
+  <small></small>
   
 </details>
 
 <details>
-  <summary><b><small>S. Datta. 2019. Submitted. <a href="https://arxiv.org/abs/1909.01837">DeepObfusCode: Source Code Obfuscation Through Sequence-to-Sequence Networks</a> In ICASSP 2020</small></b></summary>
+  <summary><b><small>S. Datta, K. Kollnig. 2021. GreaseDroid: A Paradigm Shift in Mobile App Dark Patterns. Under Review In ACM CHI Conference on Human Factors in Computing Systems Late-Breaking Work</small></b></summary>
+
+  <small></small>
+  
+</details>
+
+<details>
+  <summary><b><small>S. Datta. 2021. GIFShop Wizard: Dialogue-based Object-oriented Video-editing. Under Review In ACM CHI Conference on Human Factors in Computing Systems Late-Breaking Work</small></b></summary>
+
+  <small></small>
+  
+</details>
+
+<details>
+  <summary><b><small>S. Datta. 2021. Accepted. <a href="https://arxiv.org/abs/1909.01837">DeepObfusCode: Source Code Obfuscation Through Sequence-to-Sequence Networks</a>. In Advances in Intelligent Systems and Computing</small></b></summary>
 
   <small>The paper explores a novel methodology in source code obfuscation through the application of text-based recurrent neural network (RNN) encoder-decoder models in ciphertext generation and key generation. Sequence-to-sequence models are incorporated into the model architecture to generate obfuscated code, generate the deobfuscation key, and live execution. Quantitative benchmark comparison to existing obfuscation methods indicate significant improvement in stealth and execution cost for the proposed solution, and experiments regarding the model's properties yield positive results regarding its character variation, dissimilarity to the original codebase, and consistent length of obfuscated code.</small>
   
@@ -121,6 +136,22 @@ than needed, further suppressing the possibility for drug resistance. The work i
 
 <small>
 <a href="https://drive.google.com/file/d/1BQhkROe7f0IUM8x5vcYFkRlkJk5kejFU/view?usp=sharing">[Week 8]</a>
+</small>
+  
+</details>
+
+<details>
+  <summary><b><small> Advanced Security, Hilary Term 2021, Oxford </small></b></summary>
+
+<small>
+</small>
+  
+</details>
+
+<details>
+  <summary><b><small> Networks, Hilary Term 2021, Oxford </small></b></summary>
+
+<small>
 </small>
   
 </details>
