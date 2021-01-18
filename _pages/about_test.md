@@ -181,7 +181,7 @@ feature_row:
 ---
 
 
-### Siddhartha Datta
+### [Siddhartha Datta](https://www.cs.ox.ac.uk/people/siddhartha.datta/)
 
 ...also misnomed as [Siddartha](https://www.rhodeshouse.ox.ac.uk/scholars/rhodes-scholars-class-of-2020/siddartha-datta/) or [Siddahartha](https://hcc.cs.ox.ac.uk/news/#/news/2020/10/02/hcc-dphil-new). Currently a DPhil in Computer Science candidate at the University of Oxford funded by the Rhodes Scholarship. I completed my BBA in Global Business in Hong Kong, worked with a few investment banks, developed an interest in machine learning, and look forward to testing today's waters for the future.
 
